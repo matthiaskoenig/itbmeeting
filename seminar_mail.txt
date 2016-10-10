@@ -78,10 +78,13 @@ Upcoming speakers:
 > Steuer, Ralf - Metabolic Networks, ITB-House4
 > Schreiber, Susanne (PI) - Computational Neurophysiology,ITB-Inv43
 > Ruegen, Marco - Metabolic Networks, ITB-House4
+> Romanczuk, Pawel - Collective Information Processing, ITB-House4
 > König, Matthias - Systems Biology of Liver, ITB-Inv43
 > Contreras, Susana - Computational Neurophysiology, ITB-House4
 > Paul Pfeiffer - Computational Neurophysiology, ITB-House4
 > Rose, Pia - Computational Neurophysiology, ITB-House4
+> Schieferstein, Natalie - Theoretical Neuroscience, ITB-House4
+> D'Albis, Tiziano - Theoretical Neuroscience, ITB-House4
 > Kuokkanen, Paula - Theoretical Neuroscience, ITB-Inv43
 > Thaben, Paul - Systems Biology of Aging and the Circadian Clock,ITB-House4
 > Faizi, Marjan - Metabolic Networks, ITB-House4
@@ -91,11 +94,11 @@ Upcoming speakers:
 > Relógio, Angela - Systems Biology of Cancer, ITB-House4
 > Ünal, Evrim Besray - Systems Biology of Molecular Networks, ITB-House4
 > Hammerstein, Peter (PI) - Evolution of Organismic Systems, ITB-Inv43
-> Chenkov, Nikolay - Theoretical Neuroscience, ITB-Inv43
 > Bordyugov Grischa - Molecular and Cellular Evolution, ITB-Inv43
 
 Past speakers:
 > Westermark, Pål (PI) - Systems Biology of Aging and the Circadian, ITB-Inv43
 > Wilmes, Katharina - Computational Neurophysiology, ITB-Inv43
 > Roemschied, Frederic - Computational Neurophysiology, ITB-Inv43
+> Chenkov, Nikolay - Theoretical Neuroscience, ITB-Inv43
 

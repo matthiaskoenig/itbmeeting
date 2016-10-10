@@ -1,0 +1,101 @@
+Dear colleaques,
+
+Good news, everyone! There will be an ITB meeting tomorrow
+
+-----------------------------------------------------------------------
+
+Speaker - Bordyugov Grischa - Molecular and Cellular Evolution, ITB-Inv43
+Title - Programming with closures for fun and profit
+Location - Seminar Room - Inv 43
+Time - 2pm
+
+-----------------------------------------------------------------------
+
+Additional news! 
+
+From this week on I will be responsible for the organisation of the 
+weekly ITB seminar. So please send your talk title from now on
+to `konigmatt@googlemail.com`.
+
+Could everybody check if they are on the list of speakers below,
+and if not send a short note so they can be added. 
+If you notice someone on the list who left the ITB for long 
+please let me know.
+
+It would be nice to make the talks available on our new ITB homepage
+https://itb.biologie.hu-berlin.de/wiki/start
+So please send a PDF after the talk to me (without any confidential 
+information) so I can publish the PDF
+
+All other rules for the seminar remain unchanged and can be 
+found below.
+
+The best
+Matthias
+
+-----------------------------------------------------------------------
+
+If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to your research (your own project or a very interesting finding of other groups). Please make sure that the video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement. Titles for the talks should be sent until sunday to me: konigmatt@googlemail.com
+
+Thank you for your effort to keep ITB a vital and exciting meeting point for theoretical and experimental biologists!
+
+-----------------------------------------------------------------------
+
+Upcoming speakers:
+
+> Witzel, Franziska - Systems Biology of Molecular Networks, ITB-House4
+> Brockmann, Dirk (PI) - Research on Complex Systems, ITB-Inv43
+> Benary, Manuela - Systems Biology of Molecular Networks, ITB-House4
+> Donoso, José R. - Theoretical Neuroscience, ITB-Inv43
+> Rukeia El-Athman  - Systems Biology of Cancer, ITB-House4
+> Baranov, Olga - Research on Complex Systems, ITB-Inv43
+> Bluethgen, Nils (PI) - Systems Biology of Molecular Networks,ITB-House4
+> Karin Winklhoefer - Inv43/House4
+> Fuhr, Luise - Systems Biology of Cancer, ITB-House4
+> Hammerstein, Peter (PI) - Evolution of Organismic Systems, ITB-Inv43
+> Gross, Torsten - Systems Biology of Molecular Networks, ITB-House4
+> Hesse, Janina - Computational Neurophysiology, ITB-Inv43
+> Westermark, Stefanie - Metabolic Networks, ITB-House4
+> Herzel, Hanspeter (PI) - Molecular and Cellular Evolution, ITB-Inv43
+> Klinger, Bertram - Systems Biology of Molecular Networks, ITB-House4
+> Holzbecher, André - Theoretical Neuroscience, ITB-Inv43
+> Knoop, Henning - Metabolic Networks, ITB-House4
+> Kremkow, Jens - Theoretical Neuroscience, ITB-Inv43
+> Lueck, Sarah - Systems Biology of Aging and the Circadian Clock,ITB-House4
+> Lauterbach, Elvira ITB-Inv43
+> Lehmann, Robert - Celldeg.com, ITB-House4
+> Evangelista, Roberta - Theoretical Neuroscience, ITB-Inv43
+> Meisig, Johannes - Systems Biology of Molecular Networks, ITB-House4
+> McColgan, Thomas - Theoretical Neuroscience, ITB-Inv43
+> Nikolai Genov - Systems Biology of Cancer, ITB-House4
+> Michalikova, Martina - Theoretical Neuroscience, ITB-Inv43
+> Reifenstein, Eric - Computational Neurophysiology, ITB-Inv43
+> Abreu, Mónica - Systems Biology of Cancer, ITB-House4
+> Schleimer, Jan-Hendrik - Computational Neurophysiology, ITB-Inv43
+> Remme, Michiel - Computational Neurophysiology and Neuroscience,ITB-Inv43
+> Rydenfelt, Mattias - Systems Biology of Molecular Networks, ITB-House4
+> Schmal, Christoph - Molecular and Cellular Evolution, ITB-Inv43
+> Steuer, Ralf - Metabolic Networks, ITB-House4
+> Schreiber, Susanne (PI) - Computational Neurophysiology,ITB-Inv43
+> Ruegen, Marco - Metabolic Networks, ITB-House4
+> König, Matthias - Systems Biology of Liver, ITB-Inv43
+> Contreras, Susana - Computational Neurophysiology, ITB-House4
+> Paul Pfeiffer - Computational Neurophysiology, ITB-House4
+> Rose, Pia - Computational Neurophysiology, ITB-House4
+> Kuokkanen, Paula - Theoretical Neuroscience, ITB-Inv43
+> Thaben, Paul - Systems Biology of Aging and the Circadian Clock,ITB-House4
+> Faizi, Marjan - Metabolic Networks, ITB-House4
+> Ananthasubramaniam, Bharath - Molecular and Cellular Evolution,ITB-Inv43
+> Zug, Roman - Evolution of Organismic Systems, ITB-Inv43
+> Uhlitz, Florian - Systems Biology of Molecular Networks,ITB-House4
+> Relógio, Angela - Systems Biology of Cancer, ITB-House4
+> Ünal, Evrim Besray - Systems Biology of Molecular Networks, ITB-House4
+> Hammerstein, Peter (PI) - Evolution of Organismic Systems, ITB-Inv43
+> Chenkov, Nikolay - Theoretical Neuroscience, ITB-Inv43
+> Bordyugov Grischa - Molecular and Cellular Evolution, ITB-Inv43
+
+Past speakers:
+> Westermark, Pål (PI) - Systems Biology of Aging and the Circadian, ITB-Inv43
+> Wilmes, Katharina - Computational Neurophysiology, ITB-Inv43
+> Roemschied, Frederic - Computational Neurophysiology, ITB-Inv43
+

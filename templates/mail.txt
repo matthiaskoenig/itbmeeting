@@ -13,12 +13,16 @@ Time - 2pm
 
 Additional news!
 
-The list of past talks and upcoming speakers is now available from
-https://itb.biologie.hu-berlin.de/wiki/itbmeeting/start
-If you want to share your slides these will be made available on the page.
+Past talks will be from now on available from
+https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
+with the option to share your slides.
 
-I also wanted to take a picture for the web page of the seminar
-tomorrow, so as many people as possible should attend (like always).
+If you are interested in last weeks talk, it is available here:
+Bordyugov, Grischa: Programming with closures for fun and profit
+https://itb.biologie.hu-berlin.de/wiki/_media/itbmeeting/2016-10-11_bordyugov.pdf
+
+In addition I wanted to take a picture for the web page tomorrow,
+so as many people as possible should attend (like always).
 
 The best
 Matthias

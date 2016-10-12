@@ -32,14 +32,14 @@ def create_homepage(talks, speakers, debug=False):
 
     text = template.render(talks=talks, speakers=speakers)
     if debug:
-        print('-*80')
+        print('*' * 80)
         print(text)
-        print('-*80')
+        print('*' * 80)
     with open("results/{}".format(tname), "w") as f:
         f.write(text)
 
 
-def create_mail(speakers):
+def create_mail(speakers, alumnis):
     """ Create updated mail.
 
     :param speakers:
@@ -47,10 +47,10 @@ def create_mail(speakers):
     """
     template = env.get_template('mail.txt')
 
-    text = template.render(talks=talks, speakers=speakers)
-    print('-*80')
+    text = template.render(speakers=speakers, alumnis=alumnis)
+    print('*' * 80)
     print(text)
-    print('-*80')
+    print('*' * 80)
     with open("results/mail.txt", "w") as f:
         f.write(text)
 
@@ -71,6 +71,7 @@ def read_yaml(name):
     stram = open(path, "r")
     data = yaml.load(stram)
     return data[name]
+
 
 def update_outreach():
     """ Update homepage and mail.
@@ -116,6 +117,7 @@ def update_outreach():
             talk[key] = value
 
     create_homepage(talks=talks, speakers=speakers)
+    create_mail(speakers=speakers, alumnis=alumnis)
 
 
 ##########################################################################################

@@ -8,6 +8,7 @@ for ITB Meeting
 
 from __future__ import print_function, division
 import yaml
+import warnings
 
 import sys
 reload(sys)
@@ -71,15 +72,31 @@ def read_yaml(name):
     data = yaml.load(stram)
     return data[name]
 
-if __name__ == "__main__":
+def update_outreach():
+    """ Update homepage and mail.
+
+    :return:
+    """
     talks = read_yaml('talks')
     speakers = read_yaml('speakers')
+    alumnis = read_yaml('alumnis')
+
+    people_dict = {}
+
+    def set_webaddress(person):
+        if person['web']:
+            web = person['web']
+            if not web.startswith('http'):
+                person['web'] = "https://itb.biologie.hu-berlin.de/" + web
+        return person
 
     for speaker in speakers:
-        if speaker['web']:
-            web = speaker['web']
-            if not web.startswith('http'):
-                speaker['web'] = "https://itb.biologie.hu-berlin.de/" + web
+        speaker = set_webaddress(speaker)
+        people_dict[speaker['name']] = speaker
+
+    for alumni in alumnis:
+        speaker = set_webaddress(speaker)
+        people_dict[alumni['name']] = alumni
 
     for talk in talks:
         # add slide link
@@ -90,16 +107,20 @@ if __name__ == "__main__":
             )
             talk['slides'] = url
 
-        # TODO: add speaker information
-
-    alumnis = read_yaml('alumnis')
-
-    # TODO: add speaker/alumni info to talks
-
-    # TODO: prepare links
-
-
+        # Add speaker info to talk
+        name = talk['name']
+        if name not in people_dict:
+            warnings.warn("Person does not exist: '{}'".format(name))
+        person = people_dict[name]
+        for key, value in person.iteritems():
+            talk[key] = value
 
     create_homepage(talks=talks, speakers=speakers)
+
+
+##########################################################################################
+if __name__ == "__main__":
+    update_outreach()
+
 
 

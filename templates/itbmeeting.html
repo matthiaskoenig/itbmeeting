@@ -1,0 +1,59 @@
+<html>
+<h1>Good news, everyone</h1>
+
+<h2>Past Seminars</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Title</th>
+        <th>Slides</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for talk in talks %}
+    <tr>
+        <td>{{ talk.date }}</td>
+        <td>{{ talk.name }}</td>
+        <td>{{ talk.title }}</td>
+        <td>{{ talk.slides }}</td>
+        <td></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+<h2>Upcoming Speakers</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Group</th>
+        <th>Location</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for speaker in speakers %}
+    <tr>
+        {% if speaker.web %}
+        <td><a href="{{ speaker.web }}">{{ speaker.name }}</a></td>
+        {% else %}
+        <td>{{ speaker.name }}</td>
+        {% endif %}
+        <td>{{ speaker.group }}</td>
+        <td>{{ speaker.location }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+<h2>Organisation</h2>
+If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to 
+your research (your own project or a very interesting finding of other groups). Please make sure that the 
+video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already 
+installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement. 
+Titles for the talks should be sent until sunday to: <a href="mailto:konigmatt@googlemail.com">Matthias König</a>
+
+Thank you for your effort to keep ITB a vital and exciting meeting point for theoretical and experimental biologists!
+</html>

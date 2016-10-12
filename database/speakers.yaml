@@ -3,76 +3,207 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/witzel
-
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       : http://rocs.hu-berlin.de/
-
     - name      : Benary, Manuela
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : ~benary
-
     - name      : Donoso, José R.
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       : wiki/members/donoso
-
     - name      : El-Athman, Rukeia
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       : wiki/members/elathman
-
-
-> Rukeia El-Athman  - Systems Biology of Cancer,
-
-> Baranov, Olga - Research on Complex Systems, ITB-Inv43
-> Bluethgen, Nils (PI) - Systems Biology of Molecular Networks,ITB-House4
-> Karin Winklhoefer - Inv43/House4
-> Fuhr, Luise - Systems Biology of Cancer, ITB-House4
-> Hammerstein, Peter (PI) - Evolution of Organismic Systems, ITB-Inv43
-> Gross, Torsten - Systems Biology of Molecular Networks, ITB-House4
-> Hesse, Janina - Computational Neurophysiology, ITB-Inv43
-> Westermark, Stefanie - Metabolic Networks, ITB-House4
-> Herzel, Hanspeter (PI) - Molecular and Cellular Evolution, ITB-Inv43
-> Klinger, Bertram - Systems Biology of Molecular Networks, ITB-House4
-> Holzbecher, André - Theoretical Neuroscience, ITB-Inv43
-> Knoop, Henning - Metabolic Networks, ITB-House4
-> Kremkow, Jens - Theoretical Neuroscience, ITB-Inv43
-> Lueck, Sarah - Systems Biology of Aging and the Circadian Clock,ITB-House4
-> Lauterbach, Elvira ITB-Inv43
-> Lehmann, Robert - Celldeg.com, ITB-House4
-> Evangelista, Roberta - Theoretical Neuroscience, ITB-Inv43
-> Meisig, Johannes - Systems Biology of Molecular Networks, ITB-House4
-> McColgan, Thomas - Theoretical Neuroscience, ITB-Inv43
-> Nikolai Genov - Systems Biology of Cancer, ITB-House4
-> Michalikova, Martina - Theoretical Neuroscience, ITB-Inv43
-> Reifenstein, Eric - Computational Neurophysiology, ITB-Inv43
-> Abreu, Mónica - Systems Biology of Cancer, ITB-House4
-> Schleimer, Jan-Hendrik - Computational Neurophysiology, ITB-Inv43
-> Remme, Michiel - Computational Neurophysiology and Neuroscience,ITB-Inv43
-> Rydenfelt, Mattias - Systems Biology of Molecular Networks, ITB-House4
-> Schmal, Christoph - Molecular and Cellular Evolution, ITB-Inv43
-> Steuer, Ralf - Metabolic Networks, ITB-House4
-> Schreiber, Susanne (PI) - Computational Neurophysiology,ITB-Inv43
-> Ruegen, Marco - Metabolic Networks, ITB-House4
-> Romanczuk, Pawel (PI) - Collective Information Processing, ITB-House4
-> König, Matthias (PI) - Systems Biology of Liver, ITB-Inv43
-> Contreras, Susana - Computational Neurophysiology, ITB-House4
-> Paul Pfeiffer - Computational Neurophysiology, ITB-House4
-> Rose, Pia - Computational Neurophysiology, ITB-House4
-> Schieferstein, Natalie - Theoretical Neuroscience, ITB-House4
-> D'Albis, Tiziano - Theoretical Neuroscience, ITB-House4
-> Kuokkanen, Paula - Theoretical Neuroscience, ITB-Inv43
-> Thaben, Paul - Systems Biology of Aging and the Circadian Clock,ITB-House4
-> Faizi, Marjan - Metabolic Networks, ITB-House4
-> Ananthasubramaniam, Bharath - Molecular and Cellular Evolution,ITB-Inv43
-> Zug, Roman - Evolution of Organismic Systems, ITB-Inv43
-> Uhlitz, Florian - Systems Biology of Molecular Networks,ITB-House4
-> Relógio, Angela - Systems Biology of Cancer, ITB-House4
-> Ünal, Evrim Besray - Systems Biology of Molecular Networks, ITB-House4
-> Hammerstein, Peter (PI) - Evolution of Organismic Systems, ITB-Inv43
-> Bordyugov, Grischa - Molecular and Cellular Evolution, ITB-Inv43
-
-~bordyugov
+    - name      : Baranov, Olga
+      group     : Research on Complex Systems
+      location  : ITB-Inv43
+      web       :
+    - name      : Bluethgen, Nils (PI)
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : http://www.sys-bio.net/
+    - name      : Winklhoefer, Karin
+      group     :
+      location  : Inv43/House4
+      web       : wiki/members/karinw/
+    - name      : Fuhr, Luise
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       : wiki/members/fuhr/
+    - name      : Hammerstein, Peter (PI)
+      group     : Evolution of Organismic Systems
+      location  : ITB-Inv43
+      web       : ~peter
+    - name      : Gross, Torsten
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/grosstor
+    - name      : Hesse, Janina
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       : ~hesse
+    - name      : Westermark, Stefanie
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Herzel, Hanspeter (PI)
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : wiki/members/herzel
+    - name      : Klinger, Bertram
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/klinger
+    - name      : Holzbecher, André
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Knoop, Henning
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Kremkow, Jens
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Lueck, Sarah
+      group     : Systems Biology of Aging and the Circadian Clock
+      location  : ITB-House4
+      web       :
+    - name      : Lauterbach, Elvira
+      group     :
+      location  : ITB-Inv43
+      web       :
+    - name      : Lehmann, Robert
+      group     : Celldeg.com
+      location  : ITB-House4
+      web       :
+    - name      : Evangelista, Roberta
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Meisig, Johannes
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : McColgan, Thomas
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Nikolai Genov
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Michalikova, Martina
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Reifenstein, Eric
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       :
+    - name      : Abreu, Mónica
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       :
+    - name      : Remme, Michiel
+      group     : Computational Neurophysiology and Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Rydenfelt, Mattias
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Schmal, Christoph
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       :
+    - name      : Steuer, Ralph (PI)
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Schreiber, Susanne (PI)
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       :
+    - name      : Ruegen, Marco
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Romanczuk, Pawel (PI)
+      group     : Collective Information Processing
+      location  : ITB-House4
+      web       :
+    - name      : König, Matthias (PI)
+      group     : Systems Biology of Liver
+      location  : ITB-House4
+      web       : wiki/groups/koenig
+    - name      : Contreras, Susana
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Paul Pfeiffer
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Rose, Pia
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Schieferstein, Natalie
+      group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : D'Albis, Tiziano
+      group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : Kuokkanen, Paula
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Thaben, Paul
+      group     : Systems Biology of Aging and the Circadian Clock
+      location  : ITB-House4
+      web       :
+    - name      : Faizi, Marjan
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Ananthasubramaniam, Bharath
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       :
+    - name      : Zug, Roman
+      group     : Evolution of Organismic Systems
+      location  : ITB-Inv43
+      web       :
+    - name      : Uhlitz, Florian
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Relógio, Angela
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Ünal, Evrim Besray
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-Inv43
+      web       :
+    - name      : Hammerstein, Peter (PI)
+      group     : Evolution of Organismic Systems
+      location  : ITB-House4
+      web       :
+    - name      : Bordyugov, Grischa
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : ~bordyugov

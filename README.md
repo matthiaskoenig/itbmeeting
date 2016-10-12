@@ -18,3 +18,12 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting
 ## General
 Keep lists up-to-date
 - `speakers.yaml`, `talks.yaml`, `alumni.yaml`
+
+
+## TODO:
+* create mail
+* create homepage
+
+## Helpers
+* Screenshots in firefox via `screenshot` in developer tools
+* convert series of png to one pdf `convert *.png talk.pdf`

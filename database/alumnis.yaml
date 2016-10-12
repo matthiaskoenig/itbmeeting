@@ -3,15 +3,12 @@ alumnis:
     - name      : Westermark, Pål (PI)
       group     : Systems Biology of Aging and the Circadian
       web       : wiki/members/westerm
-
     - name      : Wilmes, Katharina
       group     : Computational Neurophysiology
       web       : ~wilmes
-
     - name      : Roemschied, Frederic
       group     : Computational Neurophysiology
       web       : wiki/members/frederic
-
     - name      : Chenkov, Nikolay
       group     : Theoretical Neuroscience
       web       : wiki/members/nikolay

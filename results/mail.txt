@@ -13,19 +13,25 @@ Time - 2pm
 
 Additional news!
 
-The list of past talks and upcoming speakers is now available from
-https://itb.biologie.hu-berlin.de/wiki/itbmeeting/start
-If you want to share your slides these will be made available on the page.
+Past talks will be from now on available from
+https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
+with the option to share your slides.
 
-I also wanted to take a picture for the web page of the seminar
-tomorrow, so as many people as possible should attend (like always).
+If you are interested in last weeks talk, it is available here:
+Bordyugov, Grischa: Programming with closures for fun and profit
+https://itb.biologie.hu-berlin.de/wiki/_media/itbmeeting/2016-10-11_bordyugov.pdf
+
+In addition I wanted to take a picture for the web page tomorrow,
+so as many people as possible should attend (like always).
 
 The best
 Matthias
 
 -----------------------------------------------------------------------
 
-If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to your research (your own project or a very interesting finding of other groups). Please make sure that the video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement. Titles for the talks should be sent until sunday to me: konigmatt@googlemail.com
+If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to your research (your own project or a very interesting finding of other groups). Please make sure that the video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement.
+
+Titles for the talks should be sent until Sunday to me: konigmatt@googlemail.com
 
 Thank you for your effort to keep ITB a vital and exciting meeting point for theoretical and experimental biologists!
 
@@ -72,6 +78,7 @@ Romanczuk, Pawel (PI)  - Collective Information Processing - ITB-House4
 König, Matthias (PI)  - Systems Biology of Liver - ITB-House4
 Contreras, Susana  - Computational Neurophysiology - ITB-House4
 Paul Pfeiffer  - Computational Neurophysiology - ITB-House4
+Schuppner, Rike-Benjamin  - System Administration - ITB-House4
 Rose, Pia  - Computational Neurophysiology - ITB-House4
 Schieferstein, Natalie  - Theoretical Neuroscience - ITB-House4
 D'Albis, Tiziano  - Theoretical Neuroscience - ITB-House4

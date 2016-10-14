@@ -66,11 +66,38 @@
 If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to 
 your research (your own project or a very interesting finding of other groups). Please make sure that the 
 video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already 
-installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement. 
-Titles for the talks should be sent until sunday to: <a href="mailto:konigmatt@googlemail.com">Matthias König</a>
+installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement.
+</p>
+<p>
+    Titles for the talks should be sent until sunday to: <a href="mailto:konigmatt@googlemail.com">Matthias König</a>
 </p>
 
 <p>
 Thank you for your effort to keep ITB a vital and exciting meeting point for theoretical and experimental biologists!
 </p>
+
+<h2>Alumnis</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Group</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for speaker in alumnis %}
+    <tr>
+        <td><b>
+        {% if speaker.web %}
+        <a href="{{ speaker.web }}">{{ speaker.name }}</a>
+        {% else %}
+        {{ speaker.name }}
+        {% endif %}
+        </b></td>
+        <td>{{ speaker.group }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
 </html>

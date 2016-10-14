@@ -51,7 +51,6 @@ Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
 Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-Inv43
 Gross, Torsten  - Systems Biology of Molecular Networks - ITB-House4
 Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
-Westermark, Stefanie  - Metabolic Networks - ITB-House4
 Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
@@ -95,7 +94,8 @@ Bordyugov, Grischa  - Molecular and Cellular Evolution - ITB-Inv43
 
 Alumni:
 
-Westermark, Pål (PI) - Systems Biology of Aging and the Circadian - 
-Wilmes, Katharina - Computational Neurophysiology - 
-Roemschied, Frederic - Computational Neurophysiology - 
-Chenkov, Nikolay - Theoretical Neuroscience - 
+Westermark, Pål (PI) - Systems Biology of Aging and the Circadian
+Wilmes, Katharina - Computational Neurophysiology
+Roemschied, Frederic - Computational Neurophysiology
+Chenkov, Nikolay - Theoretical Neuroscience
+Westermark, Stefanie - Metabolic Networks

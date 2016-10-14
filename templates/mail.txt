@@ -46,5 +46,5 @@ Upcoming speakers:
 Alumni:
 
 {% for alumni in alumnis %}
-{{ alumni.name }} - {{ alumni.group }} - {{alumni.location}}
+{{ alumni.name }} - {{ alumni.group }}
 {% endfor %}

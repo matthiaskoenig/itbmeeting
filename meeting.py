@@ -20,7 +20,7 @@ env = Environment(loader=PackageLoader('meeting', 'templates'),
                   trim_blocks=True, lstrip_blocks=True)
 
 
-def create_homepage(talks, speakers, debug=False):
+def create_homepage(talks, speakers, alumnis, debug=False):
     """ Create the updated homepage from given talks and upcoming speakers.
 
     :param talks:
@@ -30,7 +30,7 @@ def create_homepage(talks, speakers, debug=False):
     tname = 'itbmeeting.html'
     template = env.get_template(tname)
 
-    text = template.render(talks=talks, speakers=speakers)
+    text = template.render(talks=talks, speakers=speakers, alumnis=alumnis)
     if debug:
         print('*' * 80)
         print(text)
@@ -116,7 +116,7 @@ def update_outreach():
         for key, value in person.iteritems():
             talk[key] = value
 
-    create_homepage(talks=talks, speakers=speakers)
+    create_homepage(talks=talks, speakers=speakers, alumnis=alumnis)
     create_mail(speakers=speakers, alumnis=alumnis)
 
 

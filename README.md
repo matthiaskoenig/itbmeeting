@@ -2,28 +2,23 @@
 Organisation of the Institute of Theoretical Biology (ITB) meeting
 at the Humboldt University Berlin
 
-Past meetings are available at
-https://itb.biologie.hu-berlin.de/wiki/itbmeeting
+The meeting homepage is available from
+https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 
-## Before seminar
-* get title from speaker till Sunday 
-* Monday: create & send email
-* Monday: send email reminder for next talk
-
-## After seminar
-* get slides
-* update `speakers.yaml` and `talks.yaml`
-* update [ITB meeting page](https://itb.biologie.hu-berlin.de/wiki/itbmeeting)
-
-## General
-Keep lists up-to-date
-- `speakers.yaml`, `talks.yaml`, `alumni.yaml`
+## Workflow
+* Until Sunday: Get title from speaker till Sunday 
+* Monday: Update & send emails (invitation & reminder for next speaker)
+* Tuesday after talk: 
+    * Update `speakers.yaml` & `talks.yaml` 
+    * Update homepage
+    * Send slide email 
+* If slides: update slides
 
 
-## TODO:
-* create mail
-* create homepage
+## Open Issues
+* crawl emails & web pages from ITB page
+* host on github
 
-## Helpers
-* Screenshots in firefox via `screenshot` in developer tools
+## Misc
+* screen shots in firefox via `screenshot` in developer tools
 * convert series of png to one pdf `convert *.png talk.pdf`

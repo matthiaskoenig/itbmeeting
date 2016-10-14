@@ -46,7 +46,7 @@ Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 Baranov, Olga  - Research on Complex Systems - ITB-Inv43
 Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
-Winklhoefer, Karin  - None - Inv43/House4
+Winklhoefer, Karin  - Administration - Inv43/House4
 Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
 Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-Inv43
 Gross, Torsten  - Systems Biology of Molecular Networks - ITB-House4
@@ -57,7 +57,7 @@ Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
 Knoop, Henning  - Metabolic Networks - ITB-House4
 Kremkow, Jens  - Theoretical Neuroscience - ITB-Inv43
 Lueck, Sarah  - Systems Biology of Aging and the Circadian Clock - ITB-House4
-Lauterbach, Elvira  - None - ITB-Inv43
+Lauterbach, Elvira  - Administration - ITB-Inv43
 Lehmann, Robert  - Celldeg.com - ITB-House4
 Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv43
 Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4

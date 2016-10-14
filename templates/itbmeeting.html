@@ -39,6 +39,7 @@
 <table class="table">
     <thead>
     <tr>
+        <th>Predicted Date [*]</th>
         <th>Name</th>
         <th>Group</th>
         <th>Location</th>
@@ -47,6 +48,7 @@
     <tbody>
     {% for speaker in speakers %}
     <tr>
+        <td>{{ speaker.pdate }}</td>
         <td><b>
         {% if speaker.web %}
         <a href="{{ speaker.web }}">{{ speaker.name }}</a>
@@ -60,6 +62,10 @@
     {% endfor %}
     </tbody>
 </table>
+[*] Dates are predicted by skipping German holidays on Tuesdays in the python <code>holidays</code> package.
+Holiday breaks like over Christmas and local Berlin holidays are not accounted for and can result in changes of the final date of your
+presentation.
+
 
 <h2>Organisation</h2>
 <p>

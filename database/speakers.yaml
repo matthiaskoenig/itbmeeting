@@ -28,7 +28,7 @@ speakers:
       location  : ITB-House4
       web       : http://www.sys-bio.net/
     - name      : Winklhoefer, Karin
-      group     :
+      group     : Administration
       location  : Inv43/House4
       web       : wiki/members/karinw/
     - name      : Fuhr, Luise
@@ -72,7 +72,7 @@ speakers:
       location  : ITB-House4
       web       :
     - name      : Lauterbach, Elvira
-      group     :
+      group     : Administration
       location  : ITB-Inv43
       web       :
     - name      : Lehmann, Robert

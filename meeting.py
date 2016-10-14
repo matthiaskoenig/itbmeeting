@@ -14,6 +14,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+import datetime
+import holidays
 
 from jinja2 import Environment, PackageLoader
 env = Environment(loader=PackageLoader('meeting', 'templates'),
@@ -73,6 +75,31 @@ def read_yaml(name):
     return data[name]
 
 
+def get_next_dayofweek(d, weekday=1, skip_holidays=True):
+    """ Returns date of next tuesday after the given
+    date, if the date is not a holiday.
+        0 = Monday
+        1 = Tuesday
+        ...
+
+    :param date:
+    :return:
+    """
+    days_ahead = weekday - d.weekday()
+    if days_ahead <= 0:  # Target day already happened this week
+        days_ahead += 7
+    # this is the next possible date
+    next_d = d + datetime.timedelta(days_ahead)
+
+    # skip all the German holidays
+    if skip_holidays:
+        de_holidays = holidays.Germany()
+        while next_d in de_holidays:
+            next_d = next_d + datetime.timedelta(7)
+
+    return next_d
+
+
 def update_outreach():
     """ Update homepage and mail.
 
@@ -91,8 +118,17 @@ def update_outreach():
                 person['web'] = "https://itb.biologie.hu-berlin.de/" + web
         return person
 
-    for speaker in speakers:
+    date = datetime.date.today()
+    tuesday = 1
+    for k, speaker in enumerate(speakers):
         speaker = set_webaddress(speaker)
+
+        # get expected date of the talk (k+1 Tuesdays from now)
+        date = get_next_dayofweek(date, weekday=tuesday)
+
+        speaker['pdate'] = date
+
+        # add to people dict
         people_dict[speaker['name']] = speaker
 
     for alumni in alumnis:
@@ -122,6 +158,9 @@ def update_outreach():
 
 ##########################################################################################
 if __name__ == "__main__":
+    print('-' * 80)
+    print('Updating ITBmeeting information')
+    print('-' * 80)
     update_outreach()
 
 

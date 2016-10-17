@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c1546c-2e04-40ca-85bc-33c41165cf66" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/misc.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/speakers.yaml" afterPath="$PROJECT_DIR$/database/speakers.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/talks.yaml" afterPath="$PROJECT_DIR$/database/talks.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/itbmeeting.html" afterPath="$PROJECT_DIR$/results/itbmeeting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results/mail.txt" afterPath="$PROJECT_DIR$/results/mail.txt" />
     </list>
     <ignored path="HU-Seminar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,26 +20,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="speakers.yaml" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/database/speakers.yaml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="516">
-                    <caret line="205" column="18" selection-start-line="205" selection-start-column="18" selection-end-line="205" selection-end-column="35" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -74,8 +52,8 @@
       <file leaf-file-name="mail.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/results/mail.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+            <state relative-caret-position="198">
+              <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -168,11 +146,12 @@
         <option value="$PROJECT_DIR$/templates/itbmeeting.html" />
         <option value="$PROJECT_DIR$/meeting.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/database/speakers.yaml" />
-        <option value="$PROJECT_DIR$/database/speakers.yaml" />
         <option value="$PROJECT_DIR$/database/talks.yaml" />
         <option value="$PROJECT_DIR$/database/talks.yaml" />
         <option value="$PROJECT_DIR$/results/mail.txt" />
+        <option value="$PROJECT_DIR$/database/speakers.yaml" />
+        <option value="$PROJECT_DIR$/database/speakers.yaml" />
+        <option value="$PROJECT_DIR$/database/misc.yaml" />
       </list>
     </option>
   </component>
@@ -622,7 +601,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/itbmeeting.html" />
     <entry file="file://$PROJECT_DIR$/results/itbmeeting.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
@@ -891,16 +869,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/speakers.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="205" column="18" selection-start-line="205" selection-start-column="18" selection-end-line="205" selection-end-column="35" />
+        <state relative-caret-position="197">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/misc.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/mail.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        <state relative-caret-position="198">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
           <folding />
         </state>
       </provider>

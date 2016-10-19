@@ -1,26 +1,28 @@
-Dear colleagues,
+Dear colleaques,
 
 Good news, everyone! There will be an ITB meeting tomorrow
 
 -----------------------------------------------------------------------
 
-Speaker - Witzel, Franziska
-Title - Oncogene-induced Senescence
-Location - ITB-House4
+Speaker -
+Title -
+Location -
 Time - 2pm
 
 -----------------------------------------------------------------------
 
 Additional news!
 
-There is now an ITB Meeting homepage available at
+Past talks will be from now on available from
 https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
-Slides of past talks will be made available there
-if speakers want to share them.
+with the option to share your slides.
 
-See for instance last weeks talk
+If you are interested in last weeks talk, it is available here:
 Bordyugov, Grischa: Programming with closures for fun and profit
 https://itb.biologie.hu-berlin.de/wiki/_media/itbmeeting/2016-10-11_bordyugov.pdf
+
+In addition I wanted to take a picture for the web page tomorrow,
+so as many people as possible should attend (like always).
 
 The best
 Matthias
@@ -43,7 +45,6 @@ Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 Baranov, Olga  - Research on Complex Systems - ITB-Inv43
 Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
-Winklhoefer, Karin  - Administration - Inv43/House4
 Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
 Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-Inv43
 Gross, Torsten  - Systems Biology of Molecular Networks - ITB-House4

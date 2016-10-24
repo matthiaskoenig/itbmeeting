@@ -86,7 +86,7 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     :return:
     """
     days_ahead = weekday - d.weekday()
-    if days_ahead <= 0:  # Target day already happened this week
+    if days_ahead <= 1:  # Target day already happened this week (or monday)
         days_ahead += 7
     # this is the next possible date
     next_d = d + datetime.timedelta(days_ahead)
@@ -148,9 +148,10 @@ def update_outreach():
         name = talk['name']
         if name not in people_dict:
             warnings.warn("Person does not exist: '{}'".format(name))
-        person = people_dict[name]
-        for key, value in person.iteritems():
-            talk[key] = value
+        person = people_dict.get(name, None)
+        if person:
+            for key, value in person.iteritems():
+                talk[key] = value
 
     create_homepage(talks=talks, speakers=speakers, alumnis=alumnis)
     create_mail(speakers=speakers, alumnis=alumnis)

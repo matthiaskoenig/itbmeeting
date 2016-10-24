@@ -1,8 +1,4 @@
 speakers:
-    - name      : Brockmann, Dirk (PI)
-      group     : Research on Complex Systems
-      location  : ITB-Inv43
-      web       : http://rocs.hu-berlin.de/
     - name      : Benary, Manuela
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -203,3 +199,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/witzel
+    - name      : Brockmann, Dirk (PI)
+      group     : Research on Complex Systems
+      location  : ITB-Inv43
+      web       : http://rocs.hu-berlin.de/

@@ -40,7 +40,7 @@ Upcoming speakers:
 [{{ speaker.pdate}}] {{ speaker.name }}  - {{ speaker.group }} - {{ speaker.location }}
 {% endfor %}
 
-Alumni:
+Meeting Alumni:
 
 {% for alumni in alumnis %}
 {{ alumni.name }} - {{ alumni.group }}

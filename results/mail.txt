@@ -1,4 +1,4 @@
-Dear colleaques,
+Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow
 
@@ -88,7 +88,7 @@ Upcoming speakers:
 [2017-10-17] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2017-10-24] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
 
-Alumni:
+Meeting Alumni:
 
 Westermark, Pål (PI) - Systems Biology of Aging and the Circadian
 Wilmes, Katharina - Computational Neurophysiology

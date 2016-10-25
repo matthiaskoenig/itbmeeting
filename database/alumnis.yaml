@@ -15,3 +15,11 @@ alumnis:
     - name      : Westermark, Stefanie
       group     : Metabolic Networks
       web       :
+    - name      : Lehmann, Robert
+      group     : Celldeg.com
+      location  : ITB-House4
+      web       :
+    - name      : Ruegen, Marco
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :

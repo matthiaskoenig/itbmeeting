@@ -1,41 +1,11 @@
 <html>
 <h1>Good news, everyone</h1>
+<a href="#speakers">Upcoming Speakers</a><br />
+<a href="#seminars">Past Seminars</a><br />
+<a href="#organisation">Organisation</a><br />
+<a href="#alumni">Meeting Alumni</a>
 
-<h2>Past Seminars</h2>
-<table class="table">
-    <thead>
-    <tr>
-        <th>Date</th>
-        <th>Speaker</th>
-        <th>Title</th>
-        <th>Slides</th>
-    </tr>
-    </thead>
-    <tbody>
-    {% for talk in talks %}
-    <tr>
-        <td>{{ talk.date }}</td>
-        <td>
-            <b>
-            {% if talk.web %}
-            <a href="{{ talk.web }}">{{ talk.name }}</a><br />
-            {% else %}
-            {{ talk.name }}<br />
-            {% endif %}
-            </b>    
-            {% if talk.group %}
-            {{ talk.group }}
-            {% endif %}
-        </td>
-        <td>{{ talk.title }}</td>
-        <td>{{ talk.slides }}</td>
-        <td></td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
-
-<h2>Upcoming Speakers</h2>
+<h2 id="speakers">Upcoming Speakers</h2>
 <table class="table">
     <thead>
     <tr>
@@ -66,8 +36,42 @@
 Holiday breaks like over Christmas and local Berlin holidays are not accounted for and can result in changes of the final date of your
 presentation.
 
+<h2 id="seminars">Past Seminars</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Title</th>
+        <th>Slides</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for talk in talks %}
+    <tr>
+        <td>{{ talk.date }}</td>
+        <td>
+            <b>
+            {% if talk.web %}
+            <a href="{{ talk.web }}">{{ talk.name }}</a><br />
+            {% else %}
+            {{ talk.name }}<br />
+            {% endif %}
+            </b>
+            {% if talk.group %}
+            {{ talk.group }}
+            {% endif %}
+        </td>
+        <td>{{ talk.title }}</td>
+        <td>{{ talk.slides }}</td>
+        <td></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
 
-<h2>Organisation</h2>
+
+<h2 id="organisation">Organisation</h2>
 <p>
 If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to 
 your research (your own project or a very interesting finding of other groups). Please make sure that the 
@@ -82,7 +86,7 @@ installed in the seminar room. If you are unable to give the talk at the date in
 Thank you for your effort to keep ITB a vital and exciting meeting point for theoretical and experimental biologists!
 </p>
 
-<h2>Meeting Alumni</h2>
+<h2 id="alumni">Meeting Alumni</h2>
 <table class="table">
     <thead>
     <tr>

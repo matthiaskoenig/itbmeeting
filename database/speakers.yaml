@@ -63,10 +63,6 @@ speakers:
       group     : Administration
       location  : ITB-Inv43
       web       :
-    - name      : Lehmann, Robert
-      group     : Celldeg.com
-      location  : ITB-House4
-      web       :
     - name      : Evangelista, Roberta
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -118,10 +114,6 @@ speakers:
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
       location  : ITB-Inv43
-      web       :
-    - name      : Ruegen, Marco
-      group     : Metabolic Networks
-      location  : ITB-House4
       web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing

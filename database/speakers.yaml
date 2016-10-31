@@ -1,8 +1,5 @@
 speakers:
-    - name      : Benary, Manuela
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : ~benary
+
     - name      : Donoso, José R.
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -195,3 +192,7 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       : http://rocs.hu-berlin.de/
+    - name      : Benary, Manuela
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : ~benary

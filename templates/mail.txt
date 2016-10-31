@@ -4,20 +4,17 @@ Good news, everyone! There will be an ITB meeting tomorrow
 
 -----------------------------------------------------------------------
 
-Speaker - Benjamin Maier
-Title - Flockworks: A class of dynamic network models for face-to-face interactions
-Location -  ITB-Inv43
+Speaker - Benary, Manuela
+Title - TBA
+Location -  ITB-House4
 Time - 2pm
-
-Studying the dynamics of face-to-face interaction networks is essential for a better understanding of contact mediated processes, contagion processes, and disease spreading. Recent findings using novel face-to-face measurements techniques with high temporal resolution indicate that on short time scales networks exhibit complex structures characterized by disconnected groups with high internal connectivity and typical size; effects that are masked by long time averages. We introduce a single parameter, minimal dynamic network model that naturally yields group formation, analyze its properties, and discuss how contagion phenomena are expected to behave on these types of temporal networks.
 
 -----------------------------------------------------------------------
 
-Additional news!
+Additional info!
 
-If you could not attend last weeks talk the slides are available at
-Witzel, Franziska: Oncogene-induced Senescence
-https://itb.biologie.hu-berlin.de/wiki/_media/itbmeeting/2016-10-18_witzel.pdf
+The dates the upcoming talks are only predicted, depending on holidays and speakers joining or leaving the ITB your date can shift.
+So please be aware of your date.
 
 The best
 Matthias

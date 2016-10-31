@@ -4,20 +4,17 @@ Good news, everyone! There will be an ITB meeting tomorrow
 
 -----------------------------------------------------------------------
 
-Speaker - Benjamin Maier
-Title - Flockworks: A class of dynamic network models for face-to-face interactions
-Location -  ITB-Inv43
+Speaker - Benary, Manuela
+Title - TBA
+Location -  ITB-House4
 Time - 2pm
-
-Studying the dynamics of face-to-face interaction networks is essential for a better understanding of contact mediated processes, contagion processes, and disease spreading. Recent findings using novel face-to-face measurements techniques with high temporal resolution indicate that on short time scales networks exhibit complex structures characterized by disconnected groups with high internal connectivity and typical size; effects that are masked by long time averages. We introduce a single parameter, minimal dynamic network model that naturally yields group formation, analyze its properties, and discuss how contagion phenomena are expected to behave on these types of temporal networks.
 
 -----------------------------------------------------------------------
 
-Additional news!
+Additional info!
 
-If you could not attend last weeks talk the slides are available at
-Witzel, Franziska: Oncogene-induced Senescence
-https://itb.biologie.hu-berlin.de/wiki/_media/itbmeeting/2016-10-18_witzel.pdf
+The dates the upcoming talks are only predicted, depending on holidays and speakers joining or leaving the ITB your date can shift.
+So please be aware of your date.
 
 The best
 Matthias
@@ -36,7 +33,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2016-11-01] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
 [2016-11-08] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 [2016-11-15] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2016-11-22] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
@@ -85,6 +81,7 @@ Upcoming speakers:
 [2017-10-10] Bordyugov, Grischa  - Molecular and Cellular Evolution - ITB-Inv43
 [2017-10-17] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2017-10-24] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
+[2017-10-31] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

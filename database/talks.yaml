@@ -1,8 +1,12 @@
 talks:
-#    - name      : Maier, Benjamin
-#      date      : 2016-10-25
-#      title     : "Flockworks: A class of dynamic network models for face-to-face interactions"
-#      slides    :
+    - name      : Benary, Manuela
+      date      : 2016-11-01
+      title     : Project proposal
+      slides    :
+    - name      : Maier, Benjamin
+      date      : 2016-10-25
+      title     : "Flockworks: A class of dynamic network models for face-to-face interactions"
+      slides    :
     - name      : Witzel, Franziska
       date      : 2016-10-18
       title     : Oncogene-induced Senescence

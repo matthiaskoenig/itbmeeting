@@ -1,9 +1,5 @@
 speakers:
 
-    - name      : Donoso, José R.
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       : wiki/members/donoso
     - name      : El-Athman, Rukeia
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -200,3 +196,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : ~benary
+    - name      : Donoso, José R.
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       : wiki/members/donoso

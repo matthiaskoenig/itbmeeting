@@ -4,17 +4,18 @@ Good news, everyone! There will be an ITB meeting tomorrow
 
 -----------------------------------------------------------------------
 
-Speaker - Benary, Manuela
+Speaker - Donoso, José R.
 Title - TBA
-Location -  ITB-House4
+Location -  ITB-Inv43
 Time - 2pm
 
 -----------------------------------------------------------------------
 
-Additional info!
+Additional Info!
 
-The dates the upcoming talks are only predicted, depending on holidays and speakers joining or leaving the ITB your date can shift.
-So please be aware of your date.
+El-Athman, Rukeia is not at the ITB at 15.11.2016, so
+we still need for someone switching talks with Rukeia.
+It would be great if anybody finds time to give a talk next week.
 
 The best
 Matthias
@@ -33,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2016-11-08] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 [2016-11-15] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2016-11-22] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
 [2016-11-29] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
@@ -83,6 +83,7 @@ Upcoming speakers:
 [2017-10-24] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2017-10-31] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
 [2017-11-07] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
+[2017-11-14] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 
 Meeting Alumni:
 

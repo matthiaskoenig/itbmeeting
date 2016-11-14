@@ -1,9 +1,6 @@
 speakers:
 
-    - name      : El-Athman, Rukeia
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       : wiki/members/elathman
+
     - name      : Baranov, Olga
       group     : Research on Complex Systems
       location  : ITB-Inv43
@@ -44,6 +41,10 @@ speakers:
       group     : Metabolic Networks
       location  : ITB-House4
       web       :
+    - name      : El-Athman, Rukeia
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       : wiki/members/elathman
     - name      : Kremkow, Jens
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -172,7 +173,7 @@ speakers:
       group     : Evolution of Organismic Systems
       location  : ITB-House4
       web       :
-    - name      : Upadhyay, Abhishek (PI)
+    - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
       web       :

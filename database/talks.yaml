@@ -1,4 +1,8 @@
 talks:
+    - name      : Donoso, José R.
+      date      : 2016-11-08
+      title     : Microvision in cyanobacteria (<a href="http://dx.doi.org/10.7554/eLife.12620">http://dx.doi.org/10.7554/eLife.12620</a>)
+      slides    : 2016-11-08_donoso.pdf
     - name      : Benary, Manuela
       date      : 2016-11-01
       title     : Project proposal

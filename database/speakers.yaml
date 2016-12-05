@@ -1,8 +1,5 @@
 speakers:
-    - name      : Bluethgen, Nils (PI)
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : http://www.sys-bio.net/
+
     - name      : Fuhr, Luise
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -195,3 +192,7 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       :
+    - name      : Bluethgen, Nils (PI)
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : http://www.sys-bio.net/

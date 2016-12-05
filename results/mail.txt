@@ -4,25 +4,13 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 
-<<<<<<< HEAD
-Speaker - Baranov, Olga
-Title - tba
-Location - ITB-Inv43
-=======
-Speaker - Bluethgen, Nils (PI)
-Title - TBA
+Speaker - Fuhr, Luise
+Title - Clock-genes and mitochondrial respiratory activity: Evidence of a reciprocal interplay.
 Location - ITB-House4
->>>>>>> c9d51469c896a9fc3a8a5129ebd62f20ef0068a7
 Time - 14.00
 
 -----------------------------------------------------------------------
 
-<<<<<<< HEAD
-Please be aware of your date and send the title until Sunday if it is
-your turn.
-
-=======
->>>>>>> c9d51469c896a9fc3a8a5129ebd62f20ef0068a7
 The best
 Matthias
 
@@ -40,7 +28,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2016-11-29] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2016-12-06] Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
 [2016-12-13] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-House4
 [2016-12-20] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
@@ -89,6 +76,7 @@ Upcoming speakers:
 [2017-11-07] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
 [2017-11-14] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
 [2017-11-21] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
+[2017-11-28] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

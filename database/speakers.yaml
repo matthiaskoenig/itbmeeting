@@ -1,10 +1,7 @@
 speakers:
 
 
-    - name      : Baranov, Olga
-      group     : Research on Complex Systems
-      location  : ITB-Inv43
-      web       :
+
     - name      : Bluethgen, Nils (PI)
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -197,3 +194,7 @@ speakers:
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       : wiki/members/donoso
+    - name      : Baranov, Olga
+      group     : Research on Complex Systems
+      location  : ITB-Inv43
+      web       :

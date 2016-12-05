@@ -4,16 +4,25 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 
+<<<<<<< HEAD
 Speaker - Baranov, Olga
 Title - tba
 Location - ITB-Inv43
+=======
+Speaker - Bluethgen, Nils (PI)
+Title - TBA
+Location - ITB-House4
+>>>>>>> c9d51469c896a9fc3a8a5129ebd62f20ef0068a7
 Time - 14.00
 
 -----------------------------------------------------------------------
 
+<<<<<<< HEAD
 Please be aware of your date and send the title until Sunday if it is
 your turn.
 
+=======
+>>>>>>> c9d51469c896a9fc3a8a5129ebd62f20ef0068a7
 The best
 Matthias
 

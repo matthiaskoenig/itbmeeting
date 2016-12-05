@@ -86,7 +86,7 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     :return:
     """
     days_ahead = weekday - d.weekday()
-    if days_ahead <= 1:  # Target day already happened this week (or monday)
+    if days_ahead < 1:  # Target day already happened this week (or monday)
         days_ahead += 7
     # this is the next possible date
     next_d = d + datetime.timedelta(days_ahead)

@@ -4,17 +4,14 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 
-Speaker - Gross, Torsten
-Title - Finding patterns in perturbation data that reveal an underlying network
+Speaker - Hesse, Janina
+Title - Trace your favorite drawings - getting around copy rights with inkscape
 Location - ITB-Inv43
 Time - 14.00
 
 -----------------------------------------------------------------------
 
-Additional information:
-Due to the holiday season the ITB meeting will make a short winter
-break and restart on 10. January 2017.
-Happy holidays and a good start in the next year to everyone.
+I wish everyone a happy and successful new year. See you all tomorrow.
 
 The best
 Matthias
@@ -33,7 +30,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2016-12-13] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
 [2017-01-10] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
 [2017-01-17] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 [2017-01-24] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
@@ -82,6 +78,7 @@ Upcoming speakers:
 [2017-11-28] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
 [2017-12-05] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2017-12-12] Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
+[2017-12-19] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
 
 Meeting Alumni:
 

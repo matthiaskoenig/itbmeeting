@@ -1,11 +1,19 @@
 talks:
+    - name      : Fuhr, Luise
+      date      : 2016-11-29
+      title     : "Clock-genes and mitochondrial respiratory activity: Evidence of a reciprocal interplay."
+      slides    :
+    - name      : Bluethgen, Nils (PI)
+      date      : 2016-11-29
+      title     : "Noise in cancer"
+      slides    :
     - name      : Baranov, Olga
       date      : 2016-11-22
-      title     : Real world networks
+      title     : "Real world networks"
       slides    :
     - name      : Donoso, José R.
       date      : 2016-11-08
-      title     : Microvision in cyanobacteria (<a href="http://dx.doi.org/10.7554/eLife.12620">http://dx.doi.org/10.7554/eLife.12620</a>)
+      title     : 'Microvision in cyanobacteria (<a href="http://dx.doi.org/10.7554/eLife.12620">http://dx.doi.org/10.7554/eLife.12620</a>)'
       slides    : 2016-11-08_donoso.pdf
     - name      : Benary, Manuela
       date      : 2016-11-01

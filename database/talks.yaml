@@ -1,4 +1,12 @@
 talks:
+    - name      : Hesse, Janina
+      date      : 2017-01-10
+      title     : "Trace your favorite drawings - getting around copy rights with inkscape"
+      slides    :
+    - name      : Gross, Torsten
+      date      : 2016-12-13
+      title     : "Finding patterns in perturbation data that reveal an underlying network"
+      slides    :
     - name      : Fuhr, Luise
       date      : 2016-11-29
       title     : "Clock-genes and mitochondrial respiratory activity: Evidence of a reciprocal interplay."

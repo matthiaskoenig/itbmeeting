@@ -4,14 +4,14 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 
-Speaker - Hesse, Janina
-Title - Trace your favorite drawings - getting around copy rights with inkscape
+Speaker - Herzel, Hanspeter (PI)
+Title - Modeling rhythms in cells, tissues, and organisms
 Location - ITB-Inv43
 Time - 14.00
 
 -----------------------------------------------------------------------
 
-I wish everyone a happy and successful new year. See you all tomorrow.
+See you all tomorrow.
 
 The best
 Matthias
@@ -30,7 +30,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-01-10] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
 [2017-01-17] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 [2017-01-24] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2017-01-31] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
@@ -79,6 +78,7 @@ Upcoming speakers:
 [2017-12-05] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2017-12-12] Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
 [2017-12-19] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
+[2018-01-02] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
 
 Meeting Alumni:
 

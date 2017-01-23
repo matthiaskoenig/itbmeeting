@@ -1,8 +1,4 @@
 speakers:
-    - name      : Herzel, Hanspeter (PI)
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       : wiki/members/herzel
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -195,3 +191,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-Inv43
       web       : ~hesse
+    - name      : Herzel, Hanspeter (PI)
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : wiki/members/herzel

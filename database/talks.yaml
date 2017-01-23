@@ -1,4 +1,8 @@
 talks:
+    - name      : Herzel, Hanspeter (PI)
+      date      : 2017-01-17
+      title     : "Modeling rhythms in cells, tissues, and organisms"
+      slides    :
     - name      : Hesse, Janina
       date      : 2017-01-10
       title     : "Trace your favorite drawings - getting around copy rights with inkscape"

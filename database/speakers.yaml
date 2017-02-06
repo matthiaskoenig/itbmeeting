@@ -3,10 +3,6 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/klinger
-    - name      : Holzbecher, André
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Knoop, Henning
       group     : Metabolic Networks
       location  : ITB-House4
@@ -199,3 +195,7 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
       web       : wiki/members/herzel
+    - name      : Holzbecher, André
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :

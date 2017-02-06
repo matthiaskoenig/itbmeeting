@@ -1,19 +1,14 @@
 Dear colleagues,
 
-There will be no ITB meeting tomorrow due to the Evaluation
-of the IRI Life Sciences with great talks from the IRI group
-leaders.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-
-Title - Evaluation IRI Life Sciences
-Location - Tieranatomisches Theater, Philippstr. 13
-Time - 9.30
+Speaker - Klinger, Bertram
+Title - tba
+Location - ITB-House 4
+Time - 14.00
 
 -----------------------------------------------------------------------
-
-Please be aware that all future dates have been shifted by one week.
-See you all tomorrow at the evaluation.
 
 The best
 Matthias
@@ -32,8 +27,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-01-31] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
-[2017-02-07] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
+[2017-02-07] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2017-02-14] Knoop, Henning  - Metabolic Networks - ITB-House4
 [2017-02-21] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2017-02-28] Kremkow, Jens  - Theoretical Neuroscience - ITB-Inv43
@@ -52,35 +46,37 @@ Upcoming speakers:
 [2017-05-30] Steuer, Ralph (PI)  - Metabolic Networks - ITB-House4
 [2017-06-06] Schreiber, Susanne (PI)  - Computational Neurophysiology - ITB-Inv43
 [2017-06-13] Romanczuk, Pawel (PI)  - Collective Information Processing - ITB-House4
-[2017-06-20] König, Matthias (PI)  - Systems Biology of Liver - ITB-House4
-[2017-06-27] Contreras, Susana  - Computational Neurophysiology - ITB-House4
-[2017-07-04] Paul Pfeiffer  - Computational Neurophysiology - ITB-House4
-[2017-07-11] Schuppner, Rike-Benjamin  - System Administration - ITB-House4
-[2017-07-18] Rose, Pia  - Computational Neurophysiology - ITB-House4
-[2017-07-25] Schieferstein, Natalie  - Theoretical Neuroscience - ITB-House4
-[2017-08-01] D'Albis, Tiziano  - Theoretical Neuroscience - ITB-House4
-[2017-08-08] Kuokkanen, Paula  - Theoretical Neuroscience - ITB-Inv43
-[2017-08-15] Thaben, Paul  - Systems Biology of Aging and the Circadian Clock - ITB-House4
-[2017-08-22] Faizi, Marjan  - Metabolic Networks - ITB-House4
-[2017-08-29] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
-[2017-09-05] Zug, Roman  - Evolution of Organismic Systems - ITB-Inv43
-[2017-09-12] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
-[2017-09-19] Relógio, Angela  - Systems Biology of Cancer - ITB-House4
-[2017-09-26] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-Inv43
-[2017-10-10] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
-[2017-10-17] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
-[2017-10-24] Wilkins, Adams  - None - ITB-House4
-[2017-10-31] Bordyugov, Grischa  - Molecular and Cellular Evolution - ITB-Inv43
-[2017-11-07] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
-[2017-11-14] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
-[2017-11-21] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
-[2017-11-28] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
-[2017-12-05] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
-[2017-12-12] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
-[2017-12-19] Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
-[2018-01-02] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
-[2018-01-09] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
-[2018-01-16] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
+[2017-06-20] Li, Yin  - Systems Biology of Cancer - ITB-House4
+[2017-06-27] König, Matthias (PI)  - Systems Biology of Liver - ITB-House4
+[2017-07-04] Contreras, Susana  - Computational Neurophysiology - ITB-House4
+[2017-07-11] Paul Pfeiffer  - Computational Neurophysiology - ITB-House4
+[2017-07-18] Schuppner, Rike-Benjamin  - System Administration - ITB-House4
+[2017-07-25] Rose, Pia  - Computational Neurophysiology - ITB-House4
+[2017-08-01] Schieferstein, Natalie  - Theoretical Neuroscience - ITB-House4
+[2017-08-08] D'Albis, Tiziano  - Theoretical Neuroscience - ITB-House4
+[2017-08-15] Kuokkanen, Paula  - Theoretical Neuroscience - ITB-Inv43
+[2017-08-22] Thaben, Paul  - Systems Biology of Aging and the Circadian Clock - ITB-House4
+[2017-08-29] Faizi, Marjan  - Metabolic Networks - ITB-House4
+[2017-09-05] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
+[2017-09-12] Zug, Roman  - Evolution of Organismic Systems - ITB-Inv43
+[2017-09-19] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
+[2017-09-26] Relógio, Angela (PI)  - Systems Biology of Cancer - ITB-House4
+[2017-10-10] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-Inv43
+[2017-10-17] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
+[2017-10-24] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
+[2017-10-31] Wilkins, Adams  - None - ITB-House4
+[2017-11-07] Bordyugov, Grischa  - Molecular and Cellular Evolution - ITB-Inv43
+[2017-11-14] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
+[2017-11-21] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
+[2017-11-28] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
+[2017-12-05] Donoso, José R.  - Theoretical Neuroscience - ITB-Inv43
+[2017-12-12] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
+[2017-12-19] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
+[2018-01-02] Fuhr, Luise  - Systems Biology of Cancer - ITB-House4
+[2018-01-09] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
+[2018-01-16] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
+[2018-01-23] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
+[2018-01-30] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
 
 Meeting Alumni:
 

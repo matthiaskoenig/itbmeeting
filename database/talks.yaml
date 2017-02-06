@@ -1,8 +1,12 @@
 talks:
+    - name      : Holzbecher, André
+      date      : 2017-01-31
+      title     : "Memory - how we remember places, and why electrical synapses might play a role in that"
+      slides    :
     - name      : Herzel, Hanspeter (PI)
       date      : 2017-01-17
       title     : "Modeling rhythms in cells, tissues, and organisms"
-      slides    :
+      slides    : 2017-01-17_herzel.pdf
     - name      : Hesse, Janina
       date      : 2017-01-10
       title     : "Trace your favorite drawings - getting around copy rights with inkscape"

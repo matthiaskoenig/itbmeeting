@@ -3,7 +3,7 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Klinger, Bertram
+Speaker - Knoop, Henning
 Title - tba
 Location - ITB-House 4
 Time - 14.00
@@ -27,7 +27,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-02-07] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2017-02-14] Knoop, Henning  - Metabolic Networks - ITB-House4
 [2017-02-21] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2017-02-28] Kremkow, Jens  - Theoretical Neuroscience - ITB-Inv43
@@ -77,6 +76,7 @@ Upcoming speakers:
 [2018-01-16] Hesse, Janina  - Computational Neurophysiology - ITB-Inv43
 [2018-01-23] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-01-30] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
+[2018-02-06] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

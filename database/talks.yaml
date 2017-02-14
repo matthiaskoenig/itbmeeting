@@ -1,4 +1,8 @@
 talks:
+    - name      : Klinger, Bertram
+      date      : 2017-02-07
+      title     : The coffee ring effect
+      slides    :
     - name      : Holzbecher, André
       date      : 2017-01-31
       title     : "Memory - how we remember places, and why electrical synapses might play a role in that"

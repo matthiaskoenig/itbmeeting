@@ -1,8 +1,4 @@
 speakers:
-    - name      : Klinger, Bertram
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : wiki/members/klinger
     - name      : Knoop, Henning
       group     : Metabolic Networks
       location  : ITB-House4
@@ -199,3 +195,7 @@ speakers:
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :
+    - name      : Klinger, Bertram
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/klinger

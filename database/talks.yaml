@@ -1,7 +1,11 @@
 talks:
+    - name      : Knoop, Henning
+      date      : 2017-02-14
+      title     : "Metabolic modeling of cyanobacteria"
+      slides    :
     - name      : Klinger, Bertram
       date      : 2017-02-07
-      title     : The coffee ring effect
+      title     : "The coffee ring effect"
       slides    :
     - name      : Holzbecher, André
       date      : 2017-01-31

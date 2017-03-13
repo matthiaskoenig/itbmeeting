@@ -1,8 +1,4 @@
 speakers:
-    - name      : Kremkow, Jens
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Evangelista, Roberta
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -199,3 +195,7 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       : wiki/members/elathman
+    - name      : Kremkow, Jens
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :

@@ -1,4 +1,12 @@
 talks:
+    - name      : Kremkow, Jens
+      date      : 2017-03-07
+      title     : "What causes a cortical action potential, in vivo?"
+      slides    :
+    - name      : El-Athman, Rukeia
+      date      : 2017-02-28
+      title     : "Molecular Modelling of the Oligomeric Pore of the Tight Junction Protein Claudin-10b"
+      slides    :
     - name      : Knoop, Henning
       date      : 2017-02-14
       title     : "Metabolic modeling of cyanobacteria"

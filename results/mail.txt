@@ -3,11 +3,12 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Evangelista, Roberta
-Title - Bistable activation of CA3 interneurons can explain the generation of sharp wave-ripple oscillations
-Group - Theoretical Neuroscience
-Location - ITB-Inv43
+Speaker - Meisig, Johannes
+Title - Modeling gene expression in spontaneous and perturbed differentiation
+Group - Systems Biology of Molecular Networks
+Location - ITB-House4
 Time - 14.00
+
 -----------------------------------------------------------------------
 
 The best
@@ -27,7 +28,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-03-14] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv43
 [2017-03-21] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
 [2017-03-28] McColgan, Thomas  - Theoretical Neuroscience - ITB-Inv43
 [2017-04-04] Nikolai Genov  - Systems Biology of Cancer - ITB-House4
@@ -77,6 +77,8 @@ Upcoming speakers:
 [2018-02-20] Lauterbach, Elvira  - Administration - ITB-Inv43
 [2018-02-27] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2018-03-06] Kremkow, Jens  - Theoretical Neuroscience - ITB-Inv43
+[2018-03-13] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv43
+[2018-03-20] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv43
 
 Meeting Alumni:
 

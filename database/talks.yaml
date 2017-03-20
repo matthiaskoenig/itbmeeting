@@ -1,4 +1,8 @@
 talks:
+    - name      : Evangelista, Roberta
+      date      : 2017-03-14
+      title     : "Bistable activation of CA3 interneurons can explain the generation of sharp wave-ripple oscillations"
+      slides    :
     - name      : Kremkow, Jens
       date      : 2017-03-07
       title     : "What causes a cortical action potential, in vivo?"

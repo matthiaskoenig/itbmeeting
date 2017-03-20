@@ -1,8 +1,4 @@
 speakers:
-    - name      : Evangelista, Roberta
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Meisig, Johannes
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -196,6 +192,14 @@ speakers:
       location  : ITB-House4
       web       : wiki/members/elathman
     - name      : Kremkow, Jens
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Del Olmo, Marta
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       :
+    - name      : Evangelista, Roberta
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :

@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Meisig, Johannes
-Title - Modeling gene expression in spontaneous and perturbed differentiation
-Group - Systems Biology of Molecular Networks
+Speaker - McColgan, Thomas
+Title - tba
+Group - Theoretical Neuroscience
 Location - ITB-House4
 Time - 14.00
 

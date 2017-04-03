@@ -3,13 +3,20 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - McColgan, Thomas
+Speaker - Genov, Nikolai
 Title - tba
-Group - Theoretical Neuroscience
+Group - Systems Biology of Cancer
 Location - ITB-House4
 Time - 14.00
 
 -----------------------------------------------------------------------
+
+Additional news:
+The calendar for ITB related events is available at
+https://itb.biologie.hu-berlin.de/wiki/calendar/start
+
+It is a google calendar which you can add to your own calendar.
+Please send me a short notification about events which should be added.
 
 The best
 Matthias
@@ -28,8 +35,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-03-28] McColgan, Thomas  - Theoretical Neuroscience - ITB-House4
-[2017-04-04] Nikolai Genov  - Systems Biology of Cancer - ITB-House4
+[2017-04-04] Genov, Nikolai  - Systems Biology of Cancer - ITB-House4
 [2017-04-11] Michalikova, Martina  - Theoretical Neuroscience - ITB-Inv43
 [2017-04-18] Reifenstein, Eric  - Computational Neurophysiology - ITB-Inv43
 [2017-04-25] Abreu, Mónica  - Systems Biology of Cancer - ITB-House4
@@ -79,6 +85,7 @@ Upcoming speakers:
 [2018-03-13] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-03-20] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv43
 [2018-03-27] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
+[2018-04-03] McColgan, Thomas  - Theoretical Neuroscience - ITB-House4
 
 Meeting Alumni:
 

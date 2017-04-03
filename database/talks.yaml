@@ -1,4 +1,8 @@
 talks:
+    - name      : McColgan, Thomas
+      date      : 2017-03-28
+      title     : "Report of the GPU modeling retreat"
+      slides    :
     - name      : Meisig, Johannes
       date      : 2017-03-21
       title     : "Modeling gene expression in spontaneous and perturbed differentiation"

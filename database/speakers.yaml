@@ -1,9 +1,5 @@
 speakers:
-    - name      : McColgan, Thomas
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
-    - name      : Nikolai Genov
+    - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
@@ -201,5 +197,9 @@ speakers:
       web       :
     - name      : Meisig, Johannes
       group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : McColgan, Thomas
+      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :

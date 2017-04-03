@@ -6,13 +6,14 @@ Helper scripts to create updated email & homepage
 for ITB Meeting
 """
 
-from __future__ import print_function, division
+from __future__ import print_function, division, absolute_import
+from six import iteritems
 import yaml
 import warnings
 
 import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
+# reload(sys)
+# sys.setdefaultencoding('utf-8')
 
 import datetime
 import holidays
@@ -95,8 +96,8 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     if skip_holidays:
         itb_holidays = [datetime.date(2016, 12, 20),
                         datetime.date(2016, 12, 27),
-                        datetime.date(2017, 01, 03),
-                        datetime.date(2017, 01, 24)]
+                        datetime.date(2017,  1,  3),
+                        datetime.date(2017,  1, 24)]
         de_holidays = holidays.Germany(years=[2016, 2017])
         while next_d in de_holidays or next_d in itb_holidays:
             next_d = next_d + datetime.timedelta(7)
@@ -154,7 +155,7 @@ def update_outreach():
             warnings.warn("Person does not exist: '{}'".format(name))
         person = people_dict.get(name, None)
         if person:
-            for key, value in person.iteritems():
+            for key, value in iteritems(person):
                 talk[key] = value
 
     create_homepage(talks=talks, speakers=speakers, alumnis=alumnis)

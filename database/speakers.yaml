@@ -1,8 +1,4 @@
 speakers:
-    - name      : Genov, Nikolai
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Michalikova, Martina
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -41,10 +37,6 @@ speakers:
       web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
-    - name      : Li, Yin
-      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
     - name      : König, Matthias (PI)
@@ -179,6 +171,10 @@ speakers:
       group     : Administration
       location  : ITB-Inv43
       web       :
+    - name      : Li, Yin
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
     - name      : El-Athman, Rukeia
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -201,5 +197,9 @@ speakers:
       web       :
     - name      : McColgan, Thomas
       group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : Genov, Nikolai
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

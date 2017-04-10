@@ -1,4 +1,8 @@
 talks:
+    - name      : Genov, Nikolai
+      date      : 2017-04-04
+      title     : "Ultradian rhythms are evolutionary more conserved and play key roles in vital cellular functions."
+      slides    :
     - name      : McColgan, Thomas
       date      : 2017-03-28
       title     : "Report of the GPU modeling retreat"

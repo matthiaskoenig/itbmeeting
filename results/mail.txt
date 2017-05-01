@@ -3,21 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Michalikova, Martina
-Title - Post-journal utopia & how to move there faster.
-Group - Theoretical Neuroscience
-Location - ITB-Inv43
+Speaker - Reifenstein, Eric
+Title - Sequence learning in rats and humans
+Group - Computational Neurophysiology
+Location - ITB-House4
 Time - 14.00
 -----------------------------------------------------------------------
 
-Additional news:
-The calendar for ITB related events is available at
-https://itb.biologie.hu-berlin.de/wiki/calendar/start
-
-It is a google calendar which you can add to your own calendar.
-Please send me a short notification about events which should be added.
-
-The best
+Best
 Matthias
 
 -----------------------------------------------------------------------
@@ -36,9 +29,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-04-25] Michalikova, Martina  - Theoretical Neuroscience - ITB-Inv43
-[2017-05-02] Reifenstein, Eric  - Computational Neurophysiology - ITB-Inv43
-[2017-05-09] Abreu, Monica  - Systems Biology of Cancer - ITB-House4
+[2017-05-02] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
+[2017-05-09] Abreu, Mónica  - Systems Biology of Cancer - ITB-House4
 [2017-05-16] Schleimer, Jan-Hendrik  - Computational Neurophysiology - ITB-Inv43
 [2017-05-23] Remme, Michiel  - Computational Neurophysiology and Neuroscience - ITB-Inv43
 [2017-05-30] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
@@ -87,6 +79,7 @@ Upcoming speakers:
 [2018-04-10] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
 [2018-04-17] McColgan, Thomas  - Theoretical Neuroscience - ITB-House4
 [2018-04-24] Genov, Nikolai  - Systems Biology of Cancer - ITB-House4
+[2018-05-08] Michalikova, Martina  - Theoretical Neuroscience - ITB-Inv43
 
 Meeting Alumni:
 

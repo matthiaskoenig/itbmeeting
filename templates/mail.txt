@@ -3,21 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Michalikova, Martina
-Title - Post-journal utopia & how to move there faster.
-Group - Theoretical Neuroscience
-Location - ITB-Inv43
+Speaker - Reifenstein, Eric
+Title - Sequence learning in rats and humans
+Group - Computational Neurophysiology
+Location - ITB-House4
 Time - 14.00
 -----------------------------------------------------------------------
 
-Additional news:
-The calendar for ITB related events is available at
-https://itb.biologie.hu-berlin.de/wiki/calendar/start
-
-It is a google calendar which you can add to your own calendar.
-Please send me a short notification about events which should be added.
-
-The best
+Best
 Matthias
 
 -----------------------------------------------------------------------

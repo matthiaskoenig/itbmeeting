@@ -1,11 +1,7 @@
 speakers:
-    - name      : Michalikova, Martina
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology
-      location  : ITB-Inv43
+      location  : ITB-House4
       web       :
     - name      : Abreu, Mónica
       group     : Systems Biology of Cancer
@@ -202,4 +198,8 @@ speakers:
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-House4
+      web       :
+    - name      : Michalikova, Martina
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
       web       :

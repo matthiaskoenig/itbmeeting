@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Reifenstein, Eric
+Speaker - Abreu, Mónica
 Title - Sequence learning in rats and humans
-Group - Computational Neurophysiology
+Group - Systems Biology of Cancer
 Location - ITB-House4
 Time - 14.00
 -----------------------------------------------------------------------

@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Abreu, Mónica
-Title - Sequence learning in rats and humans
-Group - Systems Biology of Cancer
-Location - ITB-House4
+Speaker - Schleimer, Jan-Hendrik
+Title - tba
+Group - Computational Neurophysiology
+Location - ITB-Inv43
 Time - 14.00
 -----------------------------------------------------------------------
 

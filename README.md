@@ -17,6 +17,12 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 * If slides: update slides
 
 
+## Installation
+```
+mkvirtualenv itbmeeting
+(itbmeeting) pip install -r requirements.txt
+```
+
 ## Open Issues
 * crawl emails & web pages from ITB page
 

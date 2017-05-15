@@ -1,8 +1,4 @@
 speakers:
-    - name      : Abreu, Mónica
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
       location  : ITB-Inv43
@@ -201,5 +197,9 @@ speakers:
       web       :
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Abreu, Mónica
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

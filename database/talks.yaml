@@ -1,4 +1,8 @@
 talks:
+    - name      : Abreu, Mónica
+      date      : 2017-05-09
+      title     : "Circadian analysis of the immune system"
+      slides    :
     - name      : Reifenstein, Eric
       date      : 2017-05-02
       title     : "Sequence learning in rats and humans"

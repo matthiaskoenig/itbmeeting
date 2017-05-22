@@ -1,8 +1,4 @@
 speakers:
-    - name      : Schleimer, Jan-Hendrik
-      group     : Computational Neurophysiology
-      location  : ITB-Inv43
-      web       :
     - name      : Remme, Michiel
       group     : Computational Neurophysiology and Neuroscience
       location  : ITB-Inv43
@@ -202,4 +198,8 @@ speakers:
     - name      : Abreu, Mónica
       group     : Systems Biology of Cancer
       location  : ITB-House4
+      web       :
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
       web       :

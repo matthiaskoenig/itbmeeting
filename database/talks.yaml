@@ -1,4 +1,8 @@
 talks:
+    - name      : Schleimer, Jan-Hendrik
+      date      : 2017-05-16
+      title     : ""
+      slides    :
     - name      : Abreu, Mónica
       date      : 2017-05-09
       title     : "Circadian analysis of the immune system"

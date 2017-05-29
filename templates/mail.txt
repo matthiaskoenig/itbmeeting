@@ -3,12 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker - Remme, Michiel
-Title - tba
-Group - Computational Neurophysiology and Neuroscience
-Location - ITB-Inv43
+Speaker - Rydenfelt, Mattias
+Title - Signaling state predicts drug sensitivity for targeted and cytotoxic drugs in melanoma cell lines
+Group - Systems Biology of Molecular Networks
+Location - ITB-House4
 Time - 14.00
 -----------------------------------------------------------------------
+Additional news: On 27.06 we will have the organization meeting for our
+ITB symposium on 13th/14th July.
 
 Best
 Matthias

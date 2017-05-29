@@ -1,8 +1,4 @@
 speakers:
-    - name      : Remme, Michiel
-      group     : Computational Neurophysiology and Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Rydenfelt, Mattias
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -18,6 +14,10 @@ speakers:
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
       location  : ITB-Inv43
+      web       :
+    - name      : ITB Symposium Organization Meeting
+      group     : Karin Winkelhöfer & Elvira Lauterbach
+      location  : ITB-House4
       web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
@@ -201,5 +201,9 @@ speakers:
       web       :
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       :
+    - name      : Remme, Michiel
+      group     : Computational Neurophysiology and Neuroscience
       location  : ITB-Inv43
       web       :

@@ -1,4 +1,16 @@
 talks:
+    - name      : Schreiber, Susanne (PI)
+      date      : 2017-06-13
+      title     : "Cold-induced silencing of neuronal activity"
+      slides    :
+    - name      : Schmal, Christoph
+      date      : 2017-06-06
+      title     : "Mammalian circadian clock - Network of coupled oscillators"
+      slides    :
+    - name      : Rydenfelt, Mattias
+      date      : 2017-05-30
+      title     : "Drug sensitivity in cancer cell lines"
+      slides    :
     - name      : Remme, Michiel
       date      : 2017-05-23
       title     : "The energetic cost of the brain"

@@ -1,19 +1,7 @@
 speakers:
-    - name      : Rydenfelt, Mattias
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
-    - name      : Schmal, Christoph
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       :
     - name      : Steuer, Ralph (PI)
       group     : Metabolic Networks
       location  : ITB-House4
-      web       :
-    - name      : Schreiber, Susanne (PI)
-      group     : Computational Neurophysiology
-      location  : ITB-Inv43
       web       :
     - name      : ITB Symposium Organization Meeting
       group     : Karin Winkelhöfer & Elvira Lauterbach
@@ -205,5 +193,17 @@ speakers:
       web       :
     - name      : Remme, Michiel
       group     : Computational Neurophysiology and Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Rydenfelt, Mattias
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Schmal, Christoph
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       :
+    - name      : Schreiber, Susanne (PI)
+      group     : Computational Neurophysiology
       location  : ITB-Inv43
       web       :

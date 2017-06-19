@@ -90,7 +90,9 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     if days_ahead < 1:  # Target day already happened this week (or monday)
         days_ahead += 7
     # this is the next possible date
+
     next_d = d + datetime.timedelta(days_ahead)
+    #next_d = next_d - datetime.timedelta(7)
 
     # skip all the German holidays
     if skip_holidays:

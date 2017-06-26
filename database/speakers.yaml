@@ -1,8 +1,4 @@
 speakers:
-    - name      : Steuer, Ralph (PI)
-      group     : Metabolic Networks
-      location  : ITB-House4
-      web       :
     - name      : ITB Symposium Organization Meeting
       group     : Karin Winkelhöfer & Elvira Lauterbach
       location  : ITB-House4
@@ -206,4 +202,8 @@ speakers:
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
       location  : ITB-Inv43
+      web       :
+    - name      : Steuer, Ralph (PI)
+      group     : Metabolic Networks
+      location  : ITB-House4
       web       :

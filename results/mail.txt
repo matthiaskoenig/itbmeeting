@@ -1,17 +1,17 @@
 Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
+This is the important meeting for the organization of our ITB symposium.
 
 -----------------------------------------------------------------------
-Speaker:  Steuer, Ralph (PI)
-Title:    The protein economy of growth: How to multiply yourself in seven steps.
-Group:    Metabolic Networks
+Speaker:  Karin Winkelhöfer & Elvira Lauterbach
+Title:    ITB Symposium Organization Meeting
+Group:    ITB-all
 Location: ITB-House4
 Time:     14.00
 -----------------------------------------------------------------------
-Additional news: On 27.06 we will have the organization meeting for our
-ITB symposium on 13th/14th July.
 
+See you all tomorrow.
 Best
 Matthias
 
@@ -31,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-06-20] Steuer, Ralph (PI)  - Metabolic Networks - ITB-House4
 [2017-06-27] ITB Symposium Organization Meeting  - Karin Winkelhöfer & Elvira Lauterbach - ITB-House4
 [2017-07-04] Romanczuk, Pawel (PI)  - Collective Information Processing - ITB-House4
 [2017-07-11] König, Matthias (PI)  - Systems Biology of Liver - ITB-House4
@@ -83,6 +82,7 @@ Upcoming speakers:
 [2018-06-19] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
 [2018-06-26] Schmal, Christoph  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-07-03] Schreiber, Susanne (PI)  - Computational Neurophysiology - ITB-Inv43
+[2018-07-10] Steuer, Ralph (PI)  - Metabolic Networks - ITB-House4
 
 Meeting Alumni:
 

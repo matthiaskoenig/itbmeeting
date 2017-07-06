@@ -1,8 +1,4 @@
 speakers:
-    - name      : ITB Symposium Organization Meeting
-      group     : Karin Winkelhöfer & Elvira Lauterbach
-      location  : ITB-House4
-      web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
       location  : ITB-House4
@@ -131,10 +127,6 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/klinger
-    - name      : Knoop, Henning
-      group     : Metabolic Networks
-      location  : ITB-House4
-      web       :
     - name      : Lauterbach, Elvira
       group     : Administration
       location  : ITB-Inv43
@@ -203,7 +195,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-Inv43
       web       :
-    - name      : Steuer, Ralph (PI)
+    - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
       location  : ITB-House4
       web       :

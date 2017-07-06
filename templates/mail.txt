@@ -1,12 +1,11 @@
 Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
-This is the important meeting for the organization of our ITB symposium.
 
 -----------------------------------------------------------------------
-Speaker:  Karin Winkelhöfer & Elvira Lauterbach
-Title:    ITB Symposium Organization Meeting
-Group:    ITB-all
+Speaker:  Romanczuk, Pawel (PI)
+Title:    Collective Information Processing: How critical is it to be critical?
+Group:    Collective Information Processing
 Location: ITB-House4
 Time:     14.00
 -----------------------------------------------------------------------

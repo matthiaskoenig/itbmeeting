@@ -1,6 +1,11 @@
 talks:
+
+    - name      : Karin Winklhöfer und Elvira Lauterbach
+      date      : 2017-06-27
+      title     : "ITB Symposium Organization Meeting"
+      slides    :
     - name      : Steuer, Ralph (PI)
-      group     : 2017-06-20
+      date      : 2017-06-20
       title     : "The protein economy of growth: How to multiply yourself in seven steps."
       slides    :
     - name      : Schreiber, Susanne (PI)

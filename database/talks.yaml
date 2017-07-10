@@ -1,5 +1,8 @@
 talks:
-
+    - name      : Romanczuk, Pawel (PI)
+      date      : 2017-07-03
+      title     : "Collective Information Processing: How critical is it to be critical?"
+      slides    :
     - name      : Karin Winklhöfer und Elvira Lauterbach
       date      : 2017-06-27
       title     : "ITB Symposium Organization Meeting"

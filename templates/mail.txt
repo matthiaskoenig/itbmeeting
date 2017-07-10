@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker:  Romanczuk, Pawel (PI)
-Title:    Collective Information Processing: How critical is it to be critical?
-Group:    Collective Information Processing
+Speaker:  König, Matthias (PI)
+Title:    Computational modeling of liver function tests: Why you need more coffee when you smoke
+Group:    Systems Biology of Liver
 Location: ITB-House4
 Time:     14.00
 -----------------------------------------------------------------------

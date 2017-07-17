@@ -1,8 +1,14 @@
 talks:
+    - name      : König, Matthias (PI)
+      date      : 2017-07-11
+      title     : "Computational modeling of liver function tests: Why you need more coffee when you smoke"
+      slides    :
+
     - name      : Romanczuk, Pawel (PI)
-      date      : 2017-07-03
+      date      : 2017-07-04
       title     : "Collective Information Processing: How critical is it to be critical?"
       slides    :
+
     - name      : Karin Winklhöfer und Elvira Lauterbach
       date      : 2017-06-27
       title     : "ITB Symposium Organization Meeting"

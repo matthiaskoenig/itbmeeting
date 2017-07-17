@@ -3,11 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker:  König, Matthias (PI)
-Title:    Computational modeling of liver function tests: Why you need more coffee when you smoke
-Group:    Systems Biology of Liver
+Speaker: Paul Pfeiffer
+Title: tba
+Group: Computational Neurophysiology
 Location: ITB-House4
-Time:     14.00
+Time: 14.00
 -----------------------------------------------------------------------
 
 See you all tomorrow.

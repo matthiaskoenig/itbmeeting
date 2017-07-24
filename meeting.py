@@ -12,8 +12,8 @@ import yaml
 import warnings
 
 import sys
-# reload(sys)
-# sys.setdefaultencoding('utf-8')
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 import datetime
 import holidays
@@ -99,7 +99,14 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
         itb_holidays = [datetime.date(2016, 12, 20),
                         datetime.date(2016, 12, 27),
                         datetime.date(2017,  1,  3),
-                        datetime.date(2017,  1, 24)]
+                        datetime.date(2017,  1, 24),
+                        datetime.date(2017, 7, 25),
+                        datetime.date(2017, 8, 1),
+                        datetime.date(2017, 8, 8),
+                        datetime.date(2017, 8, 15),
+                        datetime.date(2017, 8, 22),
+                        datetime.date(2017, 8, 29),
+                        ]
         de_holidays = holidays.Germany(years=[2016, 2017])
         while next_d in de_holidays or next_d in itb_holidays:
             next_d = next_d + datetime.timedelta(7)

@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Paul Pfeiffer
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -209,3 +204,8 @@ speakers:
       group     : Systems Biology of Liver
       location  : ITB-House4
       web       : wiki/groups/koenig
+
+    - name      : Paul Pfeiffer
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :

@@ -31,3 +31,15 @@ alumnis:
       group     : Metabolic Networks
       location  : ITB-House4
       web       :
+    - name      : Thaben, Paul
+      group     : Systems Biology of Aging and the Circadian Clock
+      location  : ITB-House4
+      web       :
+    - name      : Bordyugov, Grischa
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : ~bordyugov
+    - name      : Zug, Roman
+      group     : Evolution of Organismic Systems
+      location  : ITB-Inv43
+      web       :

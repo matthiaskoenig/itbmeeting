@@ -4,47 +4,32 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
       location  : ITB-House4
       web       : wiki/members/schuppner
-
     - name      : Rose, Pia
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
-
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
-
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :
-
-    - name      : Thaben, Paul
-      group     : Systems Biology of Aging and the Circadian Clock
-      location  : ITB-House4
-      web       :
-
     - name      : Faizi, Marjan
       group     : Metabolic Networks
       location  : ITB-House4
       web       :
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       :
-    - name      : Zug, Roman
-      group     : Evolution of Organismic Systems
       location  : ITB-Inv43
       web       :
     - name      : Uhlitz, Florian
@@ -71,10 +56,6 @@ speakers:
       group     :
       location  : ITB-House4
       web       :
-    - name      : Bordyugov, Grischa
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       : ~bordyugov
     - name      : Witzel, Franziska
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -126,6 +107,10 @@ speakers:
     - name      : Lauterbach, Elvira
       group     : Administration
       location  : ITB-Inv43
+      web       :
+    - name      : Grzegorzewski, Janek
+      group     : Systems Biology Of Liver
+      location  : ITB-House4
       web       :
     - name      : Li, Yin
       group     : Systems Biology of Cancer
@@ -199,12 +184,10 @@ speakers:
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
-
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
       location  : ITB-House4
       web       : wiki/groups/koenig
-
     - name      : Paul Pfeiffer
       group     : Computational Neurophysiology
       location  : ITB-House4

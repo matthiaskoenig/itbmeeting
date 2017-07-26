@@ -43,3 +43,15 @@ alumnis:
       group     : Evolution of Organismic Systems
       location  : ITB-Inv43
       web       :
+    - name      : McColgan, Thomas
+      group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : Michalikova, Martina
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv43
+      web       :
+    - name      : Fuhr, Luise
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       : wiki/members/fuhr/

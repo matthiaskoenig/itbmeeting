@@ -28,6 +28,10 @@ speakers:
       group     : Metabolic Networks
       location  : ITB-House4
       web       :
+    - name      : Klamser, Pascal
+      group     : Collective Information Processing
+      location  : ITB-House4
+      web       :
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
@@ -80,10 +84,6 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : http://www.sys-bio.net/
-    - name      : Fuhr, Luise
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       : wiki/members/fuhr/
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv43
@@ -136,17 +136,9 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
-    - name      : McColgan, Thomas
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-House4
-      web       :
-    - name      : Michalikova, Martina
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
       web       :
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology

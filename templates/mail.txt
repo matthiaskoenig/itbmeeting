@@ -1,15 +1,18 @@
 Dear colleagues,
 
-The ITBMeeting will be on summer break until end of August.
-We will restart in the first September week.
+Welcome back after the summer break. From this week on we start
+again with our regular ITB meeting. Please have a look at the
+updated list of speakers.
 
 -----------------------------------------------------------------------
-Speaker: -
-Title: -
-Group: -
-Location -
-Time: -
+Speaker: Rose, Pia
+Title: TBA
+Group: Computational Neurophysiology
+Location: ITB-House4
+Time: 14.00
 -----------------------------------------------------------------------
+
+See you all tomorrow.
 
 Best
 Matthias

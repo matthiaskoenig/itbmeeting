@@ -1,15 +1,18 @@
 Dear colleagues,
 
-The ITBMeeting will be on summer break until end of August.
-We will restart in the first September week.
+Welcome back after the summer break. From this week on we start
+again with our regular ITB meeting. Please have a look at the
+updated list of speakers.
 
 -----------------------------------------------------------------------
-Speaker: -
-Title: -
-Group: -
-Location -
-Time: -
+Speaker: Rose, Pia
+Title: TBA
+Group: Computational Neurophysiology
+Location: ITB-House4
+Time: 14.00
 -----------------------------------------------------------------------
+
+See you all tomorrow.
 
 Best
 Matthias
@@ -30,9 +33,9 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-09-05] Contreras, Susana  - Computational Neurophysiology - ITB-House4
-[2017-09-12] Schuppner, Rike-Benjamin  - System Administration - ITB-House4
-[2017-09-19] Rose, Pia  - Computational Neurophysiology - ITB-House4
+[2017-09-05] Rose, Pia  - Computational Neurophysiology - ITB-House4
+[2017-09-12] Schuppner, Rike-Benjamin  - System Administration - ITB-Inv43
+[2017-09-19] Contreras, Susana  - Computational Neurophysiology - ITB-House4
 [2017-09-26] Schieferstein, Natalie  - Theoretical Neuroscience - ITB-House4
 [2017-10-10] D'Albis, Tiziano  - Theoretical Neuroscience - ITB-House4
 [2017-10-17] Kuokkanen, Paula  - Theoretical Neuroscience - ITB-Inv43

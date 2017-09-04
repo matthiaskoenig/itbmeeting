@@ -1,14 +1,15 @@
 speakers:
-
-    - name      : Contreras, Susana
+    - name      : Rose, Pia
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
-      location  : ITB-House4
+      location  : ITB-Inv43
       web       : wiki/members/schuppner
-    - name      : Rose, Pia
+
+    - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

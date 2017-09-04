@@ -13,17 +13,17 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-    - name      : Schieferstein, Natalie
+    - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
-      location  : ITB-House4
+      location  : ITB-Inv43
       web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
-    - name      : Kuokkanen, Paula
+    - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
-      location  : ITB-Inv43
+      location  : ITB-House4
       web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks

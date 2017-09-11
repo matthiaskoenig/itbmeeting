@@ -1,4 +1,9 @@
 talks:
+    - name      : Rose, Pia
+      date      : 2017-09-05
+      location  : "The influence of temperature on neuronal processing"
+      slides    :
+
     - name      : Paul Pfeiffer
       date      : 2017-07-18
       title     : "Test-driven development"

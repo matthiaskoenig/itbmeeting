@@ -1,13 +1,4 @@
 speakers:
-    - name      : Rose, Pia
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
-    - name      : Schuppner, Rike-Benjamin
-      group     : System Administration
-      location  : ITB-Inv43
-      web       : wiki/members/schuppner
 
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
@@ -33,6 +24,10 @@ speakers:
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
+    - name      : Schuppner, Rike-Benjamin
+      group     : System Administration
+      location  : ITB-Inv43
+      web       : wiki/members/schuppner
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
@@ -178,6 +173,10 @@ speakers:
       location  : ITB-House4
       web       : wiki/groups/koenig
     - name      : Paul Pfeiffer
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Rose, Pia
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

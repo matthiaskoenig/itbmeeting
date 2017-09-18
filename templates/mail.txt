@@ -1,12 +1,10 @@
 Dear colleagues,
 
-Welcome back after the summer break. From this week on we start
-again with our regular ITB meeting. Please have a look at the
-updated list of speakers.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Rose, Pia
-Title: TBA
+Speaker: Contreras, Susana
+Title: The "wonderlust" gene.
 Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00

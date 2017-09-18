@@ -1,7 +1,7 @@
 talks:
     - name      : Rose, Pia
       date      : 2017-09-05
-      location  : "The influence of temperature on neuronal processing"
+      title  : "The influence of temperature on neuronal processing"
       slides    :
 
     - name      : Paul Pfeiffer

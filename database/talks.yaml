@@ -1,4 +1,10 @@
 talks:
+
+    - name      : Contreras, Susana
+      date      : 2017-09-19
+      title     : "The wonderlust gene"
+      slides    :
+
     - name      : Rose, Pia
       date      : 2017-09-05
       title  : "The influence of temperature on neuronal processing"

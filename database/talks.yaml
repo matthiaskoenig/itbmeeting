@@ -1,5 +1,10 @@
 talks:
 
+    - name      : D'Albis, Tiziano
+      date      : 2017-10-10
+      title     : "The origin of grid-cell patterns."
+      slides    :
+
     - name      : Kuokkanen, Paula
       date      : 2017-09-26
       title     : "Decomposing the neurophonic in the NL of the Barn Owl."

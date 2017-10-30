@@ -1,8 +1,4 @@
 speakers:
-    - name      : Faizi, Marjan
-      group     : Metabolic Networks
-      location  : ITB-House4
-      web       :
     - name      : Klamser, Pascal
       group     : Collective Information Processing
       location  : ITB-House4
@@ -174,4 +170,8 @@ speakers:
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
+      web       :
+    - name      : Faizi, Marjan
+      group     : Metabolic Networks
+      location  : ITB-House4
       web       :

@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Faizi, Marjan
+Speaker: Klamser, Pascal
 Title: tba
-Group: Metabolic Networks
+Group: Collective Information Processing
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

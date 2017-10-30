@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Faizi, Marjan
+Speaker: Klamser, Pascal
 Title: tba
-Group: Metabolic Networks
+Group: Collective Information Processing
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -31,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-10-24] Faizi, Marjan  - Metabolic Networks - ITB-House4
 [2017-11-07] Klamser, Pascal  - Collective Information Processing - ITB-House4
 [2017-11-14] Schuppner, Rike-Benjamin  - System Administration - ITB-Inv43
 [2017-11-21] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
@@ -75,6 +74,7 @@ Upcoming speakers:
 [2018-08-28] Kuokkanen, Paula  - Theoretical Neuroscience - ITB-Inv43
 [2018-09-04] D'Albis, Tiziano  - Theoretical Neuroscience - ITB-House4
 [2018-09-11] Schieferstein, Natalie  - Theoretical Neuroscience - ITB-Inv43
+[2018-09-18] Faizi, Marjan  - Metabolic Networks - ITB-House4
 
 Meeting Alumni:
 

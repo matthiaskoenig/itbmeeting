@@ -1,8 +1,4 @@
 speakers:
-    - name      : Klamser, Pascal
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
       location  : ITB-Inv43
@@ -173,5 +169,9 @@ speakers:
       web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
+      location  : ITB-House4
+      web       :
+    - name      : Klamser, Pascal
+      group     : Collective Information Processing
       location  : ITB-House4
       web       :

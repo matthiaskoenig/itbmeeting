@@ -1,8 +1,4 @@
 speakers:
-    - name      : Schuppner, Rike-Benjamin
-      group     : System Administration
-      location  : ITB-Inv43
-      web       : wiki/members/schuppner
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
@@ -11,7 +7,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
-    - name      : Relógio, Angela (PI)
+    - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
@@ -67,6 +63,10 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/klinger
+    - name      : Relógio, Angela (PI)
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
     - name      : Lauterbach, Elvira
       group     : Administration
       location  : ITB-Inv43
@@ -175,3 +175,7 @@ speakers:
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
+    - name      : Schuppner, Rike-Benjamin
+      group     : System Administration
+      location  : ITB-Inv43
+      web       : wiki/members/schuppner

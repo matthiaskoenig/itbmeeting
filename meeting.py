@@ -155,9 +155,13 @@ def update_outreach():
         # add slide link
         if talk['slides']:
             slides = talk['slides']
-            url = '<a href="/wiki/_media/itbmeeting/{}" class="media mediafile mf_pdf" title="itbmeeting:{}">{}</a>'.format(
-                slides, slides, slides
-            )
+            if slides.startswith("http"):
+                url = '<a href="{}" target="_blank">{}</a>'.format(slides, slides)
+            else:
+                # link to uploaded media
+                url = '<a href="/wiki/_media/itbmeeting/{}" class="media mediafile mf_pdf" title="itbmeeting:{}">{}</a>'.format(
+                    slides, slides, slides
+                )
             talk['slides'] = url
 
         # Add speaker info to talk

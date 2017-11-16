@@ -1,7 +1,12 @@
 talks:
+    - name      : Schuppner, Rike-Benjamin
+      date      : 2017-11-14
+      title     : "Technical Depth - Computers at the ITB"
+      slides    : "http://docs.itb.pri/TechnicalDepth/assets/player/KeynoteDHTMLPlayer.html#1"
+
     - name      : Klamser, Pascal
       date      : 2017-11-07
-      title  : "Collective Performance in Presence of a Predator: An inhomogeneous, local field."
+      title     : "Collective Performance in Presence of a Predator: An inhomogeneous, local field."
       slides    :
       abstract  : "From physical systems which undergo a contineous phase transition it is known that the susceptibility, the sensitivity of the system to external perturbations, diverges. Thus the assumption seems plausible that a predator which can be phrased as an inhomogeneous local field or perturbation has a harder job at coming close to agents of a collective if the collective, e.g. a swarm of fishes, is at the transition from an ordered to an unorderd phase. Extensive numerical simulations show that the phase transition does affect the performance, however; rather in an unexpected way."
 
@@ -32,7 +37,7 @@ talks:
 
     - name      : Rose, Pia
       date      : 2017-09-05
-      title  : "The influence of temperature on neuronal processing"
+      title     : "The influence of temperature on neuronal processing"
       slides    :
 
     - name      : Paul Pfeiffer
@@ -169,4 +174,4 @@ talks:
     - name      : Bordyugov, Grischa
       date      : 2016-10-11
       title     : Programming with closures for fun and profit
-      slides    : 2016-10-11_bordyugov.pdf
+      slides    : "2016-10-11_bordyugov.pdf"

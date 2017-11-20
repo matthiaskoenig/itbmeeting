@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Schuppner, Rike-Benjamin
-Title: tba
-Group: System Administration
+Speaker: Ananthasubramaniam, Bharath
+Title:  BodyTime: A new diagnostic tool to assess the internal clock
+Group: Molecular and Cellular Evolution
 Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------

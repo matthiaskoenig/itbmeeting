@@ -1,19 +1,15 @@
 speakers:
-    - name      : Ananthasubramaniam, Bharath
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       :
-    - name      : Uhlitz, Florian
+    - name      : Ünal, Evrim Besray
       group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
+      location  : ITB-Inv43
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
-    - name      : Ünal, Evrim Besray
+    - name      : Uhlitz, Florian
       group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv43
+      location  : ITB-House4
       web       :
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
@@ -179,3 +175,7 @@ speakers:
       group     : System Administration
       location  : ITB-Inv43
       web       : wiki/members/schuppner
+    - name      : Ananthasubramaniam, Bharath
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       :

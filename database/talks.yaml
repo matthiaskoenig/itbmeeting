@@ -1,4 +1,9 @@
 talks:
+    - name      : Ananthasubramaniam, Bharath
+      date      : 2017-11-14
+      title     : "BodyTime: A new diagnostic tool to assess the internal clock"
+      slides    :
+
     - name      : Schuppner, Rike-Benjamin
       date      : 2017-11-14
       title     : "Technical Depth - Computers at the ITB"

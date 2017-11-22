@@ -4,7 +4,7 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Speaker: Ananthasubramaniam, Bharath
-Title: BodyTime: A new diagnostic tool to assess the internal clock
+Title:  BodyTime: A new diagnostic tool to assess the internal clock
 Group: Molecular and Cellular Evolution
 Location: ITB-Inv43
 Time: 14.00
@@ -31,10 +31,9 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-11-21] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
-[2017-11-28] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
+[2017-11-28] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-Inv43
 [2017-12-05] Basti, Alireza  - Systems Biology of Cancer - ITB-House4
-[2017-12-12] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-Inv43
+[2017-12-12] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
 [2017-12-19] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
 [2018-01-02] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-01-09] Wilkins, Adams  - None - ITB-House4
@@ -76,6 +75,7 @@ Upcoming speakers:
 [2018-09-25] Faizi, Marjan  - Metabolic Networks - ITB-House4
 [2018-10-02] Klamser, Pascal  - Collective Information Processing - ITB-House4
 [2018-10-09] Schuppner, Rike-Benjamin  - System Administration - ITB-Inv43
+[2018-10-16] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
 
 Meeting Alumni:
 

@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Ananthasubramaniam, Bharath
-Title:  BodyTime: A new diagnostic tool to assess the internal clock
-Group: Molecular and Cellular Evolution
-Location: ITB-Inv43
+Speaker: Ünal, Evrim Besray
+Title: Systems level expression correlation of Ras-like GTPase regulators and dysregulation in cancer.
+Group: Systems Biology of Molecular Networks
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
 

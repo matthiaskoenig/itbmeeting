@@ -1,6 +1,11 @@
 talks:
+    - name      : Ünal, Evrim Besray
+      date      : 2017-11-28
+      title     : Systems level expression correlation of Ras-like GTPase regulators and dysregulation in cancer.
+      slides    :
+
     - name      : Ananthasubramaniam, Bharath
-      date      : 2017-11-14
+      date      : 2017-11-21
       title     : "BodyTime: A new diagnostic tool to assess the internal clock"
       slides    :
 

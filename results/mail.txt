@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Ünal, Evrim Besray
-Title: Systems level expression correlation of Ras-like GTPase regulators and dysregulation in cancer.
-Group: Systems Biology of Molecular Networks
+Speaker: Basti, Alireza
+Title: TBA
+Group: Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -31,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2017-11-28] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-Inv43
 [2017-12-05] Basti, Alireza  - Systems Biology of Cancer - ITB-House4
 [2017-12-12] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
 [2017-12-19] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
@@ -76,6 +75,7 @@ Upcoming speakers:
 [2018-10-02] Klamser, Pascal  - Collective Information Processing - ITB-House4
 [2018-10-09] Schuppner, Rike-Benjamin  - System Administration - ITB-Inv43
 [2018-10-16] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
+[2018-10-23] Ünal, Evrim Besray  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

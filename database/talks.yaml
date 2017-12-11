@@ -1,7 +1,12 @@
 talks:
+    - name      : Basti, Alireza
+      date     : 2017-12-05
+      title     : "Gene editing via CRISPR/CAS9"
+      slides    :
+
     - name      : Ünal, Evrim Besray
       date      : 2017-11-28
-      title     : Systems level expression correlation of Ras-like GTPase regulators and dysregulation in cancer.
+      title     : "Systems level expression correlation of Ras-like GTPase regulators and dysregulation in cancer."
       slides    :
 
     - name      : Ananthasubramaniam, Bharath

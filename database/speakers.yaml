@@ -1,10 +1,6 @@
 speakers:
-    - name      : Uhlitz, Florian
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
-    - name      : Hammerstein, Peter (PI)
-      group     : Evolution of Organismic Systems
+    - name      : Obermayer, Benedikt
+      group     : Core Unit Bioinformatics
       location  : ITB-House4
       web       :
     - name      : Upadhyay, Abhishek
@@ -58,6 +54,10 @@ speakers:
     - name      : Lauterbach, Elvira
       group     : Administration
       location  : ITB-Inv43
+      web       :
+    - name      : Hammerstein, Peter (PI)
+      group     : Evolution of Organismic Systems
+      location  : ITB-House4
       web       :
     - name      : Grzegorzewski, Janek
       group     : Systems Biology Of Liver
@@ -173,5 +173,9 @@ speakers:
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Uhlitz, Florian
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :

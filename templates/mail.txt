@@ -3,15 +3,12 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Uhlitz, Florian
-Title: Single Cell RNA-Seq of Colorectal Cancer Organoids.
-Group: Systems Biology of Molecular Networks
+Speaker: Obermayer, Benedikt
+Title: "Global characterization of post-transcriptional gene regulation at the onset of neuronal differentiation"
+Group: Core Unit Bioinformatics
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-
-We will do a winter break after this seminar and restarting our
-ITBmeeting series on 09. January 2018.
 
 See you all tomorrow.
 

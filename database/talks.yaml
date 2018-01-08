@@ -1,6 +1,10 @@
 talks:
+    - name      : Uhlitz, Florian
+      date      : 2017-12-12
+      title     : "Single cell RNAseq of colorectal cancer"
+      slides    :
     - name      : Basti, Alireza
-      date     : 2017-12-05
+      date      : 2017-12-05
       title     : "Gene editing via CRISPR/CAS9"
       slides    :
 

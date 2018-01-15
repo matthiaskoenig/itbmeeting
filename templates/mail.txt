@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Obermayer, Benedikt
-Title: "Global characterization of post-transcriptional gene regulation at the onset of neuronal differentiation"
-Group: Core Unit Bioinformatics
-Location: ITB-House4
+Speaker: Upadhyay, Abhishek
+Title: tba
+Group: Molecular and Cellular Evolution
+Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
 

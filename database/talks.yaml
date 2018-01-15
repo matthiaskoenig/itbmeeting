@@ -1,4 +1,10 @@
 talks:
+    - name      : Obermayer, Benedikt
+      date      : 2018-01-09
+      title     : "Global characterization of post-transcriptional gene regulation at the onset of neuronal differentiation"
+      group     : Bioinformatics Core Unit
+      slides    :
+
     - name      : Uhlitz, Florian
       date      : 2017-12-12
       title     : "Single cell RNAseq of colorectal cancer"

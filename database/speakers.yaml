@@ -1,8 +1,4 @@
 speakers:
-    - name      : Obermayer, Benedikt
-      group     : Core Unit Bioinformatics
-      location  : ITB-House4
-      web       :
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43

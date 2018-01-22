@@ -1,4 +1,9 @@
 talks:
+    - name      : Upadhyay, Abhishek
+      date      : 2018-01-16
+      location  : "Mathematical modeling of circadian clock in Neurospora crassa"
+      slides    :
+
     - name      : Obermayer, Benedikt
       date      : 2018-01-09
       title     : "Global characterization of post-transcriptional gene regulation at the onset of neuronal differentiation"

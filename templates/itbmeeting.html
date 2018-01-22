@@ -26,7 +26,7 @@
         {{ speaker.name }}
         {% endif %}
         </b></td>
-        <td>{{ speaker.group }}</td>
+        <td>{% if speaker.group %}{{ speaker.group }}{% endif %}</td>
         <td>{{ speaker.location }}</td>
     </tr>
     {% endfor %}
@@ -63,7 +63,7 @@ presentation.
             {% endif %}
         </td>
         <td>{{ talk.title }}</td>
-        <td>{{ talk.slides }}</td>
+        <td>{% if talk.slides %}{{ talk.slides }}{% endif %}</td>
         <td></td>
     </tr>
     {% endfor %}

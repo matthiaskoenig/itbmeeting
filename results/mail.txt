@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Upadhyay, Abhishek
+Speaker: Wilkins, Adams
 Title: tba
-Group: Molecular and Cellular Evolution
-Location: ITB-Inv43
+Group:
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
 
@@ -31,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-01-16] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-01-23] Wilkins, Adams  - None - ITB-House4
 [2018-01-30] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2018-02-06] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
@@ -75,6 +74,7 @@ Upcoming speakers:
 [2018-11-06] Ananthasubramaniam, Bharath  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-11-13] Basti, Alireza  - Systems Biology of Cancer - ITB-House4
 [2018-11-20] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
+[2018-11-27] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
 
 Meeting Alumni:
 

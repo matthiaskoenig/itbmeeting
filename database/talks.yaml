@@ -1,7 +1,18 @@
 talks:
+
+    - name      : Witzel, Franziska
+      date      : 2018-01-30
+      title     : "Integral feedback control in Erk1/2 signalling"
+      slides    : 2018-01-30_witzel.pdf
+
+    - name      : Wilkins, Adams
+      date      : 2018-01-23
+      title     : ""
+      slides    :
+
     - name      : Upadhyay, Abhishek
       date      : 2018-01-16
-      location  : "Mathematical modeling of circadian clock in Neurospora crassa"
+      title  : "Mathematical modeling of circadian clock in Neurospora crassa"
       slides    :
 
     - name      : Obermayer, Benedikt

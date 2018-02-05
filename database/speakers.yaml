@@ -1,12 +1,4 @@
 speakers:
-    - name      : Wilkins, Adams
-      group     :
-      location  : ITB-House4
-      web       :
-    - name      : Witzel, Franziska
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : wiki/members/witzel
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
       location  : ITB-Inv43
@@ -118,7 +110,7 @@ speakers:
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
       location  : ITB-House4
-      web       : wiki/groups/koenig
+      web       : https://livermetabolism.com
     - name      : Paul Pfeiffer
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -171,3 +163,11 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
       web       :
+    - name      : Wilkins, Adams
+      group     :
+      location  : ITB-House4
+      web       :
+    - name      : Witzel, Franziska
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/witzel

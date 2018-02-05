@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Wilkins, Adams
-Title: tba
-Group:
+Speaker: Brockmann, Dirk (PI)
+Title: TBA
+Group: Research on Complex Systems
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

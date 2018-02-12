@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Brockmann, Dirk (PI)
+Speaker: Benary, Manuela
 Title: TBA
-Group: Research on Complex Systems
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -73,6 +73,7 @@ Upcoming speakers:
 [2018-11-20] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-11-27] Wilkins, Adams  - None - ITB-House4
 [2018-12-04] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
+[2018-12-11] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv43
 
 Meeting Alumni:
 

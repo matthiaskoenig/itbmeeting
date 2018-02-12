@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Brockmann, Dirk (PI)
+Speaker: Benary, Manuela
 Title: TBA
-Group: Research on Complex Systems
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

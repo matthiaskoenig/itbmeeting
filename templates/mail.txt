@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Benary, Manuela
-Title: TBA
-Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Speaker: Jongen, Clara
+Title: "Defining the scope: A context specific approach to identifying key airports during a pandemic."
+Group: Research on Complex Systems
+Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
 

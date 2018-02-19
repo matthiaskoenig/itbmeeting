@@ -1,9 +1,5 @@
 speakers:
-    - name      : Benary, Manuela
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : ~benary
-    - name      : Baranov, Olga
+    - name      : Clara Jongen
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       :
@@ -35,9 +31,9 @@ speakers:
       group     : Administration
       location  : ITB-Inv43
       web       :
-    - name      : Hammerstein, Peter (PI)
-      group     : Evolution of Organismic Systems
-      location  : ITB-House4
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
       web       :
     - name      : Grzegorzewski, Janek
       group     : Systems Biology Of Liver
@@ -75,9 +71,9 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
-    - name      : Schleimer, Jan-Hendrik
-      group     : Computational Neurophysiology
-      location  : ITB-Inv43
+    - name      : Hammerstein, Peter (PI)
+      group     : Evolution of Organismic Systems
+      location  : ITB-House4
       web       :
     - name      : Remme, Michiel
       group     : Computational Neurophysiology and Neuroscience
@@ -171,3 +167,16 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       : http://rocs.hu-berlin.de/
+    - name      : Benary, Manuela
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : ~benary
+    - name      : Sell, Thomas
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Baranov, Olga
+      group     : Research on Complex Systems
+      location  : ITB-Inv43
+      web       :
+

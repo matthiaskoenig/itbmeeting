@@ -1,4 +1,9 @@
 talks:
+    - name      : Clara Jongen
+      date      : 2018-02-20
+      title     : "Defining the scope: A context specific approach to identifying key airports during a pandemic."
+      slides    :
+
     - name      : Sell, Thomas
       date      : 2018-02-13
       title     : "What is mass cytometry?"

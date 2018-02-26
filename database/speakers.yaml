@@ -1,12 +1,9 @@
 speakers:
-    - name      : Clara Jongen
-      group     : Research on Complex Systems
-      location  : ITB-Inv43
-      web       :
     - name      : Bluethgen, Nils (PI)
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : http://www.sys-bio.net/
+
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv43
@@ -176,6 +173,10 @@ speakers:
       location  : ITB-House4
       web       :
     - name      : Baranov, Olga
+      group     : Research on Complex Systems
+      location  : ITB-Inv43
+      web       :
+    - name      : Clara Jongen
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       :

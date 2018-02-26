@@ -3,12 +3,15 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Jongen, Clara
-Title: "Defining the scope: A context specific approach to identifying key airports during a pandemic."
-Group: Research on Complex Systems
-Location: ITB-Inv43
+Speaker: Bluethgen, Nils (PI)
+Title: tba
+Group: Systems Biology of Molecular Networks
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
+
+Like discussed in the last meeting I will give a lightning tech talk
+"A Quick Introduction to Version Control with Git"
 
 See you all tomorrow.
 

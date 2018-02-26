@@ -3,12 +3,15 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Jongen, Clara
-Title: "Defining the scope: A context specific approach to identifying key airports during a pandemic."
-Group: Research on Complex Systems
-Location: ITB-Inv43
+Speaker: Bluethgen, Nils (PI)
+Title: tba
+Group: Systems Biology of Molecular Networks
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
+
+Like discussed in the last meeting I will give a lightning tech talk
+"A Quick Introduction to Version Control with Git"
 
 See you all tomorrow.
 
@@ -31,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-02-20] Clara Jongen  - Research on Complex Systems - ITB-Inv43
 [2018-02-27] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2018-03-06] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
 [2018-03-13] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
@@ -76,6 +78,7 @@ Upcoming speakers:
 [2018-12-18] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-08] Sell, Thomas  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-15] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
+[2019-01-22] Clara Jongen  - Research on Complex Systems - ITB-Inv43
 
 Meeting Alumni:
 

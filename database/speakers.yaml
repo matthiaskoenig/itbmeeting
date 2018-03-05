@@ -1,21 +1,19 @@
 speakers:
-    - name      : Bluethgen, Nils (PI)
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : http://www.sys-bio.net/
-
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv43
       web       : wiki/members/grosstor
-    - name      : Herzel, Hanspeter (PI)
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       : wiki/members/herzel
+
     - name      : Holzbecher, André
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :
+
+    - name      : Herzel, Hanspeter (PI)
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : wiki/members/herzel
+
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -56,6 +54,10 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
+    - name      : Bluethgen, Nils (PI)
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : http://www.sys-bio.net/
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-House4

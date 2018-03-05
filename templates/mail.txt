@@ -3,15 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Bluethgen, Nils (PI)
-Title: tba
+Speaker: Gross, Torsten
+Title: "A signalling network model predicts differential drug response of PIK3 mutants in a colon cancer cell line."
 Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
-
-Like discussed in the last meeting I will give a lightning tech talk
-"A Quick Introduction to Version Control with Git"
+Lightning tech talk: "Virtual environments in python"
+-----------------------------------------------------------------------
 
 See you all tomorrow.
 
@@ -19,6 +18,9 @@ Best
 Matthias
 
 -----------------------------------------------------------------------
+The information and slides from the lighning talks is available from
+https://github.com/matthiaskoenig/itbtechtalks
+
 Information and past talks are available at
 https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 The calendar for ITB related events is available at

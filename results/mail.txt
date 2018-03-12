@@ -36,12 +36,12 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-03-13] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
+[2018-03-13] Schleimer, Jan-Hendrik  - Computational Neurophysiology - ITB-Inv43
 [2018-03-20] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-03-27] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2018-04-03] Relógio, Angela (PI)  - Systems Biology of Cancer - ITB-House4
 [2018-04-10] Lauterbach, Elvira  - Administration - ITB-Inv43
-[2018-04-17] Schleimer, Jan-Hendrik  - Computational Neurophysiology - ITB-Inv43
+[2018-04-17] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
 [2018-04-24] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
 [2018-05-08] Li, Yin  - Systems Biology of Cancer - ITB-House4
 [2018-05-15] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4

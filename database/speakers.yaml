@@ -1,6 +1,6 @@
 speakers:
-    - name      : Holzbecher, André
-      group     : Theoretical Neuroscience
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
       location  : ITB-Inv43
       web       :
 
@@ -21,8 +21,8 @@ speakers:
       group     : Administration
       location  : ITB-Inv43
       web       :
-    - name      : Schleimer, Jan-Hendrik
-      group     : Computational Neurophysiology
+    - name      : Holzbecher, André
+      group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :
     - name      : Grzegorzewski, Janek

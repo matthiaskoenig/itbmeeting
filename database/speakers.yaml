@@ -1,9 +1,4 @@
 speakers:
-    - name      : Gross, Torsten
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv43
-      web       : wiki/members/grosstor
-
     - name      : Holzbecher, André
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -182,4 +177,7 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv43
       web       :
-
+    - name      : Gross, Torsten
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-Inv43
+      web       : wiki/members/grosstor

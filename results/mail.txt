@@ -3,13 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Gross, Torsten
-Title: "A signalling network model predicts differential drug response of PIK3 mutants in a colon cancer cell line."
-Group: Systems Biology of Molecular Networks
+Speaker: Holzbecher, André
+Title: TBA
+Group: Theoretical Neuroscience
 Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
-Lightning tech talk: "Virtual environments in python"
+Lightning tech talk: "Jupyter notebooks"
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -18,7 +18,7 @@ Best
 Matthias
 
 -----------------------------------------------------------------------
-The information and slides from the lighning talks is available from
+The information and slides from the lightning talks is available from
 https://github.com/matthiaskoenig/itbtechtalks
 
 Information and past talks are available at
@@ -36,7 +36,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-03-06] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
 [2018-03-13] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
 [2018-03-20] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-03-27] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
@@ -81,6 +80,7 @@ Upcoming speakers:
 [2019-01-15] Sell, Thomas  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-22] Baranov, Olga  - Research on Complex Systems - ITB-Inv43
 [2019-01-29] Clara Jongen  - Research on Complex Systems - ITB-Inv43
+[2019-02-05] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv43
 
 Meeting Alumni:
 

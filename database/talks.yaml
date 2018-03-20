@@ -1,10 +1,15 @@
 talks:
+    - name      : Schleimer, Jan-Hendrik
+      date      : 2018-03-13
+      title     : "It's: Monty Python's Flying Circuit"
+      slides    : "https://github.com/matthiaskoenig/itbmeeting/raw/master/slides/2018-03-13_schleimer.pdf"
+
     - name      : Gross, Torsten
       date      : 2018-03-06
       title     : "A signalling network model predicts differential drug response of PIK3 mutants in a colon cancer cell line."
       slides    : wiki/members/grosstor
 
-    - name      : König, Matthias
+    - name      : König, Matthias (PI)
       date      : 2018-02-27
       title     : "A Quick Introduction to Version Control with Git"
       slides    :

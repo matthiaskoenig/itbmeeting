@@ -3,13 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Holzbecher, André
-Title: TBA
-Group: Theoretical Neuroscience
+Speaker: Herzel, Hanspeter (PI)
+Title: "The Choroid Plexus is an Important Circadian Clock Component"
+Group: Herzel, Hanspeter (PI)
 Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
-Lightning tech talk: "Jupyter notebooks"
+Lightning tech talk: "Template languages demonstrated with jinja2"
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -17,14 +17,19 @@ See you all tomorrow.
 Best
 Matthias
 
------------------------------------------------------------------------
-The information and slides from the lightning talks is available from
-https://github.com/matthiaskoenig/itbtechtalks
+P.S. Jan-Hendrik's slides from last weeks talks are available online
+https://github.com/matthiaskoenig/itbmeeting/raw/master/slides/2018-03-13_schleimer.pdf
+as are the slides & example notebooks from the tech talks
+https://github.com/matthiaskoenig/itbtechtalks/tree/gh-pages/talks/03_jupyter
 
+-----------------------------------------------------------------------
 Information and past talks are available at
 https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 The calendar for ITB related events is available at
 https://itb.biologie.hu-berlin.de/wiki/calendar/start
+
+The information and slides from the lightning talks is available from
+https://github.com/matthiaskoenig/itbtechtalks
 
 If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to your research (your own project or a very interesting finding of other groups). Please make sure that the video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement.
 

@@ -1,8 +1,4 @@
 speakers:
-    - name      : Schleimer, Jan-Hendrik
-      group     : Computational Neurophysiology
-      location  : ITB-Inv43
-      web       :
 
     - name      : Herzel, Hanspeter (PI)
       group     : Molecular and Cellular Evolution
@@ -181,3 +177,8 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv43
       web       : wiki/members/grosstor
+
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-Inv43
+      web       :

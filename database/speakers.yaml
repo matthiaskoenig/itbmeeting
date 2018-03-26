@@ -1,14 +1,5 @@
 speakers:
 
-    - name      : Herzel, Hanspeter (PI)
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
-      web       : wiki/members/herzel
-
-    - name      : Klinger, Bertram
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : wiki/members/klinger
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -21,6 +12,10 @@ speakers:
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :
+    - name      : Klinger, Bertram
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/klinger
     - name      : Grzegorzewski, Janek
       group     : Systems Biology Of Liver
       location  : ITB-House4
@@ -182,3 +177,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-Inv43
       web       :
+    - name      : Herzel, Hanspeter (PI)
+      group     : Molecular and Cellular Evolution
+      location  : ITB-Inv43
+      web       : wiki/members/herzel

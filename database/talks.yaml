@@ -1,4 +1,9 @@
 talks:
+    - name      : Herzel, Hanspeter (PI)
+      date      : 2018-03-20
+      title     : "The Choroid Plexus is an Important Circadian Clock Component"
+      slides    : wiki/members/herzel
+
     - name      : Schleimer, Jan-Hendrik
       date      : 2018-03-13
       title     : "It's: Monty Python's Flying Circuit"

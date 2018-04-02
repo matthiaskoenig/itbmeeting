@@ -3,24 +3,17 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Herzel, Hanspeter (PI)
-Title: "The Choroid Plexus is an Important Circadian Clock Component"
-Group: Herzel, Hanspeter (PI)
-Location: ITB-Inv43
+Speaker: Relógio, Angela (PI)
+Title: "A Brief History of Time"
+Group: Systems Biology of Cancer
+Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-Lightning tech talk: "Template languages demonstrated with jinja2"
 -----------------------------------------------------------------------
 
 See you all tomorrow.
 
 Best
 Matthias
-
-P.S. Jan-Hendrik's slides from last weeks talks are available online
-https://github.com/matthiaskoenig/itbmeeting/raw/master/slides/2018-03-13_schleimer.pdf
-as are the slides & example notebooks from the tech talks
-https://github.com/matthiaskoenig/itbtechtalks/tree/gh-pages/talks/03_jupyter
 
 -----------------------------------------------------------------------
 Information and past talks are available at

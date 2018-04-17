@@ -1,13 +1,4 @@
 speakers:
-
-    - name      : Relógio, Angela (PI)
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
-    - name      : Lauterbach, Elvira
-      group     : Administration
-      location  : ITB-Inv43
-      web       :
     - name      : Holzbecher, André
       group     : Theoretical Neuroscience
       location  : ITB-Inv43
@@ -50,10 +41,6 @@ speakers:
       web       :
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-    - name      : Abreu, Mónica
-      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
     - name      : Hammerstein, Peter (PI)
@@ -181,3 +168,11 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv43
       web       : wiki/members/herzel
+    - name      : Relógio, Angela (PI)
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Lauterbach, Elvira
+      group     : Administration
+      location  : ITB-Inv43
+      web       :

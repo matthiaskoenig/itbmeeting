@@ -3,13 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Relógio, Angela (PI)
-Title: "A Brief History of Time"
-Group: Systems Biology of Cancer
-Location: ITB-House4
+Speaker: Holzbecher, André
+Title: "Interneuronal gap junctions increase the synchrony of hippocampal ripple oscillations"
+Group: Theoretical Neuroscience
+Location: ITB-Inv43
 Time: 14.00
 -----------------------------------------------------------------------
-
+Lightning tech talk: "Short introduction to pandas (python)"
+-----------------------------------------------------------------------
 See you all tomorrow.
 
 Best

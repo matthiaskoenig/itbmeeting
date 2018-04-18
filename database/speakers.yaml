@@ -1,8 +1,4 @@
 speakers:
-    - name      : Holzbecher, André
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -46,10 +42,6 @@ speakers:
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
       location  : ITB-House4
-      web       :
-    - name      : Remme, Michiel
-      group     : Computational Neurophysiology and Neuroscience
-      location  : ITB-Inv43
       web       :
     - name      : Rydenfelt, Mattias
       group     : Systems Biology of Molecular Networks
@@ -174,5 +166,9 @@ speakers:
       web       :
     - name      : Lauterbach, Elvira
       group     : Administration
+      location  : ITB-Inv43
+      web       :
+    - name      : Holzbecher, André
+      group     : Theoretical Neuroscience
       location  : ITB-Inv43
       web       :

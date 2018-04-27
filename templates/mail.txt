@@ -3,13 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Holzbecher, André
-Title: "Interneuronal gap junctions increase the synchrony of hippocampal ripple oscillations"
-Group: Theoretical Neuroscience
-Location: ITB-Inv43
+Speaker: Klinger, Bertram
+Title: TBA
+Group: Systems Biology of Molecular Networks
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-Lightning tech talk: "Short introduction to pandas (python)"
+Lightning tech talk: "REST webservices with requests (python)"
 -----------------------------------------------------------------------
 See you all tomorrow.
 

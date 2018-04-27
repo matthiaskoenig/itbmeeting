@@ -1,4 +1,9 @@
 talks:
+    - name      : Klinger, Bertram
+      date      : 2018-04-24
+      title     : "Studying oncogenic effects of RAS"
+      slides    :
+
     - name      : Holzbecher, André
       date      : 2018-04-17
       title     : "Interneuronal gap junctions increase the synchrony of hippocampal ripple oscillations"
@@ -11,7 +16,7 @@ talks:
     - name      : Herzel, Hanspeter (PI)
       date      : 2018-03-20
       title     : "The Choroid Plexus is an Important Circadian Clock Component"
-      slides    : wiki/members/herzel
+      slides    :
 
     - name      : Schleimer, Jan-Hendrik
       date      : 2018-03-13

@@ -3,13 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Holzbecher, André
-Title: "Interneuronal gap junctions increase the synchrony of hippocampal ripple oscillations"
-Group: Theoretical Neuroscience
-Location: ITB-Inv43
+Speaker: Klinger, Bertram
+Title: TBA
+Group: Systems Biology of Molecular Networks
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-Lightning tech talk: "Short introduction to pandas (python)"
+Lightning tech talk: "REST webservices with requests (python)"
 -----------------------------------------------------------------------
 See you all tomorrow.
 
@@ -35,10 +35,9 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-04-24] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2018-05-08] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
-[2018-05-15] Li, Yin  - Systems Biology of Cancer - ITB-House4
-[2018-05-22] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
+[2018-05-15] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
+[2018-05-22] Li, Yin  - Systems Biology of Cancer - ITB-House4
 [2018-05-29] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-06-05] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv43
 [2018-06-12] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
@@ -78,6 +77,7 @@ Upcoming speakers:
 [2019-02-19] Relógio, Angela (PI)  - Systems Biology of Cancer - ITB-House4
 [2019-02-26] Lauterbach, Elvira  - Administration - ITB-Inv43
 [2019-03-05] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
+[2019-03-12] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

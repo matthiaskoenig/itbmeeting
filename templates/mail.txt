@@ -3,13 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Klinger, Bertram
-Title: TBA
-Group: Systems Biology of Molecular Networks
+Speaker: Grzegorzewski, Janek
+Title: "Virus Classification by Pattern Recognition applied on Peptide-Virus Interactions"
+Group: Systems Biology Of Liver
 Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-Lightning tech talk: "REST webservices with requests (python)"
 -----------------------------------------------------------------------
 See you all tomorrow.
 

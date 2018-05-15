@@ -1,4 +1,9 @@
 talks:
+    - name      : Grzegorzewski, Janek
+      date      : 2018-05-08
+      title     : "Virus Classification by Pattern Recognition applied on Peptide-Virus Interactions"
+      slides    :
+
     - name      : Klinger, Bertram
       date      : 2018-04-24
       title     : "Studying oncogenic effects of RAS"

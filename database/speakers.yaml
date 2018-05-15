@@ -1,8 +1,4 @@
 speakers:
-    - name      : Grzegorzewski, Janek
-      group     : Systems Biology Of Liver
-      location  : ITB-House4
-      web       :
 
     - name      : El-Athman, Rukeia
       group     : Systems Biology of Cancer
@@ -176,3 +172,8 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/klinger
+
+    - name      : Grzegorzewski, Janek
+      group     : Systems Biology Of Liver
+      location  : ITB-House4
+      web       :

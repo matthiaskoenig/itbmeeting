@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Grzegorzewski, Janek
-Title: "Virus Classification by Pattern Recognition applied on Peptide-Virus Interactions"
-Group: Systems Biology Of Liver
+Speaker: El-Athman, Rukeia
+Title: TBA
+Group: Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -33,7 +33,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-05-08] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
 [2018-05-15] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2018-05-22] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv43
 [2018-05-29] Li, Yin  - Systems Biology of Cancer - ITB-House4
@@ -76,6 +75,7 @@ Upcoming speakers:
 [2019-02-26] Lauterbach, Elvira  - Administration - ITB-Inv43
 [2019-03-05] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv43
 [2019-03-12] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
+[2019-03-19] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
 
 Meeting Alumni:
 

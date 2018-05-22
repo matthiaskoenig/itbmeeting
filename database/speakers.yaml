@@ -1,13 +1,8 @@
 speakers:
 
-    - name      : El-Athman, Rukeia
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       : wiki/members/elathman
-
     - name      : Del Olmo, Marta
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
 
     - name      : Li, Yin
@@ -15,18 +10,21 @@ speakers:
       location  : ITB-House4
       web       :
 
-    - name      : Evangelista, Roberta
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv43
-      web       :
-    - name      : Meisig, Johannes
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
     - name      : Bluethgen, Nils (PI)
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : http://www.sys-bio.net/
+
+    - name      : Meisig, Johannes
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+
+    - name      : Evangelista, Roberta
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv110
+      web       :
+
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -45,11 +43,23 @@ speakers:
       web       :
     - name      : Schmal, Christoph
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
+
+    - name      : Thurley, Kevin (PI)
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
+      web       :
+
+    - name      : Burt, Phillipp
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
+      web       :
+
+
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
@@ -77,7 +87,7 @@ speakers:
       web       :
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
@@ -85,7 +95,7 @@ speakers:
       web       :
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
@@ -97,11 +107,11 @@ speakers:
       web       :
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       : wiki/members/schuppner
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
@@ -113,7 +123,7 @@ speakers:
       web       :
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Wilkins, Adams
       group     :
@@ -125,7 +135,7 @@ speakers:
       web       : wiki/members/witzel
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       : http://rocs.hu-berlin.de/
     - name      : Benary, Manuela
       group     : Systems Biology of Molecular Networks
@@ -137,24 +147,24 @@ speakers:
       web       :
     - name      : Baranov, Olga
       group     : Research on Complex Systems
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Clara Jongen
       group     : Research on Complex Systems
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       : wiki/members/grosstor
 
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Herzel, Hanspeter (PI)
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       : wiki/members/herzel
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
@@ -162,11 +172,11 @@ speakers:
       web       :
     - name      : Lauterbach, Elvira
       group     : Administration
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Holzbecher, André
       group     : Theoretical Neuroscience
-      location  : ITB-Inv43
+      location  : ITB-Inv110
       web       :
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
@@ -177,3 +187,8 @@ speakers:
       group     : Systems Biology Of Liver
       location  : ITB-House4
       web       :
+
+    - name      : El-Athman, Rukeia
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       : wiki/members/elathman

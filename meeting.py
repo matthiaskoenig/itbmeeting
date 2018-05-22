@@ -88,11 +88,13 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     """
     days_ahead = weekday - d.weekday()
     if days_ahead < 1:  # Target day already happened this week (or monday)
-        days_ahead += 7
+         days_ahead += 7
     # this is the next possible date
 
     next_d = d + datetime.timedelta(days_ahead)
-    #next_d = next_d - datetime.timedelta(7)
+    # print(next_d)
+    # next_d = next_d - datetime.timedelta(7)
+
 
     # skip all the German holidays
     if skip_holidays:
@@ -144,8 +146,7 @@ def update_outreach():
 
         # get expected date of the talk (k+1 Tuesdays from now)
         date = get_next_dayofweek(date, weekday=tuesday)
-
-        speaker['pdate'] = date
+        speaker['pdate'] = date - datetime.timedelta(7)
 
         # add to people dict
         people_dict[speaker['name']] = speaker

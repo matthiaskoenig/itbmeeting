@@ -1,4 +1,9 @@
 talks:
+    - name      : El-Athman, Rukeia
+      date      : 2018-05-15
+      title     : "Analysis of the circadian splicosome"
+      slides    :
+
     - name      : Grzegorzewski, Janek
       date      : 2018-05-08
       title     : "Virus Classification by Pattern Recognition applied on Peptide-Virus Interactions"

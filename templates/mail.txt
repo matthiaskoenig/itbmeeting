@@ -1,16 +1,15 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting today.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Del Olmo, Marta
+Speaker: Li, Yin
 Title: TBA
-Group: Molecular and Cellular Evolution
+Group: Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-Tech talk: Systems Biology Markup Language (SBML) and libsbml
------------------------------------------------------------------------
+
 See you all tomorrow.
 
 Best

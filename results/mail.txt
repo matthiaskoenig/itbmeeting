@@ -3,14 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Del Olmo, Marta
+Speaker: Li, Yin
 Title: TBA
-Group: Molecular and Cellular Evolution
+Group: Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-Tech talk: Systems Biology Markup Language (SBML) and libsbml
------------------------------------------------------------------------
+
 See you all tomorrow.
 
 Best
@@ -35,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-05-22] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
 [2018-05-29] Li, Yin  - Systems Biology of Cancer - ITB-House4
 [2018-06-05] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2018-06-12] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
@@ -65,7 +63,7 @@ Upcoming speakers:
 [2018-11-27] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
 [2018-12-04] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv110
 [2018-12-11] Wilkins, Adams  - None - ITB-House4
-[2019-01-01] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
+[2018-12-18] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-08] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv110
 [2019-01-15] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-22] Sell, Thomas  - Systems Biology of Molecular Networks - ITB-House4
@@ -80,6 +78,7 @@ Upcoming speakers:
 [2019-03-26] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
 [2019-04-02] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
 [2019-04-09] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
+[2019-04-16] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
 
 Meeting Alumni:
 

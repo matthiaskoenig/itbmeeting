@@ -1,4 +1,10 @@
 talks:
+
+    - name      : Del Olmo, Marta
+      date      : 2018-05-21
+      title     : "Circadian redox system"
+      slides    :
+
     - name      : El-Athman, Rukeia
       date      : 2018-05-15
       title     : "Analysis of the circadian splicosome"

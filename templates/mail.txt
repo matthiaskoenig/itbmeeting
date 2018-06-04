@@ -1,11 +1,11 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting tomorrow.
+Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Li, Yin
-Title: TBA
-Group: Systems Biology of Cancer
+Speaker: Bluethgen, Nils (PI)
+Title: Colon cancer, cell by cell
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

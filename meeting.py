@@ -146,7 +146,7 @@ def update_outreach():
 
         # get expected date of the talk (k+1 Tuesdays from now)
         date = get_next_dayofweek(date, weekday=tuesday)
-        speaker['pdate'] = date
+        speaker['pdate'] = date + datetime.timedelta(-7)
 
         # add to people dict
         people_dict[speaker['name']] = speaker

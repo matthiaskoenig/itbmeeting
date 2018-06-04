@@ -1,5 +1,10 @@
 talks:
 
+    - name      : Li, Yin
+      date      : 2018-05-28
+      title     : "Characterization of circadian clock in mammalian cancer cells"
+      slides    :
+
     - name      : Del Olmo, Marta
       date      : 2018-05-21
       title     : "Circadian redox system"

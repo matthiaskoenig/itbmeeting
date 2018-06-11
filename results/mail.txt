@@ -3,11 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Bluethgen, Nils (PI)
-Title: Colon cancer, cell by cell
+Speaker: Meisig, Johannes
+Title: Reconstructing gene regulatory networks in stem cells
 Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
+-----------------------------------------------------------------------
+Tech talk: matplotlib - data visualization in python
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -34,7 +36,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-06-05] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2018-06-12] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
 [2018-06-19] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv110
 [2018-06-26] Genov, Nikolai  - Systems Biology of Cancer - ITB-House4
@@ -62,7 +63,7 @@ Upcoming speakers:
 [2018-11-27] Basti, Alireza  - Systems Biology of Cancer - ITB-House4
 [2018-12-04] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
 [2018-12-11] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv110
-[2019-01-01] Wilkins, Adams  - None - ITB-House4
+[2018-12-18] Wilkins, Adams  - None - ITB-House4
 [2019-01-08] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
 [2019-01-15] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv110
 [2019-01-22] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
@@ -80,6 +81,7 @@ Upcoming speakers:
 [2019-04-16] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
 [2019-04-23] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
 [2019-04-30] Li, Yin  - Systems Biology of Cancer - ITB-House4
+[2019-05-07] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

@@ -3,11 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Bluethgen, Nils (PI)
-Title: Colon cancer, cell by cell
+Speaker: Meisig, Johannes
+Title: Reconstructing gene regulatory networks in stem cells
 Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
+-----------------------------------------------------------------------
+Tech talk: matplotlib - data visualization in python
 -----------------------------------------------------------------------
 
 See you all tomorrow.

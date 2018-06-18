@@ -3,13 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Meisig, Johannes
-Title: Reconstructing gene regulatory networks in stem cells
-Group: Systems Biology of Molecular Networks
+Speaker: Evangelista, Roberta
+Title: A 3-populations spiking model for the generation of hippocampal sharp wave-ripple oscillations
+Group: Theoretical Neuroscience
 Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-Tech talk: matplotlib - data visualization in python
 -----------------------------------------------------------------------
 
 See you all tomorrow.

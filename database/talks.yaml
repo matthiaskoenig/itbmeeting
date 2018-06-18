@@ -1,4 +1,10 @@
 talks:
+
+    - name      : Meisig, Johannes
+      date      : 2018-06-12
+      title     : "Reconstructing gene regulatory networks in stem cells"
+      slides    :
+
     - name      : Bluethgen, Nils (PI)
       date      : 2018-06-05
       title     : "Colon cancer - cell by cell"

@@ -1,17 +1,13 @@
 speakers:
-    - name      : Meisig, Johannes
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
 
     - name      : Evangelista, Roberta
       group     : Theoretical Neuroscience
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
 
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       :
 
     - name      : Winkelhöfer, Karin
@@ -197,3 +193,8 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : http://www.sys-bio.net/
+
+    - name      : Meisig, Johannes
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :

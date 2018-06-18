@@ -3,13 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting today.
 
 -----------------------------------------------------------------------
-Speaker: Meisig, Johannes
-Title: Reconstructing gene regulatory networks in stem cells
-Group: Systems Biology of Molecular Networks
+Speaker: Evangelista, Roberta
+Title: A 3-populations spiking model for the generation of hippocampal sharp wave-ripple oscillations
+Group: Theoretical Neuroscience
 Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-Tech talk: matplotlib - data visualization in python
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -23,7 +21,7 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 The calendar for ITB related events is available at
 https://itb.biologie.hu-berlin.de/wiki/calendar/start
 
-The information and slides from the lightning talks is available from
+The information, notebooks and slides from the lightning talks are available from
 https://github.com/matthiaskoenig/itbtechtalks
 
 If it is your turn at the ITB meeting, please prepare a short talk (15 min + 5 min discussion) that is related to your research (your own project or a very interesting finding of other groups). Please make sure that the video-projector and laptop are in place at 14:00. If you are scheduled for House 4 - the projector is already installed in the seminar room. If you are unable to give the talk at the date indicated, please find a replacement.
@@ -36,9 +34,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-06-12] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
-[2018-06-19] Evangelista, Roberta  - Theoretical Neuroscience - ITB-Inv110
-[2018-06-26] Genov, Nikolai  - Systems Biology of Cancer - ITB-House4
+[2018-06-19] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
+[2018-06-26] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
 [2018-07-03] Winkelhöfer, Karin  - ITB - ITB-House4
 [2018-07-10] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
 [2018-07-17] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
@@ -82,6 +79,7 @@ Upcoming speakers:
 [2019-04-23] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
 [2019-04-30] Li, Yin  - Systems Biology of Cancer - ITB-House4
 [2019-05-07] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
+[2019-05-14] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

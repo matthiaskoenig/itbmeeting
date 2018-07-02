@@ -1,11 +1,11 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting today.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Evangelista, Roberta
-Title: A 3-populations spiking model for the generation of hippocampal sharp wave-ripple oscillations
-Group: Theoretical Neuroscience
+Speaker: Reifenstein, Eric
+Title: Neuronal mechanisms of sequence learning
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -34,10 +34,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-06-19] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
-[2018-06-26] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
-[2018-07-03] Winkelhöfer, Karin  - ITB - ITB-House4
-[2018-07-10] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
+[2018-07-03] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
+[2018-07-10] Winkelhöfer, Karin  - ITB - ITB-Inv110
 [2018-07-17] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
 [2018-07-24] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
 [2018-07-31] Schmal, Christoph  - Molecular and Cellular Evolution - ITB-Inv110
@@ -80,6 +78,8 @@ Upcoming speakers:
 [2019-04-30] Li, Yin  - Systems Biology of Cancer - ITB-House4
 [2019-05-07] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
 [2019-05-14] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
+[2019-05-21] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
+[2019-05-28] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
 
 Meeting Alumni:
 

@@ -1,11 +1,11 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting today.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Evangelista, Roberta
-Title: A 3-populations spiking model for the generation of hippocampal sharp wave-ripple oscillations
-Group: Theoretical Neuroscience
+Speaker: Reifenstein, Eric
+Title: Neuronal mechanisms of sequence learning
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

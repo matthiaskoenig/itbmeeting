@@ -1,24 +1,15 @@
 speakers:
 
-    - name      : Evangelista, Roberta
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
-
-    - name      : Genov, Nikolai
-      group     : Systems Biology of Cancer
-      location  : ITB-Inv110
-      web       :
-
-    - name      : Winkelhöfer, Karin
-      group     : ITB
-      location  : ITB-House4
-      web       :
-
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+
+    - name      : Winkelhöfer, Karin
+      group     : ITB
+      location  : ITB-Inv110
+      web       :
+
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
       location  : ITB-House4
@@ -197,4 +188,14 @@ speakers:
     - name      : Meisig, Johannes
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
+      web       :
+
+    - name      : Evangelista, Roberta
+      group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+
+    - name      : Genov, Nikolai
+      group     : Systems Biology of Cancer
+      location  : ITB-Inv110
       web       :

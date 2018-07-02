@@ -1,4 +1,13 @@
 talks:
+    - name      : Genov, Nikolai
+      date      : 2018-06-26
+      title     : ""
+      slides    :
+
+    - name      : Evangelista, Roberta
+      date      : 2018-06-19
+      title     : "A 3-populations spiking model for the generation of hippocampal sharp wave-ripple oscillations"
+      slides    :
 
     - name      : Meisig, Johannes
       date      : 2018-06-12

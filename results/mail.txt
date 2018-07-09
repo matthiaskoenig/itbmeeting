@@ -3,11 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Reifenstein, Eric
-Title: Neuronal mechanisms of sequence learning
-Group: Computational Neurophysiology
-Location: ITB-House4
+Speaker: Winkelhöfer, Karin
+Title: Berlin’s waste water management during the Cold War (1945 – 1989)
+Group: ITB
+Location: ITB-Inv110
 Time: 14.00
+-----------------------------------------------------------------------
+ITBTechTalk: A simple machine-learning example with TensorFlow
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -34,7 +36,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-07-03] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
 [2018-07-10] Winkelhöfer, Karin  - ITB - ITB-Inv110
 [2018-07-17] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
 [2018-07-24] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
@@ -80,6 +81,7 @@ Upcoming speakers:
 [2019-05-14] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
 [2019-05-21] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
 [2019-05-28] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
+[2019-06-04] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
 
 Meeting Alumni:
 

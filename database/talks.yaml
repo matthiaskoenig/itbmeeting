@@ -1,4 +1,9 @@
 talks:
+    - name      : Reifenstein, Eric
+      date      : 2018-07-03
+      title     : "Neuronal mechanisms of sequence learning"
+      slides    :
+
     - name      : Genov, Nikolai
       date      : 2018-06-26
       title     : ""

@@ -1,15 +1,9 @@
 speakers:
 
-    - name      : Reifenstein, Eric
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Winkelhöfer, Karin
       group     : ITB
       location  : ITB-Inv110
       web       :
-
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
       location  : ITB-House4
@@ -198,4 +192,9 @@ speakers:
     - name      : Genov, Nikolai
       group     : Systems Biology of Cancer
       location  : ITB-Inv110
+      web       :
+
+    - name      : Reifenstein, Eric
+      group     : Computational Neurophysiology
+      location  : ITB-House4
       web       :

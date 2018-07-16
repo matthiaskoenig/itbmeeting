@@ -1,4 +1,9 @@
 talks:
+    - name      : Winkelhöfer, Karin
+      date      : 2018-07-10
+      title     : "Berlin waste water management"
+      slides       :
+
     - name      : Reifenstein, Eric
       date      : 2018-07-03
       title     : "Neuronal mechanisms of sequence learning"

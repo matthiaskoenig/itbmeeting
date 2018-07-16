@@ -113,6 +113,12 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
                         datetime.date(2017, 12, 19),
                         datetime.date(2018, 1, 2),
                         datetime.date(2018, 3, 27),
+                        datetime.date(2018, 7, 24),
+                        datetime.date(2018, 7, 31),
+                        datetime.date(2018, 8, 7),
+                        datetime.date(2018, 8, 14),
+                        datetime.date(2018, 8, 21),
+                        datetime.date(2018, 8, 28),
                         ]
         de_holidays = holidays.Germany(years=[2016, 2017])
         while next_d in de_holidays or next_d in itb_holidays:

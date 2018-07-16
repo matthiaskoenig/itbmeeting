@@ -3,14 +3,16 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Speaker: Winkelhöfer, Karin
-Title: Berlin’s waste water management during the Cold War (1945 – 1989)
-Group: ITB
-Location: ITB-Inv110
+Title: „Celebrating the end of the semester with a look at Australian outback adventures“
+Speaker: Hammerstein, Peter (PI)
+Group: Evolution of Organismic Systems
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-ITBTechTalk: A simple machine-learning example with TensorFlow
------------------------------------------------------------------------
+
+The ITBmeeting will be on summer break in the second half of July and the complete August.
+- Last meeting before the break will be tomorrow (17.July)
+- First meeting after the break would be 4th of September.
 
 See you all tomorrow.
 

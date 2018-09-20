@@ -1,24 +1,24 @@
 speakers:
-    - name      : Schmal, Christoph
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       :
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
       location  : ITB-Inv110
       web       :
-    - name      : Steuer, Ralf (PI)
-      group     : Metabolic Networks
+    - name      : Carlos Aguilar (PI)
+      group     : "-"
       location  : ITB-House4
       web       :
-    - name      : Romanczuk, Pawel (PI)
-      group     : Collective Information Processing
+    - name      : Steuer, Ralf (PI)
+      group     : Metabolic Networks
       location  : ITB-House4
       web       :
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
       location  : ITB-House4
       web       : https://livermetabolism.com
+    - name      : Romanczuk, Pawel (PI)
+      group     : Collective Information Processing
+      location  : ITB-House4
+      web       :
     - name      : Paul Pfeiffer
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -195,5 +195,9 @@ speakers:
       web       :
     - name      : Rydenfelt, Mattias
       group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Schmal, Christoph
+      group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :

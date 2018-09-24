@@ -34,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-09-25] Schreiber, Susanne (PI)  - Computational Neurophysiology - ITB-Inv110
 [2018-10-02] Carlos Aguilar (PI)  - - - ITB-House4
 [2018-10-09] Steuer, Ralf (PI)  - Metabolic Networks - ITB-House4
 [2018-10-16] König, Matthias (PI)  - Systems Biology of Liver - ITB-House4
@@ -55,32 +54,33 @@ Upcoming speakers:
 [2019-02-12] Uhlitz, Florian  - Systems Biology of Molecular Networks - ITB-House4
 [2019-02-19] Upadhyay, Abhishek  - Molecular and Cellular Evolution - ITB-Inv110
 [2019-02-26] Wilkins, Adams  - None - ITB-House4
-[2019-03-05] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
-[2019-03-12] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv110
-[2019-03-19] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
-[2019-03-26] Sell, Thomas  - Systems Biology of Molecular Networks - ITB-House4
-[2019-04-02] Baranov, Olga  - Research on Complex Systems - ITB-Inv110
-[2019-04-09] Clara Jongen  - Research on Complex Systems - ITB-Inv110
-[2019-04-16] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv110
-[2019-04-23] Schleimer, Jan-Hendrik  - Computational Neurophysiology - ITB-Inv110
-[2019-04-30] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv110
-[2019-05-07] Relógio, Angela (PI)  - Systems Biology of Cancer - ITB-House4
-[2019-05-14] Lauterbach, Elvira  - Administration - ITB-Inv110
-[2019-05-21] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv110
-[2019-05-28] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
-[2019-06-04] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
-[2019-06-11] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
-[2019-06-18] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
-[2019-06-25] Li, Yin  - Systems Biology of Cancer - ITB-House4
-[2019-07-02] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
-[2019-07-09] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
-[2019-07-16] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
-[2019-07-23] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
-[2019-07-30] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
-[2019-08-06] Winkelhöfer, Karin  - ITB - ITB-Inv110
-[2019-08-13] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
-[2019-08-20] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
-[2019-08-27] Schmal, Christoph  - Molecular and Cellular Evolution - ITB-House4
+[2019-03-05] Schreiber, Susanne (PI)  - Computational Neurophysiology - ITB-Inv110
+[2019-03-12] Witzel, Franziska  - Systems Biology of Molecular Networks - ITB-House4
+[2019-03-19] Brockmann, Dirk (PI)  - Research on Complex Systems - ITB-Inv110
+[2019-03-26] Benary, Manuela  - Systems Biology of Molecular Networks - ITB-House4
+[2019-04-02] Sell, Thomas  - Systems Biology of Molecular Networks - ITB-House4
+[2019-04-09] Baranov, Olga  - Research on Complex Systems - ITB-Inv110
+[2019-04-16] Clara Jongen  - Research on Complex Systems - ITB-Inv110
+[2019-04-23] Gross, Torsten  - Systems Biology of Molecular Networks - ITB-Inv110
+[2019-04-30] Schleimer, Jan-Hendrik  - Computational Neurophysiology - ITB-Inv110
+[2019-05-07] Herzel, Hanspeter (PI)  - Molecular and Cellular Evolution - ITB-Inv110
+[2019-05-14] Relógio, Angela (PI)  - Systems Biology of Cancer - ITB-House4
+[2019-05-21] Lauterbach, Elvira  - Administration - ITB-Inv110
+[2019-05-28] Holzbecher, André  - Theoretical Neuroscience - ITB-Inv110
+[2019-06-04] Klinger, Bertram  - Systems Biology of Molecular Networks - ITB-House4
+[2019-06-11] Grzegorzewski, Janek  - Systems Biology Of Liver - ITB-House4
+[2019-06-18] El-Athman, Rukeia  - Systems Biology of Cancer - ITB-House4
+[2019-06-25] Del Olmo, Marta  - Molecular and Cellular Evolution - ITB-Inv110
+[2019-07-02] Li, Yin  - Systems Biology of Cancer - ITB-House4
+[2019-07-09] Bluethgen, Nils (PI)  - Systems Biology of Molecular Networks - ITB-House4
+[2019-07-16] Meisig, Johannes  - Systems Biology of Molecular Networks - ITB-House4
+[2019-07-23] Evangelista, Roberta  - Theoretical Neuroscience - ITB-House4
+[2019-07-30] Genov, Nikolai  - Systems Biology of Cancer - ITB-Inv110
+[2019-08-06] Reifenstein, Eric  - Computational Neurophysiology - ITB-House4
+[2019-08-13] Winkelhöfer, Karin  - ITB - ITB-Inv110
+[2019-08-20] Hammerstein, Peter (PI)  - Evolution of Organismic Systems - ITB-House4
+[2019-08-27] Rydenfelt, Mattias  - Systems Biology of Molecular Networks - ITB-House4
+[2019-09-03] Schmal, Christoph  - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 

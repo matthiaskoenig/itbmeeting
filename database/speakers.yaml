@@ -1,19 +1,16 @@
 speakers:
-    - name      : Schreiber, Susanne (PI)
-      group     : Computational Neurophysiology
-      location  : ITB-Inv110
-      web       :
+
     - name      : Carlos Aguilar (PI)
       group     : "-"
       location  : ITB-House4
       web       :
     - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       :
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       : https://livermetabolism.com
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
@@ -85,6 +82,10 @@ speakers:
     - name      : Wilkins, Adams
       group     :
       location  : ITB-House4
+      web       :
+    - name      : Schreiber, Susanne (PI)
+      group     : Computational Neurophysiology
+      location  : ITB-Inv110
       web       :
     - name      : Witzel, Franziska
       group     : Systems Biology of Molecular Networks

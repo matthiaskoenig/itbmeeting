@@ -67,21 +67,20 @@ Upcoming speakers:
 [2019-05-07] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-Inv110
 [2019-05-14] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2019-05-21] Lauterbach, Elvira - Administration - ITB-Inv110
-[2019-05-28] Holzbecher, André - Theoretical Neuroscience - ITB-Inv110
-[2019-06-04] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
-[2019-06-11] Grzegorzewski, Janek - Systems Biology Of Liver - ITB-House4
-[2019-06-18] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
-[2019-06-25] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-Inv110
-[2019-07-02] Li, Yin - Systems Biology of Cancer - ITB-House4
-[2019-07-09] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
-[2019-07-16] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
-[2019-07-23] Evangelista, Roberta - Theoretical Neuroscience - ITB-House4
-[2019-07-30] Genov, Nikolai - Systems Biology of Cancer - ITB-Inv110
-[2019-08-06] Reifenstein, Eric - Computational Neurophysiology - ITB-House4
-[2019-08-13] Winkelhöfer, Karin - ITB - ITB-Inv110
-[2019-08-20] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
-[2019-08-27] Rydenfelt, Mattias - Systems Biology of Molecular Networks - ITB-House4
-[2019-09-03] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
+[2019-05-28] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
+[2019-06-04] Grzegorzewski, Janek - Systems Biology Of Liver - ITB-House4
+[2019-06-11] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
+[2019-06-18] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-Inv110
+[2019-06-25] Li, Yin - Systems Biology of Cancer - ITB-House4
+[2019-07-02] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
+[2019-07-09] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
+[2019-07-16] Evangelista, Roberta - Theoretical Neuroscience - ITB-House4
+[2019-07-23] Genov, Nikolai - Systems Biology of Cancer - ITB-Inv110
+[2019-07-30] Reifenstein, Eric - Computational Neurophysiology - ITB-House4
+[2019-08-06] Winkelhöfer, Karin - ITB - ITB-Inv110
+[2019-08-13] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
+[2019-08-20] Rydenfelt, Mattias - Systems Biology of Molecular Networks - ITB-House4
+[2019-08-27] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 
@@ -106,3 +105,4 @@ Hesse, Janina - Computational Neurophysiology
 Kremkow, Jens - Theoretical Neuroscience
 Abreu, Mónica - Systems Biology of Cancer
 Remme, Michiel - Computational Neurophysiology and Neuroscience
+Holzbecher, André - Theoretical Neuroscience

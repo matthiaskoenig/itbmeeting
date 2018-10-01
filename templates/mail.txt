@@ -3,9 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Dissociation of Intracellular Feedback Loops in the Mammalian Circadian Clock"
-Speaker: Schmal, Christoph
-Group: Molecular and Cellular Evolution
+Title: "Mapping the fungal web: Ecosystem functions to inspire human-made networks"
+Speaker: Aguilar, Carlos
+Group: Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
+       http://www.aguilar-ecology.com/
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -35,7 +36,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 Upcoming speakers:
 
 {% for speaker in speakers %}
-[{{ speaker.pdate}}] {{ speaker.name }}  - {{ speaker.group }} - {{ speaker.location }}
+[{{ speaker.pdate}}] {{ speaker.name }} - {{ speaker.group }} - {{ speaker.location }}
 {% endfor %}
 
 Meeting Alumni:

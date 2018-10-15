@@ -3,11 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Mapping the fungal web: Ecosystem functions to inspire human-made networks"
-Speaker: Aguilar, Carlos
-Group: Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
-       http://www.aguilar-ecology.com/
-Location: ITB-House4
+Title: "Modeling Dynamical Liver Function Tests - LiMAx"
+Speaker: König, Matthias (PI)
+Group: Systems Biology of Liver
+       https://livermetabolism.com
+Location: ITB-Inv110 (Invalidenstr. 110, R459)
 Time: 14.00
 -----------------------------------------------------------------------
 
@@ -35,11 +35,9 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-10-02] Carlos Aguilar (PI) - Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology - ITB-House4
-[2018-10-09] Steuer, Ralf (PI) - Metabolic Networks - ITB-Inv110
 [2018-10-16] König, Matthias (PI) - Systems Biology of Liver - ITB-Inv110
-[2018-10-23] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
-[2018-10-30] Paul Pfeiffer - Computational Neurophysiology - ITB-House4
+[2018-10-23] Paul Pfeiffer - Computational Neurophysiology - ITB-House4
+[2018-10-30] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2018-11-06] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2018-11-13] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2018-11-20] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-Inv110
@@ -81,6 +79,8 @@ Upcoming speakers:
 [2019-08-13] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
 [2019-08-20] Rydenfelt, Mattias - Systems Biology of Molecular Networks - ITB-House4
 [2019-08-27] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
+[2019-09-03] Carlos Aguilar (PI) - Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology - ITB-House4
+[2019-09-10] Steuer, Ralf (PI) - Metabolic Networks - ITB-Inv110
 
 Meeting Alumni:
 

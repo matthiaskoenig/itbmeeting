@@ -1,4 +1,12 @@
 talks:
+    - name      : Steuer, Ralf (PI)
+      date      : 2018-10-09
+      title     : "Modelling Phototrophic Growth"
+      slides    :
+    - name      : Carlos Aguilar (PI)
+      date      : 2018-10-02
+      title     : "Mapping the fungal web: Ecosystem functions to inspire human-made networks"
+      slides    :
     - name      : Schmal, Christoph
       date      : 2018-09-18
       title     : "Dissociation of Intracellular Feedback Loops in the Mammalian Circadian Clock"

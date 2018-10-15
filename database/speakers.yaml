@@ -1,23 +1,15 @@
 speakers:
-
-    - name      : Carlos Aguilar (PI)
-      group     : Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
-      location  : ITB-House4
-      web       :
-    - name      : Steuer, Ralf (PI)
-      group     : Metabolic Networks
-      location  : ITB-Inv110
-      web       :
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
       location  : ITB-Inv110
       web       : https://livermetabolism.com
-    - name      : Romanczuk, Pawel (PI)
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
+
     - name      : Paul Pfeiffer
       group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Romanczuk, Pawel (PI)
+      group     : Collective Information Processing
       location  : ITB-House4
       web       :
     - name      : Rose, Pia
@@ -197,4 +189,13 @@ speakers:
     - name      : Schmal, Christoph
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
+      web       :
+
+    - name      : Carlos Aguilar (PI)
+      group     : Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
+      location  : ITB-House4
+      web       :
+    - name      : Steuer, Ralf (PI)
+      group     : Metabolic Networks
+      location  : ITB-Inv110
       web       :

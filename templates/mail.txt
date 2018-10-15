@@ -3,11 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Mapping the fungal web: Ecosystem functions to inspire human-made networks"
-Speaker: Aguilar, Carlos
-Group: Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
-       http://www.aguilar-ecology.com/
-Location: ITB-House4
+Title: "Modeling Dynamical Liver Function Tests - LiMAx"
+Speaker: König, Matthias (PI)
+Group: Systems Biology of Liver
+       https://livermetabolism.com
+Location: ITB-Inv110 (Invalidenstr. 110, R459)
 Time: 14.00
 -----------------------------------------------------------------------
 

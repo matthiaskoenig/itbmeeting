@@ -1,9 +1,4 @@
 speakers:
-    - name      : König, Matthias (PI)
-      group     : Systems Biology of Liver
-      location  : ITB-Inv110
-      web       : https://livermetabolism.com
-
     - name      : Paul Pfeiffer
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -49,6 +44,10 @@ speakers:
       web       :
     - name      : Klamser, Pascal
       group     : Collective Information Processing
+      location  : ITB-House4
+      web       :
+    - name      : Lauterbach, Elvira & Winkelhöfer Karin
+      group     : ITB Administration
       location  : ITB-House4
       web       :
     - name      : Schuppner, Rike-Benjamin
@@ -199,3 +198,7 @@ speakers:
       group     : Metabolic Networks
       location  : ITB-Inv110
       web       :
+    - name      : König, Matthias (PI)
+      group     : Systems Biology of Liver
+      location  : ITB-Inv110
+      web       : https://livermetabolism.com

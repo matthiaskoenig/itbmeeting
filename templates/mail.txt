@@ -3,11 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Modeling Dynamical Liver Function Tests - LiMAx"
-Speaker: König, Matthias (PI)
-Group: Systems Biology of Liver
-       https://livermetabolism.com
-Location: ITB-Inv110 (Invalidenstr. 110, R459)
+Title: "Short term memory - Bistable neurons and reverberatory networks"
+Speaker: Paul Pfeiffer
+Group: Computational Neurophysiology
+Location: ITB-House 4
 Time: 14.00
 -----------------------------------------------------------------------
 

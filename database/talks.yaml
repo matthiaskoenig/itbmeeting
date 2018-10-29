@@ -1,4 +1,8 @@
 talks:
+    - name: Pfeiffer, Paul
+      group: 2018-10-23
+      title: "Short term memory - Bistable neurons and reverberatory networks"
+      slides:
     - name      : König, Matthias (PI)
       date      : 2018-10-16
       title     : "Modelling liver function tests - LiMAx"

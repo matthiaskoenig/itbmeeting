@@ -1,8 +1,4 @@
 speakers:
-    - name      : Pfeiffer, Paul
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
       location  : ITB-House4
@@ -202,3 +198,7 @@ speakers:
       group     : Systems Biology of Liver
       location  : ITB-Inv110
       web       : https://livermetabolism.com
+    - name      : Pfeiffer, Paul
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :

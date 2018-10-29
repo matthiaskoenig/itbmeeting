@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Short term memory - Bistable neurons and reverberatory networks"
-Speaker: Paul Pfeiffer
-Group: Computational Neurophysiology
+Title: "TBA"
+Speaker: Romanczuk, Pawel (PI)
+Group: Collective Information Processing
 Location: ITB-House 4
 Time: 14.00
 -----------------------------------------------------------------------

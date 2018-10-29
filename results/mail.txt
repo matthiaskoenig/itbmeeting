@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Short term memory - Bistable neurons and reverberatory networks"
-Speaker: Paul Pfeiffer
-Group: Computational Neurophysiology
+Title: TBA
+Speaker: Romanczuk, Pawel (PI)
+Group: Collective Information Processing
 Location: ITB-House 4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -34,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2018-10-23] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2018-10-30] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2018-11-06] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2018-11-13] Contreras, Susana - Computational Neurophysiology - ITB-House4
@@ -81,6 +80,7 @@ Upcoming speakers:
 [2019-09-10] Carlos Aguilar (PI) - Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology - ITB-House4
 [2019-09-17] Steuer, Ralf (PI) - Metabolic Networks - ITB-Inv110
 [2019-09-24] König, Matthias (PI) - Systems Biology of Liver - ITB-Inv110
+[2019-10-01] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 
 Meeting Alumni:
 

@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "TBA"
-Speaker: Romanczuk, Pawel (PI)
-Group: Collective Information Processing
+Title: TBA
+Speaker: Rose, Pia
+Group: Computational Neurophysiology
 Location: ITB-House 4
 Time: 14.00
 -----------------------------------------------------------------------

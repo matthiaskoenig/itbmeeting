@@ -1,8 +1,4 @@
 speakers:
-    - name      : Romanczuk, Pawel (PI)
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
     - name      : Rose, Pia
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -200,5 +196,9 @@ speakers:
       web       : https://livermetabolism.com
     - name      : Pfeiffer, Paul
       group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : Romanczuk, Pawel (PI)
+      group     : Collective Information Processing
       location  : ITB-House4
       web       :

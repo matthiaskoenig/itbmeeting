@@ -1,8 +1,12 @@
 talks:
-    - name: Pfeiffer, Paul
-      group: 2018-10-23
-      title: "Short term memory - Bistable neurons and reverberatory networks"
+    - name      : Romanczuk, Pawel (PI)
+      date      : 2018-10-30
+      title     : "Less is more - Limited attention facilitates collective migration in complex environments"
       slides:
+    - name      : Pfeiffer, Paul
+      date      : 2018-10-23
+      title     : "Short term memory - Bistable neurons and reverberatory networks"
+      slides    :
     - name      : König, Matthias (PI)
       date      : 2018-10-16
       title     : "Modelling liver function tests - LiMAx"

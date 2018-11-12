@@ -1,4 +1,8 @@
 talks:
+    - name      : Rose, Pia
+      date      : 2018-11-06
+      title     : "Neurobiology without neurons"
+      slides    :
     - name      : Romanczuk, Pawel (PI)
       date      : 2018-10-30
       title     : "Less is more - Limited attention facilitates collective migration in complex environments"

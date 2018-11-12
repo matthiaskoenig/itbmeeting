@@ -1,13 +1,8 @@
 speakers:
-    - name      : Rose, Pia
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-
     - name      : Thurley, Kevin (PI)
       group     : Systems Biology of Inflammation
       location  : ITB-Inv110
@@ -200,5 +195,9 @@ speakers:
       web       :
     - name      : Romanczuk, Pawel (PI)
       group     : Collective Information Processing
+      location  : ITB-House4
+      web       :
+    - name      : Rose, Pia
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

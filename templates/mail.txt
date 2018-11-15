@@ -4,9 +4,9 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: TBA
-Speaker: Contreras, Susana
-Group: Computational Neurophysiology
-Location: ITB-House 4
+Speaker: Thurley, Kevin (PI)
+Group: Systems Biology of Inflammation
+Location: ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
 

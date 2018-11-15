@@ -1,4 +1,8 @@
 talks:
+    - name      : Contreras, Susana
+      date      : 2018-11-13
+      title     : "An activity-induced transition in single-cell spiking dynamics"
+      slides    :
     - name      : Rose, Pia
       date      : 2018-11-06
       title     : "Neurobiology without neurons"

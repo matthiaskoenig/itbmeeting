@@ -3,7 +3,7 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
+Title: "Modeling cell-cell communication dynamics in inflammatory responses"
 Speaker: Thurley, Kevin (PI)
 Group: Systems Biology of Inflammation
 Location: ITB-Inv110

@@ -1,4 +1,13 @@
 talks:
+
+    - name      : Burt, Phillipp
+      date      : 2018-11-20
+      title     : "Response-time modeling of T helper cell differentiation"
+      slides    :
+    - name      : Thurley, Kevin (PI)
+      date      : 2018-11-20
+      title     : "Modeling cell-cell communication dynamics in inflammatory responses"
+      slides:
     - name      : Contreras, Susana
       date      : 2018-11-13
       title     : "An activity-induced transition in single-cell spiking dynamics"

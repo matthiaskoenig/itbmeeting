@@ -1,12 +1,4 @@
 speakers:
-    - name      : Thurley, Kevin (PI)
-      group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
-      web       :
-    - name      : Burt, Phillipp
-      group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
-      web       :
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
@@ -194,4 +186,12 @@ speakers:
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
+      web       :
+    - name      : Thurley, Kevin (PI)
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
+      web       :
+    - name      : Burt, Phillipp
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
       web       :

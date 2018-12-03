@@ -3,13 +3,14 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Modeling cell-cell communication dynamics in inflammatory responses"
-Speaker: Thurley, Kevin (PI)
-Group: Systems Biology of Inflammation
+Title: "TBA"
+Speaker: Kuokkanen, Paula
+Group: Theoretical Neuroscience
 Location: ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
-
+ITBTechTalk: Computer Latency at a Human Scale
+-----------------------------------------------------------------------
 See you all tomorrow.
 
 Best

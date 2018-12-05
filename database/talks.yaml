@@ -1,7 +1,7 @@
 talks:
     - name      : Kuokkanen, Paula
       date      : 2018-12-04
-      location  : "From single cells to extracellular field potentials and EEG"
+      title     : "From single cells to extracellular field potentials and EEG"
       slides    :
     - name      : Burt, Phillipp
       date      : 2018-11-27

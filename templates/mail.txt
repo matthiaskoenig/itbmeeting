@@ -4,12 +4,10 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: "TBA"
-Speaker: Kuokkanen, Paula
-Group: Theoretical Neuroscience
+Speaker: Genov, Nikolai
+Group: Systems Biology of Cancer
 Location: ITB-Inv110
 Time: 14.00
------------------------------------------------------------------------
-ITBTechTalk: Computer Latency at a Human Scale
 -----------------------------------------------------------------------
 See you all tomorrow.
 

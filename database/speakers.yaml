@@ -1,8 +1,4 @@
 speakers:
-    - name      : Genov, Nikolai
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
@@ -193,4 +189,8 @@ speakers:
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
+      web       :
+    - name      : Genov, Nikolai
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
       web       :

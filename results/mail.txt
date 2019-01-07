@@ -53,7 +53,7 @@ Upcoming speakers:
 [2019-02-12] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-Inv110
 [2019-02-19] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2019-02-26] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
-[2019-03-05] García, Rosario - Systems Biology of Cancer - ITB-Inv110
+[2019-03-05] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
 [2019-03-12] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
 [2019-03-19] Wilkins, Adams - None - ITB-House4
 [2019-03-26] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-Inv110

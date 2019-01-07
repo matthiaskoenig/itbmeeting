@@ -1,11 +1,27 @@
 Dear colleagues,
 
-There will be no ITB meeting tomorrow.
+Good news, everyone! And good start in 2019!
+There will be an ITB meeting tomorrow. Use the chance to meet your
+colleagues and share your Christmas and New Years stories.
 
-We will go in winter holidays and will continue our meetings on 2019-01-08.
-I wish everybody a Merry Christmas and a Happy New Year!
+-----------------------------------------------------------------------
+Title: "TBA"
+Speaker: Schieferstein, Natalie
+Group: Theoretical Neuroscience
+Location:  ITB-House4
+Time: 14.00
+-----------------------------------------------------------------------
 
-See you all in 2019.
+In addition I will continue this year to give short tech/programming related
+talks. I will focus in the next weeks on topics related to parallel programming,
+asynchronous programming, and debugging.
+We will start of with the (in)famous python multiprocessing.
+
+-----------------------------------------------------------------------
+ITBTechTalk: Python multiprocessing
+-----------------------------------------------------------------------
+
+See you all tomorrow.
 
 Best
 Matthias

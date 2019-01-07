@@ -1,11 +1,11 @@
 speakers:
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
@@ -31,6 +31,11 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
+    - name      : García, Rosario
+      group     : Systems Biology of Cancer
+      location  : ITB-Inv110
+      web       : http://sysbio-relogio.com/rosario-astaburuaga/
+
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110

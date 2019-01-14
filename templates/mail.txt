@@ -1,24 +1,19 @@
 Dear colleagues,
 
-Good news, everyone! And good start in 2019!
-There will be an ITB meeting tomorrow. Use the chance to meet your
-colleagues and share your Christmas and New Years stories.
+Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: "TBA"
-Speaker: Schieferstein, Natalie
+Speaker: D'Albis, Tiziano
 Group: Theoretical Neuroscience
-Location:  ITB-House4
+Location:  ITB-Inv110, R459
 Time: 14.00
 -----------------------------------------------------------------------
 
-In addition I will continue this year to give short tech/programming related
-talks. I will focus in the next weeks on topics related to parallel programming,
-asynchronous programming, and debugging.
-We will start of with the (in)famous python multiprocessing.
-
+In the tech talk I will give a short introduction to docker and
+containerization.
 -----------------------------------------------------------------------
-ITBTechTalk: Python multiprocessing
+ITBTechTalk: What is Docker?
 -----------------------------------------------------------------------
 
 See you all tomorrow.

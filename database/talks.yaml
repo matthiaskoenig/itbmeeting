@@ -1,4 +1,8 @@
 talks:
+    - name      : Schieferstein, Natalie
+      date      : 2019-01-08
+      title     : "Mechanisms of phase precession in the hippocampal formation"
+      slides    :
     - name      : Genov, Nikolai
       date      : 2018-12-11
       title     : "Time-dependent Isoform Expression Changes"

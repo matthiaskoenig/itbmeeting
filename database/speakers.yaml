@@ -1,8 +1,4 @@
 speakers:
-    - name      : D'Albis, Tiziano
-      group     : Theoretical Neuroscience
-      location  : ITB-Inv110
-      web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
       location  : ITB-House4
@@ -198,4 +194,8 @@ speakers:
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
       location  : ITB-House4
+      web       :
+    - name      : D'Albis, Tiziano
+      group     : Theoretical Neuroscience
+      location  : ITB-Inv110
       web       :

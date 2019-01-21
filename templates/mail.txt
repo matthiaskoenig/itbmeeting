@@ -3,18 +3,19 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "TBA"
-Speaker: D'Albis, Tiziano
-Group: Theoretical Neuroscience
-Location:  ITB-Inv110, R459
+Title:  "Modeling a self-adapting system of phototrophic growth"
+Speaker: Faizi, Marjan
+Group: Metabolic Networks
+Location:  ITB-House 4, seminar room
 Time: 14.00
 -----------------------------------------------------------------------
 
-In the tech talk I will give a short introduction to docker and
-containerization.
+In the tech talk I will show some tips and tricks about one of the
+work horses of computational biology: the secure shell (SSH)
 -----------------------------------------------------------------------
-ITBTechTalk: What is Docker?
+ITBTechTalk: SSH tips and tricks
 -----------------------------------------------------------------------
+
 
 See you all tomorrow.
 

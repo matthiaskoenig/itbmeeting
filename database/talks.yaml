@@ -1,4 +1,8 @@
 talks:
+    - name      : D'Albis, Tiziano
+      date      : 2019-01-15
+      title     : "The origin of grid-cell patterns"
+      slides    :
     - name      : Schieferstein, Natalie
       date      : 2019-01-08
       title     : "Mechanisms of phase precession in the hippocampal formation"

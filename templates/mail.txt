@@ -3,19 +3,12 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title:  "Modeling a self-adapting system of phototrophic growth"
-Speaker: Faizi, Marjan
-Group: Metabolic Networks
-Location:  ITB-House 4, seminar room
+Title:  "TBA"
+Speaker: Schuppner, Rike-Benjamin
+Group: System Administration
+Location:  ITB-Inv110, R459
 Time: 14.00
 -----------------------------------------------------------------------
-
-In the tech talk I will show some tips and tricks about one of the
-work horses of computational biology: the secure shell (SSH)
------------------------------------------------------------------------
-ITBTechTalk: SSH tips and tricks
------------------------------------------------------------------------
-
 
 See you all tomorrow.
 

@@ -1,4 +1,8 @@
 talks:
+    - name      : Faizi, Marjan
+      date      : 2019-01-22
+      title     : "Modeling a self-adapting system of phototrophic growth"
+      slides    :
     - name      : D'Albis, Tiziano
       date      : 2019-01-15
       title     : "The origin of grid-cell patterns"

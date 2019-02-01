@@ -1,4 +1,8 @@
 talks:
+    - name      : Schuppner, Rike-Benjamin
+      date      : 2019-01-29
+      title     : "Frequently asked questions"
+      slides    : "https://itbgit.biologie.hu-berlin.de/schuppner/itb-infrastructure-2019/blob/master/ITB%20Meeting%202019.pdf"
     - name      : Faizi, Marjan
       date      : 2019-01-22
       title     : "Modeling a self-adapting system of phototrophic growth"

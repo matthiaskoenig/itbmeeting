@@ -34,13 +34,12 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-01-29] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
 [2019-02-05] Klamser, Pascal - Collective Information Processing - ITB-House4
-[2019-02-12] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-Inv110
+[2019-02-12] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
 [2019-02-19] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2019-02-26] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
 [2019-03-05] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
-[2019-03-12] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
+[2019-03-12] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-Inv110
 [2019-03-19] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
 [2019-03-26] Wilkins, Adams - None - ITB-House4
 [2019-04-02] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-Inv110
@@ -82,6 +81,7 @@ Upcoming speakers:
 [2019-12-10] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 [2019-12-17] D'Albis, Tiziano - Theoretical Neuroscience - ITB-Inv110
 [2019-12-24] Faizi, Marjan - Metabolic Networks - ITB-House4
+[2019-12-31] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
 
 Meeting Alumni:
 

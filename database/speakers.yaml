@@ -1,16 +1,14 @@
 speakers:
-    - name      : Schuppner, Rike-Benjamin
-      group     : System Administration
-      location  : ITB-Inv110
-      web       : wiki/members/schuppner
     - name      : Klamser, Pascal
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
-    - name      : Ananthasubramaniam, Bharath
+
+    - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
       web       :
+
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -23,8 +21,7 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-Inv110
       web       : http://sysbio-relogio.com/rosario-astaburuaga/
-
-    - name      : Upadhyay, Abhishek
+    - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
       web       :
@@ -203,3 +200,7 @@ speakers:
       group     : Metabolic Networks
       location  : ITB-House4
       web       :
+    - name      : Schuppner, Rike-Benjamin
+      group     : System Administration
+      location  : ITB-Inv110
+      web       : wiki/members/schuppner

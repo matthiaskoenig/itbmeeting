@@ -1,4 +1,8 @@
 talks:
+    - name      : Klamser, Pascal
+      date      : 2019-02-05
+      title     : "Uncommon Risk-Behavior Evolution Due to Size-Selective Harvesting in Zebrafish"
+      slides    :
     - name      : Schuppner, Rike-Benjamin
       date      : 2019-01-29
       title     : "Frequently asked questions"

@@ -1,9 +1,4 @@
 speakers:
-    - name      : Klamser, Pascal
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
-
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
@@ -204,3 +199,7 @@ speakers:
       group     : System Administration
       location  : ITB-Inv110
       web       : wiki/members/schuppner
+    - name      : Klamser, Pascal
+      group     : Collective Information Processing
+      location  : ITB-House4
+      web       :

@@ -3,12 +3,18 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title:  "TBA"
-Speaker: Klamser, Pascal
-Group: Collective Information Processing
-Location:  ITB-House4
+Title:  "A degradation switch enables rhythm in a Neurospora clock model"
+Speaker: Upadhyay, Abhishek
+Group: Molecular and Cellular Evolution
+Location:  ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
+Keywords:
+- Mathematical modelling,
+- Switch-like dynamics,
+- Circadian clock,
+- Filamentous fungi (Neurospora crassa),
+- Glucose compensation
 
 See you all tomorrow.
 

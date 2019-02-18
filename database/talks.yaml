@@ -1,4 +1,8 @@
 talks:
+    - name      : Upadhyay, Abhishek
+      date      : 2019-02-12
+      title     : "A degradation switch enables rhythm in a Neurospora clock model"
+      slides    :
     - name      : Klamser, Pascal
       date      : 2019-02-05
       title     : "Uncommon Risk-Behavior Evolution Due to Size-Selective Harvesting in Zebrafish"

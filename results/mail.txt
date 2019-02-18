@@ -3,19 +3,12 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title:  "A degradation switch enables rhythm in a Neurospora clock model"
-Speaker: Upadhyay, Abhishek
-Group: Molecular and Cellular Evolution
-Location:  ITB-Inv110
+Title: "In vivo and in vitro investigation of the circadian clock in human colorectal cancer"
+Speaker: Basti, Alireza
+Group: Systems Biology of Cancer
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
-Keywords:
-- Mathematical modelling,
-- Switch-like dynamics,
-- Circadian clock,
-- Filamentous fungi (Neurospora crassa),
-- Glucose compensation
-
 See you all tomorrow.
 
 Best
@@ -40,7 +33,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-02-12] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
 [2019-02-19] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2019-02-26] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
 [2019-03-05] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
@@ -88,6 +80,7 @@ Upcoming speakers:
 [2019-12-24] Faizi, Marjan - Metabolic Networks - ITB-House4
 [2019-12-31] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
 [2020-01-07] Klamser, Pascal - Collective Information Processing - ITB-House4
+[2020-01-14] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
 
 Meeting Alumni:
 

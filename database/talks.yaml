@@ -1,4 +1,9 @@
 talks:
+    - name      : Basti, Alireza
+      date      : 2019-02-19
+      title     : "In vivo and in vitro investigation of the circadian clock in human colorectal cancer"
+      slides    :
+      web       :
     - name      : Upadhyay, Abhishek
       date      : 2019-02-12
       title     : "A degradation switch enables rhythm in a Neurospora clock model"

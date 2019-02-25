@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "In vivo and in vitro investigation of the circadian clock in human colorectal cancer"
-Speaker: Basti, Alireza
-Group: Systems Biology of Cancer
+Title: TBA
+Speaker: Uhlitz, Florian
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -33,7 +33,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-02-19] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2019-02-26] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
 [2019-03-05] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
 [2019-03-12] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-Inv110
@@ -81,6 +80,7 @@ Upcoming speakers:
 [2019-12-31] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
 [2020-01-07] Klamser, Pascal - Collective Information Processing - ITB-House4
 [2020-01-14] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
+[2020-01-21] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 
 Meeting Alumni:
 

@@ -1,8 +1,4 @@
 speakers:
-    - name      : Basti, Alireza
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Uhlitz, Florian
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -201,4 +197,8 @@ speakers:
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
+      web       :
+    - name      : Basti, Alireza
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
       web       :

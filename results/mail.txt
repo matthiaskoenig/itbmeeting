@@ -3,12 +3,16 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Uhlitz, Florian
-Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Title: "Mathematical modeling of lysosomal ion homeostasis"
+Speaker: Astaburuaga, Rosario
+Group: Systems Biology of Cancer
+Location: ITB-Inv110
 Time: 14.00
+Web: http://sysbio-relogio.com/rosario-astaburuaga/
 -----------------------------------------------------------------------
+
+Keywords: ClC-7 antiporter, calcium dynamics, lysosomal dysfunction, osteopetrosis.
+
 See you all tomorrow.
 
 Best
@@ -33,11 +37,10 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-02-26] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
 [2019-03-05] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
 [2019-03-12] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-Inv110
-[2019-03-19] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
-[2019-03-26] Wilkins, Adams - None - ITB-House4
+[2019-03-19] Wilkins, Adams - None - ITB-House4
+[2019-03-26] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
 [2019-04-02] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-Inv110
 [2019-04-09] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 [2019-04-16] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
@@ -81,6 +84,7 @@ Upcoming speakers:
 [2020-01-07] Klamser, Pascal - Collective Information Processing - ITB-House4
 [2020-01-14] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
 [2020-01-21] Basti, Alireza - Systems Biology of Cancer - ITB-House4
+[2020-01-28] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

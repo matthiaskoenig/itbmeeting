@@ -1,4 +1,8 @@
 talks:
+    - name      : Uhlitz, Florian
+      date      : 2019-02-26
+      title     : "Single Cell RNA-Seq of Colorectal Cancer Organoids"
+      slides    :
     - name      : Basti, Alireza
       date      : 2019-02-19
       title     : "In vivo and in vitro investigation of the circadian clock in human colorectal cancer"

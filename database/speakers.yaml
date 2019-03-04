@@ -1,8 +1,4 @@
 speakers:
-    - name      : Uhlitz, Florian
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
     - name      : Astaburuaga, Rosario
       group     : Systems Biology of Cancer
       location  : ITB-Inv110
@@ -11,12 +7,12 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
       web       :
-    - name      : Carrillo-Bustamante, Paola
-      group     : Vector Biology, MPI
-      location  : ITB-House4
-      web       :
     - name      : Wilkins, Adams
       group     :
+      location  : ITB-House4
+      web       :
+    - name      : Carrillo-Bustamante, Paola
+      group     : Vector Biology, MPI
       location  : ITB-House4
       web       :
     - name      : Schreiber, Susanne (PI)
@@ -200,5 +196,9 @@ speakers:
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Uhlitz, Florian
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :

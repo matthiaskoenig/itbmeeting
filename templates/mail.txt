@@ -3,12 +3,16 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Uhlitz, Florian
-Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Title: "Mathematical modeling of lysosomal ion homeostasis"
+Speaker: Astaburuaga, Rosario
+Group: Systems Biology of Cancer
+Location: ITB-Inv110
 Time: 14.00
+Web: http://sysbio-relogio.com/rosario-astaburuaga/
 -----------------------------------------------------------------------
+
+Keywords: ClC-7 antiporter, calcium dynamics, lysosomal dysfunction, osteopetrosis.
+
 See you all tomorrow.
 
 Best

@@ -1,15 +1,11 @@
 speakers:
-    - name      : Astaburuaga, Rosario
-      group     : Systems Biology of Cancer
-      location  : ITB-Inv110
-      web       : http://sysbio-relogio.com/rosario-astaburuaga/
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv110
-      web       :
+      location  : ITB-House4
+      web       : http://itb.biologie.hu-berlin.de/~bharath/
     - name      : Wilkins, Adams
       group     :
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       :
     - name      : Carrillo-Bustamante, Paola
       group     : Vector Biology, MPI
@@ -202,3 +198,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
+    - name      : Astaburuaga, Rosario
+      group     : Systems Biology of Cancer
+      location  : ITB-Inv110
+      web       : http://sysbio-relogio.com/rosario-astaburuaga/

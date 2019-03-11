@@ -1,4 +1,8 @@
 talks:
+    - name      : Astaburuaga, Rosario
+      date      : 2019-03-05
+      title     : "Mathematical modeling of lysosomal ion homeostasis"
+      slides    :
     - name      : Uhlitz, Florian
       date      : 2019-02-26
       title     : "Single Cell RNA-Seq of Colorectal Cancer Organoids"

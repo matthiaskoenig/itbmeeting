@@ -1,4 +1,8 @@
 talks:
+    - name      : Ananthasubramaniam, Bharath
+      date      : 2019-03-12
+      title     : "Ultradian rhythms in the transcriptome of Neurospora crassa"
+      slides    : http://itb.biologie.hu-berlin.de/~bharath/
     - name      : Astaburuaga, Rosario
       date      : 2019-03-05
       title     : "Mathematical modeling of lysosomal ion homeostasis"

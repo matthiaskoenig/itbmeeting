@@ -1,12 +1,7 @@
 speakers:
-
-    - name      : Carrillo-Bustamante, Paola
-      group     : Vector Biology, MPI
-      location  : ITB-House4
-      web       :
     - name      : Schreiber, Susanne (PI)
       group     : Computational Neurophysiology
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
@@ -202,4 +197,8 @@ speakers:
     - name      : Wilkins, Adams
       group     :
       location  : ITB-Inv110
+      web       :
+    - name      : Carrillo-Bustamante, Paola
+      group     : Vector Biology, MPI
+      location  : ITB-House4
       web       :

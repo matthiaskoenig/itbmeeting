@@ -3,16 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "How can we understand the transmission and evolution of malaria? Insights from an in-silico individual-based model"
-Speaker: Carrillo-Bustamante, Paola
-Group: Vector Biology, MPI
+Title: TBA
+Speaker: Schreiber, Susanne (PI)
+Group: Computational Neurophysiology
 Location: ITB-House 4
 Time: 14.00
-Web: https://www.mpiib-berlin.mpg.de/research/vector_biology
-
-Abstract:
-Vector-borne diseases are caused by pathogens transmitted among hosts by intermediate species, primarily arthropods such as mosquitoes. Extensive mathematical approaches have been developed to study the transmission dynamics of such diseases, yet the majority of these classical models focuses on the burden caused in the mammalian host, paying little attention to the physiology of the vector itself. However, in the case of malaria, several physiological properties of the vector, such as its immune system, development, and reproduction play a pivotal role in shaping the parasite’s virulence in the human host. Therefore, it is crucial to study the role of the vector in regulating the development, transmission, and evolution of the pathogen.
-In this work, we develop an individual-based simulation framework that incorporates key aspects of the vector physiology and predicts infection and transmission dynamics within a human population. Our simulation results show how the heterogeneity in the mosquito population shape the transmission of the parasite. Thus, this novel approach will provide us with new concepts for unravelling the fascinating vector-host-pathogen interaction, and ultimately, inform novel interventions strategies in the fight against vector-borne diseases.
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -39,8 +34,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-03-26] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
-[2019-04-02] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-Inv110
+[2019-04-02] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
 [2019-04-09] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 [2019-04-16] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
 [2019-04-23] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
@@ -87,6 +81,7 @@ Upcoming speakers:
 [2020-02-04] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
 [2020-02-11] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
 [2020-02-18] Wilkins, Adams - None - ITB-Inv110
+[2020-02-25] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
 
 Meeting Alumni:
 

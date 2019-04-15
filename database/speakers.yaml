@@ -1,21 +1,19 @@
 speakers:
-    - name      : Brockmann, Dirk (PI)
-      group     : Research on Complex Systems
-      location  : ITB-Inv110
-      web       : http://rocs.hu-berlin.de/
+
     - name      : Lauterbach, Elvira & Winkelhöfer Karin
       group     : ITB Administration
       location  : ITB-House4
       web       :
-
     - name      : Sojo, Víctor
       group     : Evolutionary Biology
       location  : ITB-House4
       web       : https://www.wiko-berlin.de/en/fellows/fellowfinder/detail/2018-sojo-victor/
+
     - name      : Benary, Manuela
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : ~benary
+
     - name      : Sell, Thomas
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -24,10 +22,12 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv110
       web       :
+
     - name      : Clara Jongen
       group     : Research on Complex Systems
       location  : ITB-Inv110
       web       :
+
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv110
@@ -37,10 +37,12 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-Inv110
       web       :
+
     - name      : Herzel, Hanspeter (PI)
       group     : Molecular and Cellular Evolution
       location  : ITB-Inv110
       web       : wiki/members/herzel
+
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -206,3 +208,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+    - name      : Brockmann, Dirk (PI)
+      group     : Research on Complex Systems
+      location  : ITB-Inv110
+      web       : http://rocs.hu-berlin.de/

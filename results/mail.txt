@@ -1,13 +1,17 @@
 Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
+We will have the obligatory security instructions (Belehrung zur Sicherheit),
+afterwards I will give a short talk about t-SNE.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Brockmann, Dirk (PI)
-Group: Research on Complex Systems
-Location: ITB-Inv110
+Title: Belehrung zur Sicherheit - Security Instructions
+Speaker: Lauterbach, Elvira & Winkelhöfer Karin
+Group: Administration
+Location: ITB-House4 - Hörsaal
 Time: 14.00
+-----------------------------------------------------------------------
+ITB TechTalk: The truth about t-SNE
 -----------------------------------------------------------------------
 
 See you all tomorrow.
@@ -34,7 +38,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-04-09] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 [2019-04-16] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
 [2019-04-23] Sojo, Víctor - Evolutionary Biology - ITB-House4
 [2019-05-07] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
@@ -83,6 +86,7 @@ Upcoming speakers:
 [2020-03-03] Wilkins, Adams - None - ITB-Inv110
 [2020-03-10] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
 [2020-03-17] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
+[2020-03-24] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 
 Meeting Alumni:
 

@@ -1,8 +1,4 @@
 speakers:
-    - name      : Schreiber, Susanne (PI)
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
       location  : ITB-Inv110
@@ -11,6 +7,11 @@ speakers:
       group     : ITB Administration
       location  : ITB-House4
       web       :
+
+    - name      : Sojo, Víctor
+      group     : Evolutionary Biology
+      location  : ITB-House4
+      web       : https://www.wiko-berlin.de/en/fellows/fellowfinder/detail/2018-sojo-victor/
     - name      : Benary, Manuela
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -103,15 +104,14 @@ speakers:
       web       :
     - name      : Rydenfelt, Mattias
       group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
+      location  : ITB-Inv110
       web       :
     - name      : Schmal, Christoph
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :
-
-    - name      : Carlos Aguilar (PI)
-      group     : Freie Universität Berlin, Institut für Biologie, Dahlem Center of Plant Sciences, Plant Ecology
+    - name      : Poel, Winnie
+      group     : Collective Information Processing
       location  : ITB-House4
       web       :
     - name      : Steuer, Ralf (PI)
@@ -200,5 +200,9 @@ speakers:
       web       :
     - name      : Carrillo-Bustamante, Paola
       group     : Vector Biology, MPI
+      location  : ITB-House4
+      web       :
+    - name      : Schreiber, Susanne (PI)
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

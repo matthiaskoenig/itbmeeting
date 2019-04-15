@@ -4,9 +4,9 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: TBA
-Speaker: Schreiber, Susanne (PI)
-Group: Computational Neurophysiology
-Location: ITB-House 4
+Speaker: Brockmann, Dirk (PI)
+Group: Research on Complex Systems
+Location: ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
 

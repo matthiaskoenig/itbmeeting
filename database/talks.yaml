@@ -1,4 +1,8 @@
 talks:
+    - name      : Schreiber, Susanne (PI)
+      date      : 2019-04-02
+      title     : "Synchronization with a new type of spike"
+      slides    :
     - name      : Carrillo-Bustamante, Paola
       date      : 2019-03-24
       title     : "How can we understand the transmission and evolution of malaria? Insights from an in-silico individual-based model"

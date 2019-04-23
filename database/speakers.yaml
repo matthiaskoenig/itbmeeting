@@ -1,9 +1,5 @@
 speakers:
 
-    - name      : Lauterbach, Elvira & Winkelhöfer Karin
-      group     : ITB Administration
-      location  : ITB-House4
-      web       :
     - name      : Sojo, Víctor
       group     : Evolutionary Biology
       location  : ITB-House4
@@ -212,3 +208,8 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-Inv110
       web       : http://rocs.hu-berlin.de/
+
+    - name      : Lauterbach, Elvira & Winkelhöfer Karin
+      group     : ITB Administration
+      location  : ITB-House4
+      web       :

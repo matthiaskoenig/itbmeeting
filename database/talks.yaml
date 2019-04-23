@@ -1,4 +1,9 @@
 talks:
+    - name      : Lauterbach, Elvira & Winkelhöfer Karin
+      date      : 2019-04-16
+      title     : Security information and instructions
+      slides    :
+
     - name      : Schreiber, Susanne (PI)
       date      : 2019-04-02
       title     : "Synchronization with a new type of spike"

@@ -5,14 +5,19 @@ We will have the obligatory security instructions (Belehrung zur Sicherheit),
 afterwards I will give a short talk about t-SNE.
 
 -----------------------------------------------------------------------
-Title: Belehrung zur Sicherheit - Security Instructions
-Speaker: Lauterbach, Elvira & Winkelhöfer Karin
-Group: Administration
-Location: ITB-House4 - Hörsaal
+Title: The lipid divide between the membranes of the three domains of life
+Speaker: Sojo, Víctor
+Group: Evolutionary Biology
+Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-ITB TechTalk: The truth about t-SNE
------------------------------------------------------------------------
+
+Life is by definition cellular, as delineated by membranes. Membranes are the boundary between the inside (the cell) and the outside (the environment, i.e. not the cell).
+It is now clear that all known living forms on Earth are related to one another, sharing a common origin and early evolution. It would therefore be reasonable to expect organisms from all three domains of life—archaea, bacteria and eukaryotes—to share the very thing that makes a cell a cell: membranes. Yet that is not the case. Archaea and bacteria typically have utterly different membrane lipids, and eukaryotes, which seem to descend from an archaeal ancestor, actually have bacterial membrane lipids.
+I will present some results from modelling and theory through which I have attempted to elucidate the puzzle of this "lipid divide", and what this may tell us about the early evolution of life and the intricate branching of the tree of life.
+
+Keywords: lipid divide, divergence, three domains, tree of life, membranes, eukaryogenesis
+https://www.wiko-berlin.de/en/fellows/fellowfinder/detail/2018-sojo-victor/
+
 
 See you all tomorrow.
 

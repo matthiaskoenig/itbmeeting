@@ -1,23 +1,14 @@
 Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
-We will have the obligatory security instructions (Belehrung zur Sicherheit),
-afterwards I will give a short talk about t-SNE.
 
 -----------------------------------------------------------------------
-Title: The lipid divide between the membranes of the three domains of life
-Speaker: Sojo, Víctor
-Group: Evolutionary Biology
+Title: "Precision oncology using big data – How to predict relevant targets and therapies?"
+Speaker: Benary, Manuela
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
-
-Life is by definition cellular, as delineated by membranes. Membranes are the boundary between the inside (the cell) and the outside (the environment, i.e. not the cell).
-It is now clear that all known living forms on Earth are related to one another, sharing a common origin and early evolution. It would therefore be reasonable to expect organisms from all three domains of life—archaea, bacteria and eukaryotes—to share the very thing that makes a cell a cell: membranes. Yet that is not the case. Archaea and bacteria typically have utterly different membrane lipids, and eukaryotes, which seem to descend from an archaeal ancestor, actually have bacterial membrane lipids.
-I will present some results from modelling and theory through which I have attempted to elucidate the puzzle of this "lipid divide", and what this may tell us about the early evolution of life and the intricate branching of the tree of life.
-
-Keywords: lipid divide, divergence, three domains, tree of life, membranes, eukaryogenesis
-https://www.wiko-berlin.de/en/fellows/fellowfinder/detail/2018-sojo-victor/
-
+-----------------------------------------------------------------------
 
 See you all tomorrow.
 
@@ -50,13 +41,13 @@ Upcoming speakers:
 [2019-06-04] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
 [2019-06-11] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
 [2019-06-18] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-Inv110
-[2019-06-25] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
-[2019-07-02] Lauterbach, Elvira - Administration - ITB-Inv110
-[2019-07-09] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
-[2019-07-16] Grzegorzewski, Janek - Systems Biology Of Liver - ITB-House4
-[2019-07-23] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
-[2019-07-30] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-Inv110
-[2019-08-06] Li, Yin - Systems Biology of Cancer - ITB-House4
+[2019-06-25] Lauterbach, Elvira - Administration - ITB-Inv110
+[2019-07-02] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
+[2019-07-09] Grzegorzewski, Janek - Systems Biology Of Liver - ITB-House4
+[2019-07-16] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
+[2019-07-23] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-Inv110
+[2019-07-30] Li, Yin - Systems Biology of Cancer - ITB-House4
+[2019-08-06] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2019-08-13] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
 [2019-08-20] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
 [2019-08-27] Evangelista, Roberta - Theoretical Neuroscience - ITB-House4
@@ -117,3 +108,4 @@ Abreu, Mónica - Systems Biology of Cancer
 Remme, Michiel - Computational Neurophysiology and Neuroscience
 Holzbecher, André - Theoretical Neuroscience
 Witzel, Franziska - Systems Biology of Molecular Networks
+Pett, Patrick - Molecular and Cellular Evolution

@@ -33,10 +33,6 @@ speakers:
       location  : ITB-Inv110
       web       : wiki/members/herzel
 
-    - name      : Relógio, Angela (PI)
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Lauterbach, Elvira
       group     : Administration
       location  : ITB-Inv110
@@ -62,6 +58,11 @@ speakers:
       web       :
 
     - name      : Li, Yin
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+
+    - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

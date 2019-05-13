@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Precision oncology using big data – How to predict relevant targets and therapies?"
-Speaker: Benary, Manuela
+Title: "Signalling cell by cell with mass cytometry"
+Speaker: Sell, Thomas
 Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
@@ -34,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-05-07] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
 [2019-05-14] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2019-05-21] Baranov, Olga - Research on Complex Systems - ITB-Inv110
 [2019-05-28] Clara Jongen - Research on Complex Systems - ITB-Inv110
@@ -82,6 +81,7 @@ Upcoming speakers:
 [2020-03-17] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
 [2020-03-24] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 [2020-03-31] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
+[2020-04-07] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

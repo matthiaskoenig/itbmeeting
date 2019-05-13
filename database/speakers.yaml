@@ -1,9 +1,4 @@
 speakers:
-    - name      : Benary, Manuela
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : ~benary
-
     - name      : Sell, Thomas
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -208,3 +203,8 @@ speakers:
       group     : ITB Administration
       location  : ITB-House4
       web       :
+
+    - name      : Benary, Manuela
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : ~benary

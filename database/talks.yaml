@@ -1,4 +1,9 @@
 talks:
+    - name      : Benary, Manuela
+      date      : 2019-05-07
+      title     : "Precision oncology using big data – How to predict relevant targets and therapies?"
+      slides    :
+
     - name      : Pett, Patrick
       date      : 2019-04-30
       title     : "Defense tissue specific circadian clock"

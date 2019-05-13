@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Precision oncology using big data – How to predict relevant targets and therapies?"
-Speaker: Benary, Manuela
+Title: "Signalling cell by cell with mass cytometry"
+Speaker: Sell, Thomas
 Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00

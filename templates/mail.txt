@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Signalling cell by cell with mass cytometry"
-Speaker: Sell, Thomas
-Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Title: TBA
+Speaker: Baranov, Olga
+Group: Research on Complex Systems
+Location: ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
 

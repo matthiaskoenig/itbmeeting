@@ -1,8 +1,5 @@
 speakers:
-    - name      : Sell, Thomas
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
+
     - name      : Baranov, Olga
       group     : Research on Complex Systems
       location  : ITB-Inv110
@@ -208,3 +205,8 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : ~benary
+
+    - name      : Sell, Thomas
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :

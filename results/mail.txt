@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Signalling cell by cell with mass cytometry"
-Speaker: Sell, Thomas
-Group: Systems Biology of Molecular Networks
-Location: ITB-House4
+Title: TBA
+Speaker: Baranov, Olga
+Group: Research on Complex Systems
+Location: ITB-Inv110
 Time: 14.00
 -----------------------------------------------------------------------
 
@@ -34,7 +34,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-05-14] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2019-05-21] Baranov, Olga - Research on Complex Systems - ITB-Inv110
 [2019-05-28] Clara Jongen - Research on Complex Systems - ITB-Inv110
 [2019-06-04] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
@@ -82,6 +81,7 @@ Upcoming speakers:
 [2020-03-24] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
 [2020-03-31] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
 [2020-04-07] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
+[2020-04-14] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

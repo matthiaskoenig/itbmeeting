@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Baranov, Olga
+Title: "Context specific role of airports in global disease dynamics"
+Speaker: Clara Jongen
 Group: Research on Complex Systems
-Location: ITB-Inv110
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
 
@@ -34,8 +34,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-05-21] Baranov, Olga - Research on Complex Systems - ITB-Inv110
-[2019-05-28] Clara Jongen - Research on Complex Systems - ITB-Inv110
+[2019-05-28] Clara Jongen - Research on Complex Systems - ITB-House4
 [2019-06-04] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
 [2019-06-11] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
 [2019-06-18] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-Inv110
@@ -109,3 +108,4 @@ Remme, Michiel - Computational Neurophysiology and Neuroscience
 Holzbecher, André - Theoretical Neuroscience
 Witzel, Franziska - Systems Biology of Molecular Networks
 Pett, Patrick - Molecular and Cellular Evolution
+Baranov, Olga - Research on Complex Systems

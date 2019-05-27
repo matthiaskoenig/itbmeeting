@@ -1,4 +1,8 @@
 talks:
+    - name      : König, Matthias (PI)
+      date      : 2019-05-21
+      title     : "Reproducible research"
+      slides:
     - name      : Sell, Thomas
       date      : 2019-05-14
       title     : "Signalling cell by cell with mass cytometry"

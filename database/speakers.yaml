@@ -1,13 +1,8 @@
 speakers:
 
-    - name      : Baranov, Olga
-      group     : Research on Complex Systems
-      location  : ITB-Inv110
-      web       :
-
     - name      : Clara Jongen
       group     : Research on Complex Systems
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
 
     - name      : Gross, Torsten

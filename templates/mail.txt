@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Baranov, Olga
+Title: "Context specific role of airports in global disease dynamics"
+Speaker: Clara Jongen
 Group: Research on Complex Systems
-Location: ITB-Inv110
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
 

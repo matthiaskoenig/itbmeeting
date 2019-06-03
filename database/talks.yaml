@@ -1,4 +1,8 @@
 talks:
+    - name      : Clara Jongen
+      date      : 2019-05-28
+      title     : "Context specific role of airports in global disease dynamics"
+      slides    :
     - name      : König, Matthias (PI)
       date      : 2019-05-21
       title     : "Reproducible research"

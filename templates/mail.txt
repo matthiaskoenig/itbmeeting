@@ -1,16 +1,17 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting tomorrow.
+There is a very interesting talk colliding with out ITB meeting, so
+we decided to skip the meeting one week.
+
+I hope to see you all at the BIMSB instead
 
 -----------------------------------------------------------------------
-Title: "Context specific role of airports in global disease dynamics"
-Speaker: Clara Jongen
-Group: Research on Complex Systems
-Location: ITB-House4
-Time: 14.00
------------------------------------------------------------------------
+Erik van Nimwegen from Biozentrum, University of Basel:
+https://www.biozentrum.unibas.ch/research/researchgroups/overview/unit/nimwegen/
 
-See you all tomorrow.
+Talk title: scRNA-seq analysis: how to preserve physical interpretability and infer gene regulatory landscapes
+Tuesday, 4 June, 14:00 – 15:00 @ BIMSB Mitte – Large Conference Room (Ground Floor)
+-----------------------------------------------------------------------
 
 Best
 Matthias

@@ -1,24 +1,19 @@
 speakers:
 
-    - name      : Clara Jongen
-      group     : Research on Complex Systems
-      location  : ITB-House4
-      web       :
-
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv110
       web       : wiki/members/grosstor
 
+    - name      : Herzel, Hanspeter (PI)
+      group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       : wiki/members/herzel
+
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
       location  : ITB-Inv110
       web       :
-
-    - name      : Herzel, Hanspeter (PI)
-      group     : Molecular and Cellular Evolution
-      location  : ITB-Inv110
-      web       : wiki/members/herzel
 
     - name      : Lauterbach, Elvira
       group     : Administration
@@ -205,3 +200,5 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
+
+

@@ -15,10 +15,6 @@ speakers:
       location  : ITB-Inv110
       web       :
 
-    - name      : Lauterbach, Elvira
-      group     : Administration
-      location  : ITB-Inv110
-      web       :
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -201,4 +197,8 @@ speakers:
       location  : ITB-House4
       web       :
 
+    - name      : Lauterbach, Elvira
+      group     : Administration
+      location  : ITB-Inv110
+      web       :
 

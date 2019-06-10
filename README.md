@@ -19,7 +19,7 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 
 ## Installation
 ```
-mkvirtualenv itbmeeting
+mkvirtualenv itbmeeting --python=python3.6
 (itbmeeting) pip install -r requirements.txt
 ```
 

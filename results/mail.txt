@@ -3,45 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Robust network inference using response logic"
-Speaker: Gross, Torsten
-Group: Systems Biology of Molecular Networks
-Location: ITB-Inv110
+Title: "Nonlinear dynamics of the voice"
+Speaker: Herzel, Hanspeter (PI)
+Group: Molecular and Cellular Evolution
+Location: ITB-House4
 Time: 14.00
------------------------------------------------------------------------
-Abstract:
-In this talk I will present my newly developed method to infer the directed
-network structures from perturbation data. Given the myriad of already
-existing methods it’s fair to ask why I would want to add to the
-scientific noise. But exactly this fact, that we can no longer evaluate the
-quality of the network predictions, because they vastly differ depending on
-the chosen method, motivated me to develop something new. My goal was to
-find a maximally simple method, that is based on assumptions that should
-generally hold. As such a type of sanity check on the data, I propose a
-simple hypothesis, called response logic, that states that a node, which
-responds to a certain perturbation will propagate the signal to its
-downstream nodes and so forth. Given that in an experiment I can (at least
-partially) observe which nodes respond to which perturbations, I then strive
-to determine the networks that most closely reproduce these observations when
-conforming to the response logic. An advantage of this approach is that the
-inferred network can intuitively be traced back to the data. Therefore the
- logic approach is no black box but rather allows to reason about how network
- structure and observed response data imply each other.
-
-While such a logic is reasonably simple, it nevertheless entails some
-substantial technical problems. Due to the intractable vastness of the search
-space (all possible directed networks of a given size), identifying the
-conforming network structures amounts to finding a needle in a haystack.
-Presenting the way I solved this computational challenge will give me the
-chance to provide you with a glimpse into declarative programming
-(specifically logic programming) and what it can do for you.
-
-Despite (or rather because) of its simplicity, the response logic approach
-outperforms existing methods on standard benchmarks. I will wrap up by
-showing how we applied the method to RPPA data from a colorectal
-adenocarcinoma cell line, where it allowed us to derive network
-hypotheses that explain the distinct sensitivities of PI3K mutants
-towards various targeted drugs.
 -----------------------------------------------------------------------
 
 Best
@@ -66,7 +32,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-06-11] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
 [2019-06-18] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
 [2019-06-25] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
 [2019-07-02] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
@@ -112,6 +77,7 @@ Upcoming speakers:
 [2020-04-07] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
 [2020-04-14] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2020-04-21] Lauterbach, Elvira - Administration - ITB-Inv110
+[2020-04-28] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
 
 Meeting Alumni:
 

@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Gross, Torsten
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv110
-      web       : wiki/members/grosstor
-
     - name      : Herzel, Hanspeter (PI)
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
@@ -202,3 +197,7 @@ speakers:
       location  : ITB-Inv110
       web       :
 
+    - name      : Gross, Torsten
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-Inv110
+      web       : wiki/members/grosstor

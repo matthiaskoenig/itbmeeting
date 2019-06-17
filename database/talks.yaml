@@ -1,4 +1,8 @@
 talks:
+    - name      : Gross, Torsten
+      date      : 2019-06-04
+      title     : "Robust network inference using response logic"
+      slides    :
     - name      : Clara Jongen
       date      : 2019-05-28
       title     : "Context specific role of airports in global disease dynamics"

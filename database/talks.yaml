@@ -1,4 +1,10 @@
 talks:
+
+    - name      : Herzel, Hanspeter (PI)
+      date      : 2019-06-18
+      title     : "Nonlinear dynamics of the voice"
+      slides    :
+
     - name      : Gross, Torsten
       date      : 2019-06-04
       title     : "Robust network inference using response logic"

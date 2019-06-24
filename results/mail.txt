@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Nonlinear dynamics of the voice"
-Speaker: Herzel, Hanspeter (PI)
-Group: Molecular and Cellular Evolution
+Title: "Activity-Induced Changes in Ion Concentrations Switch Cellular Dynamics in Favor of the Brain's Rhythmic Activities (A Fast Slow Bifurcation Analysis)"
+Speaker: Behbood, Mahraz
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -32,9 +32,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-06-18] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
-[2019-06-25] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
-[2019-07-02] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
+[2019-06-25] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
+[2019-07-02] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-Inv110
 [2019-07-09] Grzegorzewski, Janek - Systems Biology Of Liver - ITB-House4
 [2019-07-16] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
 [2019-07-23] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-Inv110
@@ -78,6 +77,7 @@ Upcoming speakers:
 [2020-04-14] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2020-04-21] Lauterbach, Elvira - Administration - ITB-Inv110
 [2020-04-28] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
+[2020-05-05] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 

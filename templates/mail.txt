@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "Nonlinear dynamics of the voice"
-Speaker: Herzel, Hanspeter (PI)
-Group: Molecular and Cellular Evolution
+Title: "Activity-Induced Changes in Ion Concentrations Switch Cellular Dynamics in Favor of the Brain's Rhythmic Activities (A Fast Slow Bifurcation Analysis)"
+Speaker: Behbood, Mahraz
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

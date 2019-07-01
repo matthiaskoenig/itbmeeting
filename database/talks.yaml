@@ -1,5 +1,10 @@
 talks:
 
+    - name      : Behbood, Mahraz
+      date      : 2019-06-25
+      title     : "Activity-Induced Changes in Ion Concentrations Switch Cellular Dynamics in Favor of the Brain's Rhythmic Activities (A Fast Slow Bifurcation Analysis)"
+      slides    :
+
     - name      : Herzel, Hanspeter (PI)
       date      : 2019-06-18
       title     : "Nonlinear dynamics of the voice"

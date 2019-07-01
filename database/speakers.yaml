@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Behbood, Mahraz
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-Inv110
@@ -202,8 +197,12 @@ speakers:
       location  : ITB-House4
       web       : wiki/members/herzel
 
+    - name      : Behbood, Mahraz
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
 
-# - name      : Schleimer, Jan-Hendrik
-#      group     : Computational Neurophysiology
-#      location  : ITB-Inv110
-#      web       :
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-Inv110
+      web       :

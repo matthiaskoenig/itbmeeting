@@ -98,10 +98,6 @@ speakers:
       group     : Systems Biology of Inflammation
       location  : ITB-Inv110
       web       :
-    - name      : Burt, Phillipp
-      group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
-      web       :
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
@@ -118,6 +114,10 @@ speakers:
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
       web       :
+    - name      : Burt, Phillipp
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
+      web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
       location  : ITB-House4
@@ -129,6 +129,10 @@ speakers:
     - name      : Klamser, Pascal
       group     : Collective Information Processing
       location  : ITB-House4
+      web       :
+    - name      : Borek, Zuzanna
+      group     : Systems Biology of Inflammation
+      location  : ITB-Inv110
       web       :
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution

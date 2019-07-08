@@ -2,13 +2,15 @@ Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
 
------------------------------------------------------------------------
-Title: TBA
-Speaker: Klinger, Bertram
-Group: Systems Biology of Molecular Networks
-Location: ITB-Inv110
-Time: 14.00
+This week will be the last talk before the summer break.
+Meetings will restart in September with first meeting on 2019-09-03.
 
+-----------------------------------------------------------------------
+Title: PK-DB: A Pharmacokinetics Database for Individualized and Stratified Computational Modelling
+Speaker: Grzegorzewski, Janek
+Group: Systems Biology Of Liver
+Location: ITB-House4
+Time: 14.00
 -----------------------------------------------------------------------
 
 Best

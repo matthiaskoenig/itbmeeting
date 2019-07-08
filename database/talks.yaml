@@ -1,4 +1,8 @@
 talks:
+    - name      : Klinger, Bertram
+      date      : 2019-07-02
+      title  : "Mass-spec methods for phospho-protein detection"
+      slides    :
 
     - name      : Behbood, Mahraz
       date      : 2019-06-25

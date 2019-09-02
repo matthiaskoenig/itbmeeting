@@ -1,14 +1,12 @@
 Dear colleagues,
 
+Welcome all back from the summer break.
 Good news, everyone! There will be an ITB meeting tomorrow.
 
-This week will be the last talk before the summer break.
-Meetings will restart in September with first meeting on 2019-09-03.
-
 -----------------------------------------------------------------------
-Title: PK-DB: A Pharmacokinetics Database for Individualized and Stratified Computational Modelling
-Speaker: Grzegorzewski, Janek
-Group: Systems Biology Of Liver
+Title: A Landscape of Circadian and Ultradian Splicing Events in Mammalian Tissues
+Speaker: El-Athman, Rukeia
+Group: Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

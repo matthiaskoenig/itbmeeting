@@ -1,4 +1,10 @@
 talks:
+
+    - name      : Grzegorzewski, Janek
+      date      : 2019-07-09
+      title     : "A Pharmacokinetics Database for Individualized and Stratified Computational Modelling"
+      slides    :
+
     - name      : Klinger, Bertram
       date      : 2019-07-02
       title  : "Mass-spec methods for phospho-protein detection"

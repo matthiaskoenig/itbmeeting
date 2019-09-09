@@ -1,5 +1,8 @@
 talks:
-
+    - name      : El-Athman, Rukeia
+      date      : 2019-09-03
+      title     : "A Landscape of Circadian and Ultradian Splicing Events in Mammalian Tissues"
+      slides    :
     - name      : Grzegorzewski, Janek
       date      : 2019-07-09
       title     : "A Pharmacokinetics Database for Individualized and Stratified Computational Modelling"

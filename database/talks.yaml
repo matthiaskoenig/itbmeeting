@@ -1,4 +1,8 @@
 talks:
+    - name      : Del Olmo, Marta
+      date      : 2019-09-10
+      title     : "Modelling Circadian Redox Oscillations"
+      slides    :
     - name      : El-Athman, Rukeia
       date      : 2019-09-03
       title     : "A Landscape of Circadian and Ultradian Splicing Events in Mammalian Tissues"

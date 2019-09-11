@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Del Olmo, Marta
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       :
-
     - name      : Li, Yin
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -205,3 +200,8 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       : wiki/members/elathman
+
+    - name      : Del Olmo, Marta
+      group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :

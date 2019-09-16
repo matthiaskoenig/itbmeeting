@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Del Olmo, Marta
-Group: Molecular and Cellular Evolution
+Title: "The bidirectional interplay between the circadian clock and the TGFβ/SMAD4 pathway modulates metastasis and drug response in pancreatic cancer."
+Speaker: Li, Yin
+Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

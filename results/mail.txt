@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "The bidirectional interplay between the circadian clock and the TGFβ/SMAD4 pathway modulates metastasis and drug response in pancreatic cancer."
-Speaker: Li, Yin
+Title: "A role for the circadian clock in metastasis: insights from a zebrafish model."
+Speaker: Relógio, Angela (PI)
 Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00
@@ -32,7 +32,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-09-17] Li, Yin - Systems Biology of Cancer - ITB-House4
 [2019-09-24] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2019-10-01] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
 [2019-10-08] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
@@ -79,6 +78,7 @@ Upcoming speakers:
 [2020-07-21] Grzegorzewski, Jan - Systems Biology Of Liver - ITB-House4
 [2020-07-28] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
 [2020-08-04] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
+[2020-08-11] Li, Yin - Systems Biology of Cancer - ITB-House4
 
 Meeting Alumni:
 

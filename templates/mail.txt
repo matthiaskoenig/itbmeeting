@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "The bidirectional interplay between the circadian clock and the TGFβ/SMAD4 pathway modulates metastasis and drug response in pancreatic cancer."
-Speaker: Li, Yin
+Title: "A role for the circadian clock in metastasis: insights from a zebrafish model."
+Speaker: Relógio, Angela (PI)
 Systems Biology of Cancer
 Location: ITB-House4
 Time: 14.00

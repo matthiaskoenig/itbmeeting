@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Li, Yin
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
-
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -203,5 +198,10 @@ speakers:
 
     - name      : Del Olmo, Marta
       group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :
+
+    - name      : Li, Yin
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

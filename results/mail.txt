@@ -3,7 +3,7 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
+Title: "Dissecting Colon Cancer, Cell By Cell"
 Speaker: Bluethgen, Nils (PI)
 Group: Systems Biology of Molecular Networks
 Location: ITB-House4

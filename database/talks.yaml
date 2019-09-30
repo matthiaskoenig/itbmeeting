@@ -1,4 +1,8 @@
 talks:
+    - name: Relógio, Angela (PI)
+      data: 2019-09-24
+      title: "A role for the circadian clock in metastasis: insights from a zebrafish model."
+      slides:
     - name      : Li, Yin
       date      : 2019-09-17
       title     : "The bidirectional interplay between the circadian clock and the TGFβ/SMAD4 pathway modulates metastasis and drug response in pancreatic cancer."

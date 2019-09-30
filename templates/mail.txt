@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: "A role for the circadian clock in metastasis: insights from a zebrafish model."
-Speaker: Relógio, Angela (PI)
-Systems Biology of Cancer
+Title: TBA
+Speaker: Bluethgen, Nils (PI)
+Group: Systems Biology of Molecular Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

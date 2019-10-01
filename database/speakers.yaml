@@ -31,6 +31,12 @@ speakers:
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
+
+    - name: Raghavendra Gadagkar (PI)
+      group: Centre for Ecological Sciences, Indian Institute of Science, Bangalore, 560012, India.
+      location: ITB-House4
+      web: http://ces.iisc.ac.in/hpg/ragh
+
     - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
       location  : ITB-Inv110

@@ -1,4 +1,9 @@
 talks:
+    - name: Bluethgen, Nils (PI)
+      date: 2019-10-01
+      title: "Dissecting Colon Cancer, Cell By Cell"
+      slides:
+
     - name: Relógio, Angela (PI)
       date: 2019-09-24
       title: "A role for the circadian clock in metastasis: insights from a zebrafish model."

@@ -1,4 +1,9 @@
 talks:
+    - name : Meisig, Johannes
+      date: 2019-10-08
+      title: "Using Slam-seq to characterize RNA processing rates globally."
+      slides:
+
     - name: Bluethgen, Nils (PI)
       date: 2019-10-01
       title: "Dissecting Colon Cancer, Cell By Cell"

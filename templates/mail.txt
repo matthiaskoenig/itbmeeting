@@ -4,8 +4,8 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: TBA
-Speaker: Meisig, Johannes
-Group: Systems Biology of Molecular Networks
+Speaker: Reifenstein, Eric
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

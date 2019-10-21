@@ -1,8 +1,4 @@
 speakers:
-    - name      : Reifenstein, Eric
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
 
     - name      : Winkelhöfer, Karin
       group     : ITB
@@ -203,5 +199,10 @@ speakers:
 
     - name      : Meisig, Johannes
       group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+
+    - name      : Reifenstein, Eric
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

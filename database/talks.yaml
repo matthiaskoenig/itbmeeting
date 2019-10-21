@@ -1,14 +1,16 @@
 talks:
+    - name: Reifenstein, Eric
+      date: 2019-10-15
+      title: "The benefit of phase precession for sequence learning"
+      slides:
     - name : Meisig, Johannes
       date: 2019-10-08
       title: "Using Slam-seq to characterize RNA processing rates globally."
       slides:
-
     - name: Bluethgen, Nils (PI)
       date: 2019-10-01
       title: "Dissecting Colon Cancer, Cell By Cell"
       slides:
-
     - name: Relógio, Angela (PI)
       date: 2019-09-24
       title: "A role for the circadian clock in metastasis: insights from a zebrafish model."

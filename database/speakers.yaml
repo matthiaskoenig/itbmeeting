@@ -1,9 +1,5 @@
 speakers:
 
-    - name      : Winkelhöfer, Karin
-      group     : ITB
-      location  : ITB-Inv110
-      web       :
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
       location  : ITB-House4
@@ -53,10 +49,6 @@ speakers:
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
       location  : ITB-Inv110
-      web       :
-    - name      : Genov, Nikolai
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
       web       :
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
@@ -205,4 +197,9 @@ speakers:
     - name      : Reifenstein, Eric
       group     : Computational Neurophysiology
       location  : ITB-House4
+      web       :
+
+    - name      : Winkelhöfer, Karin
+      group     : ITB
+      location  : ITB-Inv110
       web       :

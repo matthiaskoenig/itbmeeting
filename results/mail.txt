@@ -3,10 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
-Title: TBA
-Speaker: Winkelhöfer, Karin
-Group: ITB
-Location: ITB-Inv110
+Title: "Circadian entrainment across seasons: lessons from a red bread mold"
+Speaker: Schmal, Christoph
+Group: Molecular and Cellular Evolution
+Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
 
@@ -39,39 +39,37 @@ Upcoming speakers:
 [2019-12-03] König, Matthias (PI) - Systems Biology of Liver - ITB-Inv110
 [2019-12-10] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2019-12-17] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
-[2019-12-24] Rose, Pia - Computational Neurophysiology - ITB-House4
-[2019-12-31] Contreras, Susana - Computational Neurophysiology - ITB-House4
-[2020-01-07] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-Inv110
-[2020-01-14] Kuokkanen, Paula - Theoretical Neuroscience - ITB-Inv110
-[2020-01-21] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
-[2020-01-28] D'Albis, Tiziano - Theoretical Neuroscience - ITB-Inv110
-[2020-02-04] Burt, Phillipp - Systems Biology of Inflammation - ITB-Inv110
-[2020-02-11] Faizi, Marjan - Metabolic Networks - ITB-House4
-[2020-02-18] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
-[2020-02-25] Klamser, Pascal - Collective Information Processing - ITB-House4
-[2020-03-03] Borek, Zuzanna - Systems Biology of Inflammation - ITB-Inv110
-[2020-03-10] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
-[2020-03-17] Basti, Alireza - Systems Biology of Cancer - ITB-House4
-[2020-03-24] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
-[2020-03-31] Astaburuaga, Rosario - Systems Biology of Cancer - ITB-Inv110
-[2020-04-07] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
-[2020-04-14] Wilkins, Adams - None - ITB-Inv110
-[2020-04-21] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
-[2020-04-28] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
-[2020-05-05] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
-[2020-05-12] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
-[2020-05-19] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
-[2020-05-26] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
-[2020-06-02] Lauterbach, Elvira - Administration - ITB-Inv110
-[2020-06-09] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
-[2020-06-16] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
-[2020-06-23] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
-[2020-06-30] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
-[2020-07-07] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-Inv110
-[2020-07-14] Grzegorzewski, Jan - Systems Biology Of Liver - ITB-House4
-[2020-07-21] El-Athman, Rukeia - Systems Biology of Cancer - ITB-House4
-[2020-07-28] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
-[2020-08-04] Li, Yin - Systems Biology of Cancer - ITB-House4
+[2020-01-07] Rose, Pia - Computational Neurophysiology - ITB-House4
+[2020-01-14] Contreras, Susana - Computational Neurophysiology - ITB-House4
+[2020-01-21] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-Inv110
+[2020-01-28] Kuokkanen, Paula - Theoretical Neuroscience - ITB-Inv110
+[2020-02-04] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
+[2020-02-11] D'Albis, Tiziano - Theoretical Neuroscience - ITB-Inv110
+[2020-02-18] Burt, Phillipp - Systems Biology of Inflammation - ITB-Inv110
+[2020-02-25] Faizi, Marjan - Metabolic Networks - ITB-House4
+[2020-03-03] Schuppner, Rike-Benjamin - System Administration - ITB-Inv110
+[2020-03-10] Klamser, Pascal - Collective Information Processing - ITB-House4
+[2020-03-17] Borek, Zuzanna - Systems Biology of Inflammation - ITB-Inv110
+[2020-03-24] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-Inv110
+[2020-03-31] Basti, Alireza - Systems Biology of Cancer - ITB-House4
+[2020-04-07] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
+[2020-04-14] Astaburuaga, Rosario - None - ITB-Inv110
+[2020-04-21] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
+[2020-04-28] Wilkins, Adams - None - ITB-Inv110
+[2020-05-05] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
+[2020-05-12] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
+[2020-05-19] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-Inv110
+[2020-05-26] Lauterbach, Elvira & Winkelhöfer Karin - ITB Administration - ITB-House4
+[2020-06-02] Benary, Manuela - Systems Biology of Molecular Networks - ITB-House4
+[2020-06-09] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
+[2020-06-16] Lauterbach, Elvira - Administration - ITB-Inv110
+[2020-06-23] Gross, Torsten - Systems Biology of Molecular Networks - ITB-Inv110
+[2020-06-30] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
+[2020-07-07] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
+[2020-07-14] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-Inv110
+[2020-07-21] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-Inv110
+[2020-07-28] Grzegorzewski, Jan - Systems Biology Of Liver - ITB-House4
+[2020-08-04] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
 [2020-08-11] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2020-08-18] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
 [2020-08-25] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
@@ -110,3 +108,5 @@ Clara Jongen - Research on Complex Systems
 Rydenfelt, Mattias - Systems Biology of Molecular Networks
 Evangelista, Roberta - Theoretical Neuroscience
 Genov, Nikolai - Systems Biology of Cancer
+El-Athman, Rukeia - Systems Biology of Cancer
+Li, Yin - Systems Biology of Cancer

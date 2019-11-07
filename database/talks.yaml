@@ -1,4 +1,8 @@
 talks:
+    - name: Schmal, Christoph
+      date: 2019-11-05
+      title: "Circadian entrainment across seasons: lessons from a red bread mold"
+      slides:
     - name: Reifenstein, Eric
       date: 2019-10-15
       title: "The benefit of phase precession for sequence learning"

@@ -32,13 +32,12 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-11-05] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
-[2019-11-12] Poel, Winnie - Collective Information Processing - ITB-House4
+[2019-11-12] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2019-11-19] Raghavendra Gadagkar (PI) - Centre for Ecological Sciences, Indian Institute of Science, Bangalore, 560012, India. - ITB-House4
 [2019-11-26] Steuer, Ralf (PI) - Metabolic Networks - ITB-Inv110
 [2019-12-03] König, Matthias (PI) - Systems Biology of Liver - ITB-Inv110
 [2019-12-10] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
-[2019-12-17] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
+[2019-12-17] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-01-07] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2020-01-14] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2020-01-21] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-Inv110
@@ -76,6 +75,7 @@ Upcoming speakers:
 [2020-09-01] Reifenstein, Eric - Computational Neurophysiology - ITB-House4
 [2020-09-08] Winkelhöfer, Karin - ITB - ITB-Inv110
 [2020-09-15] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
+[2020-09-22] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 

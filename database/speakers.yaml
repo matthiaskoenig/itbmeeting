@@ -1,13 +1,8 @@
 speakers:
-
-    - name      : Schmal, Christoph
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       :
-    - name      : Poel, Winnie
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
+    - name: Romanczuk, Pawel (PI)
+      group: Collective Information Processing
+      location: ITB-House4
+      web:
 
     - name: Raghavendra Gadagkar (PI)
       group: Centre for Ecological Sciences, Indian Institute of Science, Bangalore, 560012, India.
@@ -26,7 +21,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-    - name      : Romanczuk, Pawel (PI)
+    - name      : Poel, Winnie
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
@@ -192,5 +187,9 @@ speakers:
       web       :
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
+      location  : ITB-House4
+      web       :
+    - name      : Schmal, Christoph
+      group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :

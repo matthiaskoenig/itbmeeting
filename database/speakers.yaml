@@ -1,20 +1,11 @@
 speakers:
-    - name: Romanczuk, Pawel (PI)
-      group: Collective Information Processing
-      location: ITB-House4
-      web:
-    - name: Raghavendra Gadagkar (PI)
-      group: Centre for Ecological Sciences, Indian Institute of Science, Bangalore, 560012, India.
-      location: ITB-House4
-      web: http://ces.iisc.ac.in/hpg/ragh
-
     - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       : https://livermetabolism.com
     - name      : Pfeiffer, Paul
       group     : Computational Neurophysiology
@@ -34,11 +25,11 @@ speakers:
       web       :
     - name      : Thurley, Kevin (PI)
       group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Schieferstein, Natalie
       group     : Theoretical Neuroscience
@@ -46,11 +37,11 @@ speakers:
       web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Burt, Phillipp
       group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Faizi, Marjan
       group     : Metabolic Networks
@@ -58,7 +49,7 @@ speakers:
       web       :
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       : wiki/members/schuppner
     - name      : Klamser, Pascal
       group     : Collective Information Processing
@@ -66,11 +57,11 @@ speakers:
       web       :
     - name      : Borek, Zuzanna
       group     : Systems Biology of Inflammation
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
@@ -82,7 +73,7 @@ speakers:
       web       :
     - name      : Astaburuaga, Rosario
       group     :
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
@@ -90,7 +81,7 @@ speakers:
       web       : http://itb.biologie.hu-berlin.de/~bharath/
     - name      : Wilkins, Adams
       group     :
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Carrillo-Bustamante, Paola
       group     : Vector Biology, MPI
@@ -102,7 +93,7 @@ speakers:
       web       :
     - name      : Brockmann, Dirk (PI)
       group     : Research on Complex Systems
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       : http://rocs.hu-berlin.de/
 
     - name      : Lauterbach, Elvira & Winkelhöfer Karin
@@ -122,12 +113,12 @@ speakers:
 
     - name      : Lauterbach, Elvira
       group     : Administration
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
 
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       : wiki/members/grosstor
 
     - name      : Herzel, Hanspeter (PI)
@@ -142,12 +133,12 @@ speakers:
 
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
 
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       : wiki/members/klinger
 
     - name      : Grzegorzewski, Jan
@@ -182,7 +173,7 @@ speakers:
 
     - name      : Winkelhöfer, Karin
       group     : ITB
-      location  : ITB-Inv110
+      location  : ITB-House4
       web       :
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
@@ -192,3 +183,7 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :
+    - name: Romanczuk, Pawel (PI)
+      group: Collective Information Processing
+      location: ITB-House4
+      web:

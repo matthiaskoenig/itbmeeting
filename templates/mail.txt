@@ -4,8 +4,8 @@ Good news, everyone! There will be an ITB meeting tomorrow.
 
 -----------------------------------------------------------------------
 Title: TBA
-Speaker: Romanczuk, Pawel (PI)
-Group: Collective Information Processing
+Speaker: Steuer, Ralf (PI)
+Group: Metabolic Networks
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

@@ -2,12 +2,13 @@ Dear colleagues,
 
 Good news, everyone! There will be an ITB meeting tomorrow.
 
------------------------------------------------------------------------
-Title: TBA
-Speaker: Steuer, Ralf (PI)
-Group: Metabolic Networks
+---------------------------------------------------------------------------
+Title: "A reproducible and extensible model of whole-body glucose metabolism - A Progress report
+Speaker: König, Matthias (PI)
+Group: Systems Biology of Liver
 Location: ITB-House4
 Time: 14.00
+Web: https://livermetabolism.com
 -----------------------------------------------------------------------
 
 Best

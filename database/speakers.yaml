@@ -1,8 +1,4 @@
 speakers:
-    - name      : Steuer, Ralf (PI)
-      group     : Metabolic Networks
-      location  : ITB-House4
-      web       :
     - name      : König, Matthias (PI)
       group     : Systems Biology of Liver
       location  : ITB-House4
@@ -187,3 +183,7 @@ speakers:
       group: Collective Information Processing
       location: ITB-House4
       web:
+    - name      : Steuer, Ralf (PI)
+      group     : Metabolic Networks
+      location  : ITB-House4
+      web       :

@@ -1,4 +1,8 @@
 talks:
+    - name: König, Matthias (PI)
+      date: 2019-12-03
+      title: "A reproducible and extensible model of whole-body glucose metabolism - A Progress report"
+      slides:
     - name: Steuer, Ralf (PI)
       date: 2019-11-26
       title:

@@ -3,12 +3,10 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "A reproducible and extensible model of whole-body glucose metabolism - A Progress report
-Speaker: König, Matthias (PI)
-Group: Systems Biology of Liver
+Speaker: Pfeiffer, Paul
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
-Web: https://livermetabolism.com
 -----------------------------------------------------------------------
 
 Best
@@ -33,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-12-03] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
 [2019-12-10] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2019-12-17] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-01-07] Rose, Pia - Computational Neurophysiology - ITB-House4
@@ -76,6 +73,7 @@ Upcoming speakers:
 [2020-09-22] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
 [2020-09-29] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2020-10-06] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
+[2020-10-13] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
 
 Meeting Alumni:
 

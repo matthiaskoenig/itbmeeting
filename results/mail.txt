@@ -3,11 +3,16 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Speaker: Pfeiffer, Paul
-Group: Computational Neurophysiology
+Title: TBA
+Speaker: Poel, Winnie
+Group: Collective Information Processing
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
+
+The ITB meeting will go on holidays for the following two weeks,
+with seminars restarting on 07. January 2020.
+I wish you all happy holidays and a good start in the new year.
 
 Best
 Matthias
@@ -31,7 +36,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2019-12-10] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2019-12-17] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-01-07] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2020-01-14] Contreras, Susana - Computational Neurophysiology - ITB-House4
@@ -74,6 +78,7 @@ Upcoming speakers:
 [2020-09-29] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2020-10-06] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
 [2020-10-13] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
+[2020-10-20] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 
 Meeting Alumni:
 

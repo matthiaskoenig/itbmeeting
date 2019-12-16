@@ -1,4 +1,8 @@
 talks:
+    - name: Pfeiffer, Paul
+      date: 2019-12-10
+      title: "Capacitance clamp - artificial capacitance in biological neurons"
+      slides:
     - name: König, Matthias (PI)
       date: 2019-12-03
       title: "A reproducible and extensible model of whole-body glucose metabolism - A Progress report"

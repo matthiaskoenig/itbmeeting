@@ -38,10 +38,10 @@ Upcoming speakers:
 
 [2020-01-07] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-01-14] Rose, Pia - Computational Neurophysiology - ITB-House4
-[2020-01-21] Contreras, Susana - Computational Neurophysiology - ITB-House4
+[2020-01-21] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 [2020-01-28] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 [2020-02-04] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
-[2020-02-11] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
+[2020-02-11] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2020-02-18] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
 [2020-02-25] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
 [2020-03-03] Faizi, Marjan - Metabolic Networks - ITB-House4

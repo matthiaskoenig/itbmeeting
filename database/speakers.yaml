@@ -7,8 +7,8 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-    - name      : Contreras, Susana
-      group     : Computational Neurophysiology
+    - name      : Schieferstein, Natalie
+      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
     - name      : Thurley, Kevin (PI)
@@ -19,8 +19,8 @@ speakers:
       group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
-    - name      : Schieferstein, Natalie
-      group     : Theoretical Neuroscience
+    - name      : Contreras, Susana
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
     - name      : D'Albis, Tiziano

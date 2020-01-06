@@ -3,16 +3,13 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Poel, Winnie
-Group: Collective Information Processing
+Title: "The influence of sodium channel parameters on the cardiac action potential"
+Speaker: Rose, Pia
+Group: Computational Neurophysiology
 Location: ITB-House4
-Time: 14.00
 -----------------------------------------------------------------------
 
-The ITB meeting will go on holidays for the following two weeks,
-with seminars restarting on 07. January 2020.
-I wish you all happy holidays and a good start in the new year.
+I wish you all a great start in 2020.
 
 Best
 Matthias

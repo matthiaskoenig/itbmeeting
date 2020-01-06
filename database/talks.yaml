@@ -1,4 +1,8 @@
 talks:
+    - name: Poel, Winnie
+      date: 2019-12-17
+      title: ""
+      slides:
     - name: Pfeiffer, Paul
       date: 2019-12-10
       title: "Capacitance clamp - artificial capacitance in biological neurons"

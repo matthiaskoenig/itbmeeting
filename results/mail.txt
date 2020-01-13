@@ -3,13 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "The influence of sodium channel parameters on the cardiac action potential"
-Speaker: Rose, Pia
-Group: Computational Neurophysiology
+Title: TBA
+Speaker: Schieferstein, Natalie
+Group: Theoretical Neuroscience
 Location: ITB-House4
 -----------------------------------------------------------------------
-
-I wish you all a great start in 2020.
 
 Best
 Matthias
@@ -33,7 +31,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-01-07] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2020-01-14] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 [2020-01-21] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 [2020-01-28] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
@@ -77,6 +74,7 @@ Upcoming speakers:
 [2020-10-20] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
 [2020-10-27] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2020-11-03] Poel, Winnie - Collective Information Processing - ITB-House4
+[2020-11-10] Rose, Pia - Computational Neurophysiology - ITB-House4
 
 Meeting Alumni:
 

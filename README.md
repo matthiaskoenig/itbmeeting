@@ -1,8 +1,8 @@
 # ITB Meeting
-<img title="tellurium logo" src="./docs/images/logos/itb_logo.png" height="50" />
+<img title="itb logo" src="./docs/images/logos/itb_logo.png" height="50" />
 
 Organisation of the Institute of Theoretical Biology (ITB) meeting
-at the Humboldt University Berlin
+at the Humboldt-University Berlin
 
 The meeting homepage is available at
 https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
@@ -19,13 +19,8 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 
 ## Installation
 ```
-mkvirtualenv itbmeeting --python=python3.6
+mkvirtualenv itbmeeting --python=python3.7
 (itbmeeting) pip install -r requirements.txt
 ```
 
-## Open Issues
-* crawl emails & web pages from ITB page
-
-## Misc
-* screen shots in firefox via `screenshot` in developer tools
-* convert series of png to one pdf `convert *.png talk.pdf`
+&copy; 2017-2020 Matthias König; https://livermetabolism.com.

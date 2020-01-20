@@ -3,10 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Schieferstein, Natalie
-Group: Theoretical Neuroscience
+Title: "Principles for circadian orchestration of metabolic pathways"
+Speaker: Thurley, Kevin (PI)
+Group: Systems Biology of Inflammation
 Location: ITB-House4
+Time: 14.00
 -----------------------------------------------------------------------
 
 Best
@@ -31,7 +32,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-01-14] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 [2020-01-21] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 [2020-01-28] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
 [2020-02-04] Contreras, Susana - Computational Neurophysiology - ITB-House4
@@ -75,6 +75,7 @@ Upcoming speakers:
 [2020-10-27] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
 [2020-11-03] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-11-10] Rose, Pia - Computational Neurophysiology - ITB-House4
+[2020-11-17] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 
 Meeting Alumni:
 

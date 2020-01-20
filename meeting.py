@@ -178,6 +178,10 @@ def update_outreach():
         people_dict[alumni['name']] = alumni
 
     for talk in talks:
+        for field in ['name', 'title', 'date', 'slides']:
+            if field not in talk:
+                raise ValueError(f"Required ield '{field}' missing in '{talk}'")
+
         # add slide link
         if talk['slides']:
             slides = talk['slides']

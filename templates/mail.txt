@@ -3,10 +3,11 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Schieferstein, Natalie
-Group: Theoretical Neuroscience
+Title: "Principles for circadian orchestration of metabolic pathways"
+Speaker: Thurley, Kevin (PI)
+Group: Systems Biology of Inflammation
 Location: ITB-House4
+Time: 14.00
 -----------------------------------------------------------------------
 
 Best

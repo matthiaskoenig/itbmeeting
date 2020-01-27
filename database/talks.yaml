@@ -1,4 +1,8 @@
 talks:
+    - name: Thurley, Kevin (PI)
+      date: 2020-01-21
+      title: "Principles for circadian orchestration of metabolic pathways"
+      slides:
     - name: Schieferstein, Natalie
       date: 2020-01-14
       title: "Mechanisms of ripple oscillations and their role in memory consolidation"

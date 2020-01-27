@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Principles for circadian orchestration of metabolic pathways"
-Speaker: Thurley, Kevin (PI)
-Group: Systems Biology of Inflammation
+Title: "From Single Cells to Far-Field Potentials in the Auditory Brainstem"
+Speaker: Kuokkanen, Paula
+Group: Theoretical Neuroscience
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

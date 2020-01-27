@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Principles for circadian orchestration of metabolic pathways"
-Speaker: Thurley, Kevin (PI)
-Group: Systems Biology of Inflammation
+Title: "From Single Cells to Far-Field Potentials in the Auditory Brainstem"
+Speaker: Kuokkanen, Paula
+Group: Theoretical Neuroscience
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------
@@ -32,7 +32,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-01-21] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 [2020-01-28] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
 [2020-02-04] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2020-02-11] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
@@ -42,9 +41,9 @@ Upcoming speakers:
 [2020-03-10] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
 [2020-03-17] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
 [2020-03-24] Basti, Alireza - Systems Biology of Cancer - ITB-House4
-[2020-03-31] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
-[2020-04-07] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
-[2020-04-14] Astaburuaga, Rosario - None - ITB-House4
+[2020-03-31] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
+[2020-04-07] Astaburuaga, Rosario - None - ITB-House4
+[2020-04-14] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
 [2020-04-21] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
 [2020-04-28] Wilkins, Adams - None - ITB-House4
 [2020-05-05] Carrillo-Bustamante, Paola - Vector Biology, MPI - ITB-House4
@@ -75,6 +74,7 @@ Upcoming speakers:
 [2020-10-27] Poel, Winnie - Collective Information Processing - ITB-House4
 [2020-11-03] Rose, Pia - Computational Neurophysiology - ITB-House4
 [2020-11-10] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
+[2020-11-17] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 
 Meeting Alumni:
 

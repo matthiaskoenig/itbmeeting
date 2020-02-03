@@ -1,8 +1,4 @@
 speakers:
-    - name      : Kuokkanen, Paula
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -31,10 +27,10 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :
-    - name      : Basti, Alireza
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
+    - name: Yalcin, Müge
+      group: Systems Biology of Cancer
+      location: ITB-House4
+      web:
     - name      : Uhlitz, Florian
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -43,10 +39,11 @@ speakers:
       group     :
       location  : ITB-House4
       web       :
-    - name      : Yalcin, Müge
+    - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
+
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
@@ -185,5 +182,9 @@ speakers:
       web       :
     - name      : Thurley, Kevin (PI)
       group     : Systems Biology of Inflammation
+      location  : ITB-House4
+      web       :
+    - name      : Kuokkanen, Paula
+      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :

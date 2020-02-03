@@ -1,4 +1,8 @@
 talks:
+    - name: Kuokkanen, Paula
+      date: 2020-01-28
+      title: "From Single Cells to Far-Field Potentials in the Auditory Brainstem"
+      slides:
     - name: Thurley, Kevin (PI)
       date: 2020-01-21
       title: "Principles for circadian orchestration of metabolic pathways"

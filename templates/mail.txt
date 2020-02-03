@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "From Single Cells to Far-Field Potentials in the Auditory Brainstem"
-Speaker: Kuokkanen, Paula
-Group: Theoretical Neuroscience
+Title: TBA
+Speaker: Contreras, Susana
+Group: Computational Neurophysiology
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

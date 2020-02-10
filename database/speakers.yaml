@@ -1,8 +1,4 @@
 speakers:
-    - name      : Contreras, Susana
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
       location  : ITB-House4
@@ -191,5 +187,9 @@ speakers:
       web       :
     - name      : Kuokkanen, Paula
       group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : Contreras, Susana
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

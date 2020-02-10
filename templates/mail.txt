@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Contreras, Susana
-Group: Computational Neurophysiology
+Title: "Recurrent amplification of grid-cell activity"
+Speaker: D'Albis, Tiziano
+Group: Theoretical Neuroscience
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

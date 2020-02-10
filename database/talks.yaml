@@ -1,4 +1,8 @@
 talks:
+    - name: Contreras, Susana
+      date: 2020-02-04
+      title: "Effects of the extracellular (potassium) cocktail on neuronal activity"
+      slides:
     - name: Kuokkanen, Paula
       date: 2020-01-28
       title: "From Single Cells to Far-Field Potentials in the Auditory Brainstem"

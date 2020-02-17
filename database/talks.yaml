@@ -1,4 +1,8 @@
 talks:
+    - name: D'Albis, Tiziano
+      date: 2020-02-11
+      title: "Recurrent amplification of grid-cell activity"
+      slides:
     - name: Contreras, Susana
       date: 2020-02-04
       title: "Effects of the extracellular (potassium) cocktail on neuronal activity"

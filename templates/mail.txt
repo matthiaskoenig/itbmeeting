@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Recurrent amplification of grid-cell activity"
-Speaker: D'Albis, Tiziano
-Group: Theoretical Neuroscience
+Title: TBA
+Speaker: Burt, Phillipp
+Group: Systems Biology of Inflammation
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

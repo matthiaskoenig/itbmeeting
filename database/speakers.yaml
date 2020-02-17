@@ -1,8 +1,4 @@
 speakers:
-    - name      : D'Albis, Tiziano
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
     - name      : Burt, Phillipp
       group     : Systems Biology of Inflammation
       location  : ITB-House4
@@ -191,5 +187,9 @@ speakers:
       web       :
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
+    - name      : D'Albis, Tiziano
+      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :

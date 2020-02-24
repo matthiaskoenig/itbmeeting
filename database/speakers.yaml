@@ -1,8 +1,4 @@
 speakers:
-    - name      : Burt, Phillipp
-      group     : Systems Biology of Inflammation
-      location  : ITB-House4
-      web       :
     - name      : Schuppner, Rike-Benjamin
       group     : System Administration
       location  : ITB-House4
@@ -191,5 +187,9 @@ speakers:
       web       :
     - name      : D'Albis, Tiziano
       group     : Theoretical Neuroscience
+      location  : ITB-House4
+      web       :
+    - name      : Burt, Phillipp
+      group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :

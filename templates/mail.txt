@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Burt, Phillipp
+Title: "Frequently asked questions"
+Speaker: Schuppner, Rike-Benjamin
 Group: Systems Biology of Inflammation
 Location: ITB-House4
 Time: 14.00

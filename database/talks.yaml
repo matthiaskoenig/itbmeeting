@@ -1,4 +1,8 @@
 talks:
+    - name: Burt, Phillipp
+      date: 2020-02-18
+      title : "Data-driven modeling of T helper cell responses"
+      slides:
     - name: D'Albis, Tiziano
       date: 2020-02-11
       title: "Recurrent amplification of grid-cell activity"

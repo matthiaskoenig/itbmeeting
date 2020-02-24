@@ -3,8 +3,8 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Burt, Phillipp
+Title: "Frequently asked questions"
+Speaker: Schuppner, Rike-Benjamin
 Group: Systems Biology of Inflammation
 Location: ITB-House4
 Time: 14.00
@@ -32,7 +32,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-02-18] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
 [2020-02-25] Schuppner, Rike-Benjamin - System Administration - ITB-House4
 [2020-03-03] Klamser, Pascal - Collective Information Processing - ITB-House4
 [2020-03-10] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
@@ -76,6 +75,7 @@ Upcoming speakers:
 [2020-12-01] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
 [2020-12-08] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2020-12-15] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
+[2020-12-22] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
 
 Meeting Alumni:
 

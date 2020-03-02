@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Frequently asked questions"
-Speaker: Schuppner, Rike-Benjamin
-Group: Systems Biology of Inflammation
+Title: "Collective Predator Response: Group vs. Individual Optima and Criticality"
+Speaker: Klamser, Pascal
+Group: Collective Information Processing
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

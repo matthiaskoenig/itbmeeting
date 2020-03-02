@@ -1,13 +1,9 @@
 speakers:
-    - name      : Schuppner, Rike-Benjamin
-      group     : System Administration
-      location  : ITB-House4
-      web       : wiki/members/schuppner
     - name      : Klamser, Pascal
       group     : Collective Information Processing
       location  : ITB-House4
       web       :
-    - name      : Borek, Zuzanna
+    - name      : Gustav, Geissler
       group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :
@@ -190,6 +186,14 @@ speakers:
       location  : ITB-House4
       web       :
     - name      : Burt, Phillipp
+      group     : Systems Biology of Inflammation
+      location  : ITB-House4
+      web       :
+    - name      : Schuppner, Rike-Benjamin
+      group     : System Administration
+      location  : ITB-House4
+      web       : wiki/members/schuppner
+    - name      : Borek, Zuzanna
       group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :

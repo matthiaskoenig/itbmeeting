@@ -32,9 +32,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-02-25] Schuppner, Rike-Benjamin - System Administration - ITB-House4
 [2020-03-03] Klamser, Pascal - Collective Information Processing - ITB-House4
-[2020-03-10] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
+[2020-03-10] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
 [2020-03-17] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
 [2020-03-24] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
 [2020-03-31] Uhlitz, Florian - Systems Biology of Molecular Networks - ITB-House4
@@ -76,6 +75,8 @@ Upcoming speakers:
 [2020-12-08] Contreras, Susana - Computational Neurophysiology - ITB-House4
 [2020-12-15] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
 [2020-12-22] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
+[2020-12-29] Schuppner, Rike-Benjamin - System Administration - ITB-House4
+[2021-01-05] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
 
 Meeting Alumni:
 

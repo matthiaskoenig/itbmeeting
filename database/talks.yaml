@@ -1,4 +1,8 @@
 talks:
+    - name: Schuppner, Rike-Benjamin
+      date: 2020-02-25
+      title: "ITB IT infrastructure & frequently asked questions"
+      slides:
     - name: Burt, Phillipp
       date: 2020-02-18
       title : "Data-driven modeling of T helper cell responses"

@@ -1,8 +1,4 @@
 speakers:
-    - name      : Klamser, Pascal
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
     - name      : Gustav, Geissler
       group     : Systems Biology of Inflammation
       location  : ITB-House4
@@ -201,5 +197,9 @@ speakers:
       web       : wiki/members/schuppner
     - name      : Borek, Zuzanna
       group     : Systems Biology of Inflammation
+      location  : ITB-House4
+      web       :
+    - name      : Klamser, Pascal
+      group     : Collective Information Processing
       location  : ITB-House4
       web       :

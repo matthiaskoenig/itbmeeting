@@ -3,9 +3,9 @@ Dear colleagues,
 Good news, everyone! There will be an ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Collective Predator Response: Group vs. Individual Optima and Criticality"
-Speaker: Klamser, Pascal
-Group: Collective Information Processing
+Title: TBA
+Speaker: Gustav, Geissler
+Group: Systems Biology of Inflammation
 Location: ITB-House4
 Time: 14.00
 -----------------------------------------------------------------------

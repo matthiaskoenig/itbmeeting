@@ -1,15 +1,37 @@
 Dear colleagues,
 
-Good news, everyone! There will be an ITB meeting tomorrow.
+Good news, everyone! There will be an online ITB meeting tomorrow.
+We will restart our ITB meetings in an online format via Zoom.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Gustav, Geissler
-Group: Systems Biology of Inflammation
-Location: ITB-House4
+Title: Modelling multiple random phosphorylations in Neurospora clock is not rocket science!
+Speaker: Upadhyay, Abhishek
+Group: Molecular and Cellular Evolution
+Location: Zoom-Online
 Time: 14.00
+Keywords: protein phosphorylation; filamentous fungi; circadian clock; mathematical modelling; molecular switch
 -----------------------------------------------------------------------
+We are inviting you to a scheduled HU-Zoom ITB meeting.
 
+Topic: ITB Meeting 19.05.2020, 14:00 h, Speaker: Abhishek Upadhyay
+Time: 19.Mai.2020 02:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien
+
+Join Zoom Meeting
+https://hu-berlin.zoom.us/j/99492932964
+
+Meeting-ID: 994 9293 2964
+
+One tap mobile
++493056795800,,99492932964# Germany
++496950502596,,99492932964# Germany
+
+Dial by your location
+         +49 30 5679 5800 Germany
+         +49 695 050 2596 Germany
+         +49 69 7104 9922 Germany
+Meeting-ID: 994 9293 2964
+Find your local number: https://hu-berlin.zoom.us/u/aoYAibWHZ
+-----------------------------------------------------------------------
 Best
 Matthias
 

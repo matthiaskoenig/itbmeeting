@@ -54,9 +54,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-05-19] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
-[2020-05-26] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
-[2020-06-02] Astaburuaga, Rosario - None - ITB-House4
+[2020-05-26] Astaburuaga, Rosario - None - ITB-House4
+[2020-06-02] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
 [2020-06-09] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2020-06-16] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
 [2020-06-23] Wilkins, Adams - None - ITB-House4
@@ -100,6 +99,7 @@ Upcoming speakers:
 [2021-03-16] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
 [2021-03-23] Klamser, Pascal - Collective Information Processing - ITB-House4
 [2021-03-30] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
+[2021-04-06] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 

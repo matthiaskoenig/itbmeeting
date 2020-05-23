@@ -1,4 +1,8 @@
 talks:
+    - name: Upadhyay, Abhishek
+      date: 2020-03-03
+      title: "Modelling multiple random phosphorylations in Neurospora clock is not rocket science!"
+      slides:
     - name: Gustav, Geissler
       date: 2020-03-03
       title: "Systems Biology of Inflammation"

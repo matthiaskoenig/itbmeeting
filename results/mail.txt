@@ -1,36 +1,36 @@
 Dear colleagues,
 
 Good news, everyone! There will be an online ITB meeting tomorrow.
-We will restart our ITB meetings in an online format via Zoom.
 
 ---------------------------------------------------------------------------
-Title: Modelling multiple random phosphorylations in Neurospora clock is not rocket science!
-Speaker: Upadhyay, Abhishek
-Group: Molecular and Cellular Evolution
+Title: "Signaling pathways governing cell fate decisions upon radiation"
+Speaker: Astaburuaga, Rosario
+Group: Systems Biology of Molecular Networks
 Location: Zoom-Online
 Time: 14.00
-Keywords: protein phosphorylation; filamentous fungi; circadian clock; mathematical modelling; molecular switch
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
-Topic: ITB Meeting 19.05.2020, 14:00 h, Speaker: Abhishek Upadhyay
-Time: 19.Mai.2020 02:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien
+Topic: ITBMeeting
+Time: This is a recurring meeting Meet anytime
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/99492932964
+https://hu-berlin.zoom.us/j/94512034139?pwd=L1hna3JOS3hSbDJUT0ZMVlJrYUZ4UT09
 
-Meeting-ID: 994 9293 2964
+Meeting ID: 945 1203 4139
+Password: 913700
 
 One tap mobile
-+493056795800,,99492932964# Germany
-+496950502596,,99492932964# Germany
++496950502596,,94512034139# Germany
++496971049922,,94512034139# Germany
 
 Dial by your location
-         +49 30 5679 5800 Germany
-         +49 695 050 2596 Germany
-         +49 69 7104 9922 Germany
-Meeting-ID: 994 9293 2964
-Find your local number: https://hu-berlin.zoom.us/u/aoYAibWHZ
+        +49 695 050 2596 Germany
+        +49 69 7104 9922 Germany
+        +49 30 5679 5800 Germany
+Meeting ID: 945 1203 4139
+Password: 913700
+Find your local number: https://hu-berlin.zoom.us/u/acBFmO033g
 -----------------------------------------------------------------------
 Best
 Matthias
@@ -54,7 +54,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-05-26] Astaburuaga, Rosario - None - ITB-House4
+[2020-05-26] Astaburuaga, Rosario - Systems Biology of Molecular Networks - ITB-House4
 [2020-06-02] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
 [2020-06-09] Basti, Alireza - Systems Biology of Cancer - ITB-House4
 [2020-06-16] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4

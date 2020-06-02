@@ -1,12 +1,5 @@
 speakers:
-    - name      : Astaburuaga, Rosario
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
-    - name      : Yalcin, Müge
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
+
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -201,5 +194,13 @@ speakers:
       web       :
     - name      : Upadhyay, Abhishek
       group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :
+    - name      : Astaburuaga, Rosario
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Yalcin, Müge
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

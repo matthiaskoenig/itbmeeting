@@ -1,10 +1,14 @@
 talks:
+    - name: Astaburuaga, Rosario
+      date: 2020-05-26
+      title: "Signaling pathways governing cell fate decisions upon radiation"
+      slides:
     - name: Upadhyay, Abhishek
-      date: 2020-03-03
+      date: 2020-05-19
       title: "Modelling multiple random phosphorylations in Neurospora clock is not rocket science!"
       slides:
     - name: Gustav, Geissler
-      date: 2020-03-03
+      date: 2020-05-23
       title: "Systems Biology of Inflammation"
       slides:
     - name: Schuppner, Rike-Benjamin

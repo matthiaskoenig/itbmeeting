@@ -4,7 +4,6 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
-
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
@@ -43,6 +42,11 @@ speakers:
 
     - name      : Lauterbach, Elvira
       group     : Administration
+      location  : ITB-House4
+      web       :
+
+    - name      : Hesse, Janina
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
 

@@ -1,9 +1,4 @@
 speakers:
-
-    - name      : Basti, Alireza
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
     - name      : Ananthasubramaniam, Bharath
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
@@ -205,6 +200,10 @@ speakers:
       location  : ITB-House4
       web       :
     - name      : Yalcin, Müge
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Basti, Alireza
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

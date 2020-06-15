@@ -3,33 +3,36 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "TBA"
-Speaker: Basti, Alireza
-Group: Systems Biology of Cancer
+Title: "Amplitude Effects Allow Short Jet Lags and Large Seasonal Phase Shifts in Minimal Clock Models"
+Speaker: Ananthasubramaniam, Bharath
+Group: Molecular and Cellular Evolution
+Web: http://itb.biologie.hu-berlin.de/~bharath/
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITBMeeting
-Time: Jun 9, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Jun 16, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/91158666477?pwd=MXl6cHFrOUcyOU9WRit6RzNDUFM5QT09
+https://hu-berlin.zoom.us/j/92576769518?pwd=OHU1dWYwOEhzdkVSS2xVZUZEeUdOdz09
 
-Meeting ID: 911 5866 6477
+Meeting ID: 925 7676 9518
 Password: 892051
 
 One tap mobile
-+493056795800,,91158666477# Germany
-+496950502596,,91158666477# Germany
++496950502596,,92576769518# Germany
++496971049922,,92576769518# Germany
 
 Dial by your location
-        +49 30 5679 5800 Germany
         +49 695 050 2596 Germany
         +49 69 7104 9922 Germany
+        +49 30 5679 5800 Germany
+Meeting ID: 925 7676 9518
+Password: 892051
+Find your local number: https://hu-berlin.zoom.us/u/akzaPrluD
 
-Find your local number: https://hu-berlin.zoom.us/u/ad7q1DFjhc
 -----------------------------------------------------------------------
 Best
 Matthias

@@ -20,7 +20,7 @@ https://itb.biologie.hu-berlin.de/wiki/itbmeeting/
 ## Installation
 ```
 mkvirtualenv itbmeeting --python=python3.7
-(itbmeeting) pip install -r requirements.txt
+(itbmeeting) pip install -r requirements.txt --upgrade
 ```
 
 &copy; 2017-2020 Matthias König; https://livermetabolism.com.

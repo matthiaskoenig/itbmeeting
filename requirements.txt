@@ -1,3 +1,5 @@
-jinja2>=2.10.3
-holidays>=0.9.12
-pyyaml>=5.3
+pip>=20.1.1
+setuptools>=47.1.1
+jinja2>=2.11.2
+holidays>=0.10.2
+pyyaml>=5.3.1

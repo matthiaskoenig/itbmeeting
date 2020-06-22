@@ -1,10 +1,6 @@
 speakers:
-    - name      : Ananthasubramaniam, Bharath
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       : http://itb.biologie.hu-berlin.de/~bharath/
     - name      : Wilkins, Adams
-      group     :
+      group     : ITB
       location  : ITB-House4
       web       :
     - name      : Carrillo-Bustamante, Paola
@@ -195,3 +191,7 @@ speakers:
       group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :
+    - name      : Ananthasubramaniam, Bharath
+      group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       : http://itb.biologie.hu-berlin.de/~bharath/

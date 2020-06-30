@@ -1,21 +1,4 @@
 speakers:
-    - name      : Wilkins, Adams
-      group     : ITB
-      location  : ITB-House4
-      web       :
-    - name      : Carrillo-Bustamante, Paola
-      group     : Vector Biology, MPI
-      location  : ITB-House4
-      web       :
-    - name      : Brockmann, Dirk (PI)
-      group     : Research on Complex Systems
-      location  : ITB-House4
-      web       : http://rocs.hu-berlin.de/
-
-    - name      : Lauterbach, Elvira
-      group     : ITB Administration
-      location  : ITB-House4
-      web       :
     - name      : Sell, Thomas
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -195,3 +178,11 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       : http://itb.biologie.hu-berlin.de/~bharath/
+    - name      : Wilkins, Adams
+      group     : ITB
+      location  : ITB-House4
+      web       :
+    - name      : Brockmann, Dirk (PI)
+      group     : Research on Complex Systems
+      location  : ITB-House4
+      web       : http://rocs.hu-berlin.de/

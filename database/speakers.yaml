@@ -1,10 +1,10 @@
 speakers:
-    - name      : Sell, Thomas
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
     - name      : Hesse, Janina
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Sell, Thomas
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
     - name      : Gross, Torsten
@@ -49,6 +49,11 @@ speakers:
 
     - name      : Del Olmo, Marta
       group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :
+
+    - name      : Fischer, Matthias
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
 

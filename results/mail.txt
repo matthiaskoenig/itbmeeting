@@ -1,9 +1,10 @@
 Dear colleagues,
 
-The ITBMeeting will go on summer break for July and August.
-We will restart meetings on 01. September.
+We will restart the ITBMeeting as online meeting from next week on.
+Meetings will be via Zoom. Please have a look at the attached speaker list to figure
+out when it is your turn to present (dates can shift due to holidays and breaks).
 
-Best
+See you all next week.
 Matthias
 
 -----------------------------------------------------------------------
@@ -25,49 +26,50 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-10-13] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2020-10-20] Hesse, Janina - Systems Biology of Cancer - ITB-House4
-[2020-10-27] Gross, Torsten - Systems Biology of Molecular Networks - ITB-House4
-[2020-11-03] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
-[2020-11-10] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
-[2020-11-17] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4
-[2020-11-24] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
-[2020-12-01] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
-[2020-12-08] Kwon, Gino - Systems Biology of Inflammation - ITB-House4
-[2020-12-15] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
-[2020-12-22] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
-[2020-12-29] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
-[2021-01-05] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
-[2021-01-12] Brunner, Patrick - Systems Biology of Inflammation - ITB-House4
-[2021-01-19] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
-[2021-01-26] Reifenstein, Eric - Computational Neurophysiology - ITB-House4
-[2021-02-02] Winkelhöfer, Karin - ITB - ITB-House4
-[2021-02-09] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
-[2021-02-16] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
-[2021-02-23] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
-[2021-03-02] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
-[2021-03-09] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
-[2021-03-16] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
-[2021-03-23] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
-[2021-03-30] Poel, Winnie - Collective Information Processing - ITB-House4
-[2021-04-06] Rose, Pia - Computational Neurophysiology - ITB-House4
-[2021-04-13] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
-[2021-04-20] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
-[2021-04-27] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
-[2021-05-04] Contreras, Susana - Computational Neurophysiology - ITB-House4
-[2021-05-11] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
-[2021-05-18] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
-[2021-05-25] Schuppner, Rike-Benjamin - System Administration - ITB-House4
-[2021-06-01] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
-[2021-06-08] Klamser, Pascal - Collective Information Processing - ITB-House4
-[2021-06-15] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
-[2021-06-22] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
-[2021-06-29] Astaburuaga, Rosario - Systems Biology of Molecular Networks - ITB-House4
-[2021-07-06] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
-[2021-07-13] Basti, Alireza - Systems Biology of Cancer - ITB-House4
-[2021-07-20] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
-[2021-07-27] Wilkins, Adams - ITB - ITB-House4
-[2021-08-03] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-House4
+[2020-10-27] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
+[2020-11-03] Gross, Torsten - Systems Biology of Molecular Networks - ITB-House4
+[2020-11-10] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
+[2020-11-17] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
+[2020-11-24] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4
+[2020-12-01] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
+[2020-12-08] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
+[2020-12-15] Kwon, Gino - Systems Biology of Inflammation - ITB-House4
+[2020-12-22] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
+[2020-12-29] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
+[2021-01-05] Fischer, Matthias - Systems Biology of Molecular Networks - ITB-House4
+[2021-01-12] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
+[2021-01-19] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
+[2021-01-26] Brunner, Patrick - Systems Biology of Inflammation - ITB-House4
+[2021-02-02] Meisig, Johannes - Systems Biology of Molecular Networks - ITB-House4
+[2021-02-09] Reifenstein, Eric - Computational Neurophysiology - ITB-House4
+[2021-02-16] Winkelhöfer, Karin - ITB - ITB-House4
+[2021-02-23] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
+[2021-03-02] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
+[2021-03-09] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
+[2021-03-16] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
+[2021-03-23] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
+[2021-03-30] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
+[2021-04-06] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
+[2021-04-13] Poel, Winnie - Collective Information Processing - ITB-House4
+[2021-04-20] Rose, Pia - Computational Neurophysiology - ITB-House4
+[2021-04-27] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
+[2021-05-04] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
+[2021-05-11] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
+[2021-05-18] Contreras, Susana - Computational Neurophysiology - ITB-House4
+[2021-05-25] D'Albis, Tiziano - Theoretical Neuroscience - ITB-House4
+[2021-06-01] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
+[2021-06-08] Schuppner, Rike-Benjamin - System Administration - ITB-House4
+[2021-06-15] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
+[2021-06-22] Klamser, Pascal - Collective Information Processing - ITB-House4
+[2021-06-29] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
+[2021-07-06] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
+[2021-07-13] Astaburuaga, Rosario - Systems Biology of Molecular Networks - ITB-House4
+[2021-07-20] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
+[2021-07-27] Basti, Alireza - Systems Biology of Cancer - ITB-House4
+[2021-08-03] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
+[2021-08-10] Wilkins, Adams - ITB - ITB-House4
+[2021-08-17] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-House4
 
 Meeting Alumni:
 

@@ -1,8 +1,5 @@
 speakers:
-    - name      : Hesse, Janina
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
+
     - name      : Sell, Thomas
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -21,6 +18,11 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+
+    - name      : Dorel, Mathurin
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/grosstor
 
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
@@ -59,6 +61,11 @@ speakers:
 
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+
+    - name      : Peidli, Stefan
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
 
@@ -191,3 +198,7 @@ speakers:
       group     : Research on Complex Systems
       location  : ITB-House4
       web       : http://rocs.hu-berlin.de/
+    - name      : Hesse, Janina
+      group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :

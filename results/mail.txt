@@ -2,24 +2,22 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Sell, Thomas
+Title: "Is robustness of MAPK signalling a result of integral feedback control?"
+Speaker: Gross, Torsten
 Group: Systems Biology of Molecular Networks
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
-Topic: ITB meeting
-Time: Oct 27, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Topic: ITB Meeting
+Time: Nov 3, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/65851856097?pwd=ZnhDQnJXUU9rdnFsd0UzeUhmUUV6Zz09
+https://hu-berlin.zoom.us/j/63563049822?pwd=aUNCejZJcFlpMXJUbmxtMGlKd0F1Zz09
 
-Meeting ID: 658 5185 6097
-Password: 550238
-
-
+Meeting ID: 635 6304 9822
+Password: 011664
 -----------------------------------------------------------------------
 Best
 Matthias
@@ -43,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-10-27] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2020-11-03] Gross, Torsten - Systems Biology of Molecular Networks - ITB-House4
 [2020-11-10] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
 [2020-11-17] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
@@ -89,6 +86,7 @@ Upcoming speakers:
 [2021-09-07] Wilkins, Adams - ITB - ITB-House4
 [2021-09-14] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-House4
 [2021-09-21] Hesse, Janina - Systems Biology of Cancer - ITB-House4
+[2021-09-28] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

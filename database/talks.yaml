@@ -1,4 +1,8 @@
 talks:
+    - name: Sell, Thomas
+      date: 2020-10-27
+      title: "CyTOF"
+      slides:
     - name: Hesse, Janina
       date: 2020-10-20
       title: "Circadian genes and sports performance: Prediction of optimal training times"

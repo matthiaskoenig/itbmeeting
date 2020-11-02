@@ -1,9 +1,5 @@
 speakers:
 
-    - name      : Sell, Thomas
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
     - name      : Gross, Torsten
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -200,5 +196,9 @@ speakers:
       web       : http://rocs.hu-berlin.de/
     - name      : Hesse, Janina
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Sell, Thomas
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :

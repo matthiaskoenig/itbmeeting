@@ -2,22 +2,22 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Is robustness of MAPK signalling a result of integral feedback control?"
-Speaker: Gross, Torsten
-Group: Systems Biology of Molecular Networks
+Title: TBA
+Speaker: Herzel, Hanspeter (PI)
+Group: Molecular and Cellular Evolution
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB Meeting
-Time: Nov 3, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Nov 10, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/63563049822?pwd=aUNCejZJcFlpMXJUbmxtMGlKd0F1Zz09
+https://hu-berlin.zoom.us/j/68519382619?pwd=elp3eWJDWm5LeTF0c1NMZThndHgzdz09
 
-Meeting ID: 635 6304 9822
-Password: 011664
+Meeting ID: 685 1938 2619
+Password: 259246
 -----------------------------------------------------------------------
 Best
 Matthias

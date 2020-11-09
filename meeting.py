@@ -191,7 +191,7 @@ def update_outreach():
     for talk in talks:
         for field in ['name', 'title', 'date', 'slides']:
             if field not in talk:
-                raise ValueError(f"Required ield '{field}' missing in '{talk}'")
+                raise ValueError(f"Required field '{field}' missing in '{talk}'")
 
         # add slide link
         if talk['slides']:

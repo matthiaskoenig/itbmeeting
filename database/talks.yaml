@@ -1,4 +1,9 @@
 talks:
+
+    - name: Gross, Torsten
+      date: 2020-11-03
+      title: "Is robustness of MAPK signalling a result of integral feedback control?"
+      slides:
     - name: Sell, Thomas
       date: 2020-10-27
       title: "CyTOF"

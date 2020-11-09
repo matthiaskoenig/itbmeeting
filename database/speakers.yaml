@@ -92,6 +92,10 @@ speakers:
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :
+    - name      : Weerdmeester, Liz
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :
     - name: Romanczuk, Pawel (PI)
       group: Collective Information Processing
       location: ITB-House4
@@ -115,10 +119,6 @@ speakers:
 
     - name      : Poel, Winnie
       group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
-    - name      : Rose, Pia
-      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
     - name      : Schieferstein, Natalie

@@ -60,13 +60,13 @@ Upcoming speakers:
 [2021-03-16] Winkelhöfer, Karin - ITB - ITB-House4
 [2021-03-23] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
 [2021-03-30] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
-[2021-04-06] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
-[2021-04-13] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
-[2021-04-20] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
-[2021-04-27] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
-[2021-05-04] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
-[2021-05-11] Poel, Winnie - Collective Information Processing - ITB-House4
-[2021-05-18] Rose, Pia - Computational Neurophysiology - ITB-House4
+[2021-04-06] Weerdmeester, Liz - Computational Neurophysiology - ITB-House4
+[2021-04-13] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
+[2021-04-20] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
+[2021-04-27] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
+[2021-05-04] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
+[2021-05-11] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
+[2021-05-18] Poel, Winnie - Collective Information Processing - ITB-House4
 [2021-05-25] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
 [2021-06-01] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
 [2021-06-08] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
@@ -124,3 +124,4 @@ Li, Yin - Systems Biology of Cancer
 Faizi, Marjan - Metabolic Networks
 Uhlitz, Florian - Systems Biology of Molecular Networks
 Benary, Manuela - Systems Biology of Molecular Networks
+Rose, Pia - Computational Neurophysiology

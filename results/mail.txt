@@ -3,21 +3,21 @@ Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
 Title: TBA
-Speaker: Herzel, Hanspeter (PI)
-Group: Molecular and Cellular Evolution
+Speaker: Behbood, Mahraz
+Group: Computational Neurophysiology
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
-Topic: ITB Meeting
-Time: Nov 10, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Topic: ITB Meeting (Institute for Theoretical Biology Seminar)
+Time: Nov 17, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/68519382619?pwd=elp3eWJDWm5LeTF0c1NMZThndHgzdz09
+https://hu-berlin.zoom.us/j/61699200348?pwd=MWN0bzZ4WkhFaFp1OXlFVzRaT2JMZz09
 
-Meeting ID: 685 1938 2619
-Password: 259246
+Meeting ID: 616 9920 0348
+Password: 958490
 -----------------------------------------------------------------------
 Best
 Matthias
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-11-10] Herzel, Hanspeter (PI) - Molecular and Cellular Evolution - ITB-House4
 [2020-11-17] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
 [2020-11-24] Dorel, Mathurin - Systems Biology of Molecular Networks - ITB-House4
 [2020-12-01] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4

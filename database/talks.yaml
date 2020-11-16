@@ -1,5 +1,8 @@
 talks:
-
+    - name: Herzel, Hanspeter (PI)
+      date: 2020-11-10
+      title: "GC content of the genome"
+      slides:
     - name: Gross, Torsten
       date: 2020-11-03
       title: "Is robustness of MAPK signalling a result of integral feedback control?"

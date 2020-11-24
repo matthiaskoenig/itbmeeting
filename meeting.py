@@ -88,13 +88,10 @@ def get_next_dayofweek(d, weekday=1, skip_holidays=True):
     """
     days_ahead = weekday - d.weekday()
     if days_ahead < 1:  # Target day already happened this week (or monday)
-         days_ahead += 7
+          days_ahead += 7
+
     # this is the next possible date
-
     next_d = d + datetime.timedelta(days_ahead)
-    # print(next_d)
-    # next_d = next_d - datetime.timedelta(7)
-
 
     # skip all the German holidays
     if skip_holidays:
@@ -172,7 +169,7 @@ def update_outreach():
                 person['web'] = "https://itb.biologie.hu-berlin.de/" + web
         return person
 
-    date = datetime.date.today()
+    date = datetime.date.today() - datetime.timedelta(1)
     tuesday = 1
     for k, speaker in enumerate(speakers):
         speaker = set_webaddress(speaker)

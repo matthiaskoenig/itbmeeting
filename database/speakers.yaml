@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Behbood, Mahraz
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Dorel, Mathurin
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -196,3 +191,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/grosstor
+    - name      : Behbood, Mahraz
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :

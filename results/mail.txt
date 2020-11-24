@@ -1,23 +1,23 @@
 Dear colleagues,
-Good news, everyone! There will be an online ITB meeting tomorrow.
+Good news, everyone! There will be an online ITB meeting today.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Behbood, Mahraz
-Group: Computational Neurophysiology
+Title: "Reverse engineering signalling networks in neuroblastoma cell lines"
+Speaker: Dorel, Mathurin
+Group: Systems Biology of Molecular Networks
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
-Topic: ITB Meeting (Institute for Theoretical Biology Seminar)
-Time: Nov 17, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Topic: ITB meeting
+Time: Nov 24, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/61699200348?pwd=MWN0bzZ4WkhFaFp1OXlFVzRaT2JMZz09
+https://hu-berlin.zoom.us/j/82849353234?pwd=N2paL3RnVGgzSExCNEJkNXY3YW1Tdz09
 
-Meeting ID: 616 9920 0348
-Password: 958490
+Meeting ID: 828 4935 3234
+Password: 228231
 -----------------------------------------------------------------------
 Best
 Matthias
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-11-17] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
 [2020-11-24] Dorel, Mathurin - Systems Biology of Molecular Networks - ITB-House4
 [2020-12-01] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4
 [2020-12-08] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
@@ -86,6 +85,7 @@ Upcoming speakers:
 [2021-09-21] Hesse, Janina - Systems Biology of Cancer - ITB-House4
 [2021-09-28] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
 [2021-10-05] Gross, Torsten - Systems Biology of Molecular Networks - ITB-House4
+[2021-10-12] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
 
 Meeting Alumni:
 

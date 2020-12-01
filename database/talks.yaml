@@ -1,4 +1,8 @@
 talks:
+    - name: Dorel, Mathurin
+      date: 2020-11-24
+      title: "Reverse engineering signalling networks in neuroblastoma cell lines"
+      slides:
     - name: Behbood, Mahraz
       date: 2020-11-17
       title: "KCC2 cotransporter plays a role in balancing  potassium in the extracellular space of excitatory synapses"

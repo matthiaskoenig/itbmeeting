@@ -2,22 +2,22 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting today.
 
 ---------------------------------------------------------------------------
-Title: "Reverse engineering signalling networks in neuroblastoma cell lines"
-Speaker: Dorel, Mathurin
-Group: Systems Biology of Molecular Networks
+Title: "Understanding excitability-switches in one dimension too much"
+Speaker: Schleimer, Jan-Hendrik
+Group: Computational Neurophysiology
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
-Topic: ITB meeting
-Time: Nov 24, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Topic: ITB meeting (Institute for Theoretical Biology Seminar)
+Time: Dec 1, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/82849353234?pwd=N2paL3RnVGgzSExCNEJkNXY3YW1Tdz09
+https://hu-berlin.zoom.us/j/82058583904?pwd=WEhRTkFjY1lFY2wvMVVxZURvYjB6UT09
 
-Meeting ID: 828 4935 3234
-Password: 228231
+Meeting ID: 820 5858 3904
+Password: 546311
 -----------------------------------------------------------------------
 Best
 Matthias

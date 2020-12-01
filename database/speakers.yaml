@@ -1,10 +1,4 @@
 speakers:
-
-    - name      : Dorel, Mathurin
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : wiki/members/grosstor
-
     - name      : Schleimer, Jan-Hendrik
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -17,11 +11,6 @@ speakers:
 
     - name      : Aboumanify, Ouda
       group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
-
-    - name      : Kwon, Gino
-      group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :
 
@@ -42,6 +31,11 @@ speakers:
 
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+
+    - name      : Kwon, Gino
+      group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :
 
@@ -195,3 +189,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+    - name      : Dorel, Mathurin
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/grosstor

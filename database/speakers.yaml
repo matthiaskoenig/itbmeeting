@@ -1,9 +1,4 @@
 speakers:
-    - name      : Schleimer, Jan-Hendrik
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Klinger, Bertram
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
@@ -193,3 +188,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       : wiki/members/grosstor
+    - name      : Schleimer, Jan-Hendrik
+      group     : Computational Neurophysiology
+      location  : ITB-House4
+      web       :

@@ -1,4 +1,8 @@
 talks:
+    - name: Schleimer, Jan-Hendrik
+      date: 2020-12-01
+      title: "Understanding excitability-switches in one dimension too much"
+      slides:
     - name: Dorel, Mathurin
       date: 2020-11-24
       title: "Reverse engineering signalling networks in neuroblastoma cell lines"

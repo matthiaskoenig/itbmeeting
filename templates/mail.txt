@@ -1,23 +1,23 @@
 Dear colleagues,
-Good news, everyone! There will be an online ITB meeting today.
+Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Understanding excitability-switches in one dimension too much"
-Speaker: Schleimer, Jan-Hendrik
-Group: Computational Neurophysiology
+Title: TBA
+Speaker: Klinger, Bertram
+Group: Systems Biology of Molecular Networks
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Dec 1, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Dec 8, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
-https://hu-berlin.zoom.us/j/82058583904?pwd=WEhRTkFjY1lFY2wvMVVxZURvYjB6UT09
+https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
 
-Meeting ID: 820 5858 3904
-Password: 546311
+Meeting ID: 654 8410 2556
+Password: 140912
 -----------------------------------------------------------------------
 Best
 Matthias

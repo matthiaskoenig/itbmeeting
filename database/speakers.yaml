@@ -1,9 +1,4 @@
 speakers:
-    - name      : Klinger, Bertram
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : wiki/members/klinger
-
     - name      : Aboumanify, Ouda
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -192,3 +187,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+    - name      : Klinger, Bertram
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : wiki/members/klinger

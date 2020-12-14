@@ -1,4 +1,8 @@
 talks:
+    - name: Klinger, Bertram
+      date: 2020-12-08
+      title: "Speed2"
+      slides:
     - name: Schleimer, Jan-Hendrik
       date: 2020-12-01
       title: "Understanding excitability-switches in one dimension too much"

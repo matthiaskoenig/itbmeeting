@@ -3,8 +3,8 @@ Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
 Title: TBA
-Speaker: Klinger, Bertram
-Group: Systems Biology of Molecular Networks
+Speaker: Aboumanify, Ouda
+Group: Systems Biology of Cancer
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2020-12-08] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
 [2020-12-15] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
 [2021-01-12] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
 [2021-01-19] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
@@ -86,6 +85,7 @@ Upcoming speakers:
 [2021-10-19] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
 [2021-10-26] Dorel, Mathurin - Systems Biology of Molecular Networks - ITB-House4
 [2021-11-02] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4
+[2021-11-09] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

@@ -2,16 +2,17 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Aboumanify, Ouda
-Group: Systems Biology of Cancer
+Title: PK-DB: A Pharmacokinetics Database for Individualized and Stratified Computational Modelling
+Speaker: Grzegorzewski, Jan
+Group: Systems Biology of Liver
 Location: Zoom-Online
 Time: 14.00
+
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Dec 8, 2020 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Jan 12, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09

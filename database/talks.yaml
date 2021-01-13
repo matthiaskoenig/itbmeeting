@@ -1,5 +1,8 @@
 talks:
-
+    - name: Grzegorzewski, Jan
+      date: 2021-01-12
+      title: "PK-DB: A Pharmacokinetics Database for Individualized and Stratified Computational Modelling"
+      slides:
     - name: Aboumanify, Ouda
       date: 2020-12-15
       title: "Circadian genes and sports performance"

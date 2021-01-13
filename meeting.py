@@ -1,20 +1,9 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 Helper scripts to create updated email & homepage
 for ITB Meeting
 """
-
-from __future__ import print_function, division, absolute_import
-from six import iteritems
 import yaml
 import warnings
-
-# import sys
-# reload(sys)
-# sys.setdefaultencoding('utf-8')
-
 import datetime
 import holidays
 
@@ -209,14 +198,13 @@ def update_outreach():
             warnings.warn("Person does not exist: '{}'".format(name))
         person = people_dict.get(name, None)
         if person:
-            for key, value in iteritems(person):
+            for key, value in person.items():
                 talk[key] = value
 
     create_homepage(talks=talks, speakers=speakers, alumnis=alumnis)
     create_mail(speakers=speakers, alumnis=alumnis)
 
 
-##########################################################################################
 if __name__ == "__main__":
     print('-' * 80)
     print('Updating ITBmeeting information')

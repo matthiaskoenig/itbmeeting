@@ -2,7 +2,7 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
+Title: Maintaining and losing homoeostasis in hierarchical tissues
 Speaker: Fischer, Matthias
 Group: Systems Biology of Molecular Networks
 Location: Zoom-Online

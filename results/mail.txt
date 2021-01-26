@@ -2,16 +2,16 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: Maintaining and losing homoeostasis in hierarchical tissues
-Speaker: Fischer, Matthias
-Group: Systems Biology of Molecular Networks
+Title: Nonlinear phenomena in models of the circadian clock
+Speaker: Del Olmo, Marta
+Group: Molecular and Cellular Evolution
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Jan 19, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Jan 26, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-01-19] Fischer, Matthias - Systems Biology of Molecular Networks - ITB-House4
 [2021-01-26] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
 [2021-02-02] Malhan, Deeksha - Systems Biology of Cancer - ITB-House4
 [2021-02-09] Kwon, Gino - Systems Biology of Inflammation - ITB-House4
@@ -87,6 +86,7 @@ Upcoming speakers:
 [2021-11-16] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
 [2021-11-23] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
 [2021-11-30] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
+[2021-12-07] Fischer, Matthias - Systems Biology of Molecular Networks - ITB-House4
 
 Meeting Alumni:
 

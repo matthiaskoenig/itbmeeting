@@ -1,4 +1,8 @@
 talks:
+    - name: Fischer, Matthias
+      date: 2021-01-19
+      title: "Maintaining and losing homoeostasis in hierarchical tissues"
+      slides:
     - name: Grzegorzewski, Jan
       date: 2021-01-12
       title: "PK-DB: A Pharmacokinetics Database for Individualized and Stratified Computational Modelling"

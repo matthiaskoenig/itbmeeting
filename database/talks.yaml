@@ -1,4 +1,8 @@
 talks:
+    - name: Del Olmo, Marta
+      date: 2021-01-26
+      title: "Nonlinear phenomena in models of the circadian clock"
+      slides:
     - name: Fischer, Matthias
       date: 2021-01-19
       title: "Maintaining and losing homoeostasis in hierarchical tissues"

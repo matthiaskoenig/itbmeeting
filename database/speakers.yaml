@@ -1,9 +1,4 @@
 speakers:
-    - name      : Del Olmo, Marta
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       :
-
     - name      : Malhan, Deeksha
       group     : Systems Biology of Cancer
       location  : ITB-House4
@@ -191,5 +186,9 @@ speakers:
       web       :
     - name      : Fischer, Matthias
       group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       :
+    - name      : Del Olmo, Marta
+      group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :

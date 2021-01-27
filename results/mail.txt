@@ -2,9 +2,9 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: Nonlinear phenomena in models of the circadian clock
-Speaker: Del Olmo, Marta
-Group: Molecular and Cellular Evolution
+Title: Bone healing: cellular and molecular insight
+Speaker: Malhan, Deeksha
+Group: Systems Biology of Cancer
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-01-26] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
 [2021-02-02] Malhan, Deeksha - Systems Biology of Cancer - ITB-House4
 [2021-02-09] Kwon, Gino - Systems Biology of Inflammation - ITB-House4
 [2021-02-16] Peidli, Stefan - Systems Biology of Molecular Networks - ITB-House4
@@ -87,6 +86,7 @@ Upcoming speakers:
 [2021-11-23] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
 [2021-11-30] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
 [2021-12-07] Fischer, Matthias - Systems Biology of Molecular Networks - ITB-House4
+[2021-12-14] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 

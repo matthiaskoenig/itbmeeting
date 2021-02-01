@@ -19,6 +19,11 @@ speakers:
       location  : ITB-House4
       web       : http://www.sys-bio.net/
 
+    - name: Zhao, Yinong
+      group: Collective Information Processing
+      location: ITB-House4
+      web:
+
     - name      : Brunner, Patrick
       group     : Systems Biology of Inflammation
       location  : ITB-House4

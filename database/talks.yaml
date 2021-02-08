@@ -1,4 +1,8 @@
 talks:
+    - name: Malhan, Deeksha
+      date: 2021-02-02
+      title: "Bone healing: cellular and molecular insight"
+      slides:
     - name: Del Olmo, Marta
       date: 2021-01-26
       title: "Nonlinear phenomena in models of the circadian clock"

@@ -1,9 +1,4 @@
 speakers:
-    - name      : Malhan, Deeksha
-      group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
-
     - name      : Kwon, Gino
       group     : Systems Biology of Inflammation
       location  : ITB-House4
@@ -36,11 +31,6 @@ speakers:
 
     - name      : Relógio, Angela (PI)
       group     : Systems Biology of Cancer
-      location  : ITB-House4
-      web       :
-
-    - name      : Reifenstein, Eric
-      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
 
@@ -99,10 +89,6 @@ speakers:
       web       :
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-    - name      : D'Albis, Tiziano
-      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :
     - name      : Burt, Phillipp
@@ -195,5 +181,9 @@ speakers:
       web       :
     - name      : Del Olmo, Marta
       group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :
+    - name      : Malhan, Deeksha
+      group     : Systems Biology of Cancer
       location  : ITB-House4
       web       :

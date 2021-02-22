@@ -2,7 +2,7 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: TBA
+Title: "Signalling and the organisation of the epithelium and epithelial tumours. Lessons learned from single cell studies."
 Speaker: Bluethgen, Nils (PI)
 Group: Systems Biology of Molecular Networks
 Location: Zoom-Online

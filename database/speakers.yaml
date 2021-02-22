@@ -1,13 +1,4 @@
 speakers:
-    - name      : Kwon, Gino
-      group     : Systems Biology of Inflammation
-      location  : ITB-House4
-      web       :
-
-    - name      : Peidli, Stefan
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       :
 
     - name      : Bluethgen, Nils (PI)
       group     : Systems Biology of Molecular Networks
@@ -185,5 +176,13 @@ speakers:
       web       :
     - name      : Malhan, Deeksha
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Kwon, Gino
+      group     : Systems Biology of Inflammation
+      location  : ITB-House4
+      web       :
+    - name      : Peidli, Stefan
+      group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :

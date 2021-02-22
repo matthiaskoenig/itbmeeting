@@ -1,4 +1,12 @@
 talks:
+    - name: Peidli, Stefan
+      date: 2021-02-16
+      title: "Temporal Single Cell Analysis with RNA velocity"
+      slides:
+    - name: Kwon, Gino
+      date: 2021-02-09
+      title: "Dissecting the heterogeneity of single cell RNA expression."
+      slides:
     - name: Malhan, Deeksha
       date: 2021-02-02
       title: "Bone healing: cellular and molecular insight"

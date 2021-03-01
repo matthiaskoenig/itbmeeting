@@ -1,10 +1,5 @@
 speakers:
 
-    - name      : Bluethgen, Nils (PI)
-      group     : Systems Biology of Molecular Networks
-      location  : ITB-House4
-      web       : http://www.sys-bio.net/
-
     - name: Zhao, Yinong
       group: Collective Information Processing
       location: ITB-House4
@@ -181,3 +176,7 @@ speakers:
       group     : Systems Biology of Molecular Networks
       location  : ITB-House4
       web       :
+    - name      : Bluethgen, Nils (PI)
+      group     : Systems Biology of Molecular Networks
+      location  : ITB-House4
+      web       : http://www.sys-bio.net/

@@ -1,4 +1,12 @@
 talks:
+    - name: Relógio, Angela (PI)
+      date: 2021-03-16
+      title: "Circadian cancer metabolism."
+      slides:
+    - name: Brunner, Patrick
+      date: 2021-03-09
+      title: "Spatial modeling of inflammation"
+      slides:
     - name: Zhao, Yinong
       date: 2021-03-02
       title: "Self-organization of self-propelled particles with alignment -- Contagion process influenced by the spatial structure"

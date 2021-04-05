@@ -2,16 +2,16 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: A striking 'pandemic'
-Speaker: Hammerstein, Peter (PI)
-Group: Evolution of Organismic Systems
+Title: "An Integrative Omics Approach Reveals Post-transcriptional Mechanisms Underlying Circadian Temperature Compensation"
+Speaker: Schmal, Christoph (PI)
+Group: Molecular and Cellular Evolution
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Mar 30, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Apr 06, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
@@ -41,8 +41,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-03-30] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
-[2021-04-06] Schmal, Christoph - Molecular and Cellular Evolution - ITB-House4
+[2021-04-06] Schmal, Christoph (PI) - Molecular and Cellular Evolution - ITB-House4
 [2021-04-13] Weerdmeester, Liz - Computational Neurophysiology - ITB-House4
 [2021-04-20] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2021-04-27] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
@@ -85,6 +84,7 @@ Upcoming speakers:
 [2022-01-11] Brunner, Patrick - Systems Biology of Inflammation - ITB-House4
 [2022-01-18] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2022-01-25] Winkelhöfer, Karin - ITB - ITB-House4
+[2022-02-01] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
 
 Meeting Alumni:
 

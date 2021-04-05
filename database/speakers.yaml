@@ -1,9 +1,5 @@
 speakers:
-    - name      : Hammerstein, Peter (PI)
-      group     : Evolution of Organismic Systems
-      location  : ITB-House4
-      web       :
-    - name      : Schmal, Christoph
+    - name      : Schmal, Christoph (PI)
       group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :
@@ -174,5 +170,9 @@ speakers:
       web       :
     - name      : Winkelhöfer, Karin
       group     : ITB
+      location  : ITB-House4
+      web       :
+    - name      : Hammerstein, Peter (PI)
+      group     : Evolution of Organismic Systems
       location  : ITB-House4
       web       :

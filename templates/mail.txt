@@ -2,9 +2,9 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "An Integrative Omics Approach Reveals Post-transcriptional Mechanisms Underlying Circadian Temperature Compensation"
-Speaker: Schmal, Christoph (PI)
-Group: Molecular and Cellular Evolution
+Title: "Energy vs robustness: a trade-off?"
+Speaker: Weerdmeester, Liz
+Group: Computational Neurophysiology
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------

@@ -1,13 +1,9 @@
 speakers:
-    - name      : Schmal, Christoph (PI)
-      group     : Molecular and Cellular Evolution
-      location  : ITB-House4
-      web       :
     - name      : Weerdmeester, Liz
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-    - name: Romanczuk, Pawel (PI)
+    - name: Gomez, Luis
       group: Collective Information Processing
       location: ITB-House4
       web:
@@ -60,10 +56,10 @@ speakers:
       group     : Systems Biology of Inflammation
       location  : ITB-House4
       web       :
-    - name      : Klamser, Pascal
-      group     : Collective Information Processing
-      location  : ITB-House4
-      web       :
+    - name: Romanczuk, Pawel (PI)
+      group: Collective Information Processing
+      location: ITB-House4
+      web:
     - name      : Gustav, Geissler
       group     : Systems Biology of Inflammation
       location  : ITB-House4
@@ -174,5 +170,9 @@ speakers:
       web       :
     - name      : Hammerstein, Peter (PI)
       group     : Evolution of Organismic Systems
+      location  : ITB-House4
+      web       :
+    - name      : Schmal, Christoph (PI)
+      group     : Molecular and Cellular Evolution
       location  : ITB-House4
       web       :

@@ -2,9 +2,9 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "An Integrative Omics Approach Reveals Post-transcriptional Mechanisms Underlying Circadian Temperature Compensation"
-Speaker: Schmal, Christoph (PI)
-Group: Molecular and Cellular Evolution
+Title: "Energy vs robustness: a trade-off?"
+Speaker: Weerdmeester, Liz
+Group: Computational Neurophysiology
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
@@ -41,9 +41,8 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-04-06] Schmal, Christoph (PI) - Molecular and Cellular Evolution - ITB-House4
 [2021-04-13] Weerdmeester, Liz - Computational Neurophysiology - ITB-House4
-[2021-04-20] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
+[2021-04-20] Gomez, Luis - Collective Information Processing - ITB-House4
 [2021-04-27] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
 [2021-05-04] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
 [2021-05-11] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
@@ -56,7 +55,7 @@ Upcoming speakers:
 [2021-06-29] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
 [2021-07-06] Schuppner, Rike-Benjamin - System Administration - ITB-House4
 [2021-07-13] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
-[2021-07-20] Klamser, Pascal - Collective Information Processing - ITB-House4
+[2021-07-20] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
 [2021-07-27] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
 [2021-08-03] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
 [2021-08-10] Astaburuaga, Rosario - Systems Biology of Molecular Networks - ITB-House4
@@ -85,6 +84,7 @@ Upcoming speakers:
 [2022-01-18] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
 [2022-01-25] Winkelhöfer, Karin - ITB - ITB-House4
 [2022-02-01] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
+[2022-02-08] Schmal, Christoph (PI) - Molecular and Cellular Evolution - ITB-House4
 
 Meeting Alumni:
 
@@ -126,3 +126,4 @@ Rose, Pia - Computational Neurophysiology
 Reifenstein, Eric - Computational Neurophysiology
 D'Albis, Tiziano - Theoretical Neuroscience
 Meisig, Johannes - Systems Biology of Molecular Networks
+Klamser, Pascal - Collective Information Processing

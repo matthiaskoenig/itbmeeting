@@ -1,4 +1,8 @@
 talks:
+    - name: Weerdmeester, Liz
+      date: 2021-04-13
+      title: "Energy vs robustness: a trade-off?"
+      slides:
     - name: Schmal, Christoph (PI)
       date: 2021-04-06
       title: "An Integrative Omics Approach Reveals Post-transcriptional Mechanisms Underlying Circadian Temperature Compensation"

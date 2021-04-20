@@ -1,8 +1,5 @@
 speakers:
-    - name      : Weerdmeester, Liz
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
+
     - name: Gomez, Luis
       group: Collective Information Processing
       location: ITB-House4
@@ -174,5 +171,9 @@ speakers:
       web       :
     - name      : Schmal, Christoph (PI)
       group     : Molecular and Cellular Evolution
+      location  : ITB-House4
+      web       :
+    - name      : Weerdmeester, Liz
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :

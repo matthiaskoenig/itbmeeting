@@ -1,9 +1,5 @@
 speakers:
 
-    - name: Gomez, Luis
-      group: Collective Information Processing
-      location: ITB-House4
-      web:
     - name      : Steuer, Ralf (PI)
       group     : Metabolic Networks
       location  : ITB-House4
@@ -16,11 +12,6 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
-    - name      : Schreiber, Susanne (PI)
-      group     : Computational Neurophysiology
-      location  : ITB-House4
-      web       :
-
     - name      : Poel, Winnie
       group     : Collective Information Processing
       location  : ITB-House4
@@ -75,6 +66,10 @@ speakers:
       web       :
     - name      : Basti, Alireza
       group     : Systems Biology of Cancer
+      location  : ITB-House4
+      web       :
+    - name      : Schreiber, Susanne (PI)
+      group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
     - name      : Ananthasubramaniam, Bharath
@@ -177,3 +172,7 @@ speakers:
       group     : Computational Neurophysiology
       location  : ITB-House4
       web       :
+    - name: Gomez, Luis
+      group: Collective Information Processing
+      location: ITB-House4
+      web:

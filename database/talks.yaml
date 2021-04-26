@@ -1,4 +1,8 @@
 talks:
+    - name: Gomez, Luis
+      date: 2021-04-20
+      title: "Information spread enhanced by criticality in high-responsive groups of fish"
+      slides:
     - name: Weerdmeester, Liz
       date: 2021-04-13
       title: "Energy vs robustness: a trade-off?"

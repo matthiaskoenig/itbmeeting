@@ -1,18 +1,17 @@
 Dear colleagues,
-Good news, everyone! There will be an online ITB meeting tomorrow.
+Good news, everyone! There will be an online ITB meeting today.
 
 ---------------------------------------------------------------------------
-Title: "Eating the Sun: the path from single cell growth to productive ecosystems"
-Speaker: Steuer, Ralf (PI)
-Group: Metabolic Networks
+Title: "A physiologically based model of indocyanine green liver function tests"
+Speaker: König, Matthias (PI)
+Group: Systems Biology of Liver
 Location: Zoom-Online
 Time: 14.00
-
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Apr 27, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: May 04, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
@@ -42,50 +41,50 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-04-27] Steuer, Ralf (PI) - Metabolic Networks - ITB-House4
-[2021-05-04] König, Matthias (PI) - Systems Biology of Liver - ITB-House4
-[2021-05-11] Pfeiffer, Paul - Computational Neurophysiology - ITB-House4
-[2021-05-18] Poel, Winnie - Collective Information Processing - ITB-House4
-[2021-05-25] Schieferstein, Natalie - Theoretical Neuroscience - ITB-House4
-[2021-06-01] Thurley, Kevin (PI) - Systems Biology of Inflammation - ITB-House4
-[2021-06-08] Kuokkanen, Paula - Theoretical Neuroscience - ITB-House4
-[2021-06-15] Contreras, Susana - Computational Neurophysiology - ITB-House4
-[2021-06-22] Burt, Phillipp - Systems Biology of Inflammation - ITB-House4
-[2021-06-29] Schuppner, Rike-Benjamin - System Administration - ITB-House4
-[2021-07-06] Borek, Zuzanna - Systems Biology of Inflammation - ITB-House4
-[2021-07-13] Romanczuk, Pawel (PI) - Collective Information Processing - ITB-House4
-[2021-07-20] Gustav, Geissler - Systems Biology of Inflammation - ITB-House4
-[2021-07-27] Upadhyay, Abhishek - Molecular and Cellular Evolution - ITB-House4
-[2021-08-03] Astaburuaga, Rosario - Systems Biology of Molecular Networks - ITB-House4
-[2021-08-10] Yalcin, Müge - Systems Biology of Cancer - ITB-House4
-[2021-08-17] Basti, Alireza - Systems Biology of Cancer - ITB-House4
-[2021-08-24] Schreiber, Susanne (PI) - Computational Neurophysiology - ITB-House4
-[2021-08-31] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution - ITB-House4
-[2021-09-07] Wilkins, Adams - ITB - ITB-House4
-[2021-09-14] Brockmann, Dirk (PI) - Research on Complex Systems - ITB-House4
-[2021-09-21] Hesse, Janina - Systems Biology of Cancer - ITB-House4
-[2021-09-28] Sell, Thomas - Systems Biology of Molecular Networks - ITB-House4
-[2021-10-05] Gross, Torsten - Systems Biology of Molecular Networks - ITB-House4
-[2021-10-12] Behbood, Mahraz - Computational Neurophysiology - ITB-House4
-[2021-10-19] Dorel, Mathurin - Systems Biology of Molecular Networks - ITB-House4
-[2021-10-26] Schleimer, Jan-Hendrik - Computational Neurophysiology - ITB-House4
-[2021-11-02] Klinger, Bertram - Systems Biology of Molecular Networks - ITB-House4
-[2021-11-09] Aboumanify, Ouda - Systems Biology of Cancer - ITB-House4
-[2021-11-16] Grzegorzewski, Jan - Systems Biology of Liver - ITB-House4
-[2021-11-23] Fischer, Matthias - Systems Biology of Molecular Networks - ITB-House4
-[2021-11-30] Del Olmo, Marta - Molecular and Cellular Evolution - ITB-House4
-[2021-12-07] Malhan, Deeksha - Systems Biology of Cancer - ITB-House4
-[2021-12-14] Kwon, Gino - Systems Biology of Inflammation - ITB-House4
-[2021-12-21] Peidli, Stefan - Systems Biology of Molecular Networks - ITB-House4
-[2021-12-28] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks - ITB-House4
-[2022-01-04] Zhao, Yinong - Collective Information Processing - ITB-House4
-[2022-01-11] Brunner, Patrick - Systems Biology of Inflammation - ITB-House4
-[2022-01-18] Relógio, Angela (PI) - Systems Biology of Cancer - ITB-House4
-[2022-01-25] Winkelhöfer, Karin - ITB - ITB-House4
-[2022-02-01] Hammerstein, Peter (PI) - Evolution of Organismic Systems - ITB-House4
-[2022-02-08] Schmal, Christoph (PI) - Molecular and Cellular Evolution - ITB-House4
-[2022-02-15] Weerdmeester, Liz - Computational Neurophysiology - ITB-House4
-[2022-02-22] Gomez, Luis - Collective Information Processing - ITB-House4
+[2021-05-04] König, Matthias (PI) - Systems Biology of Liver
+[2021-05-11] Pfeiffer, Paul - Computational Neurophysiology
+[2021-05-18] Poel, Winnie - Collective Information Processing
+[2021-05-25] Schieferstein, Natalie - Theoretical Neuroscience
+[2021-06-01] Thurley, Kevin (PI) - Systems Biology of Inflammation
+[2021-06-08] Kuokkanen, Paula - Theoretical Neuroscience
+[2021-06-15] Contreras, Susana - Computational Neurophysiology
+[2021-06-22] Burt, Phillipp - Systems Biology of Inflammation
+[2021-06-29] Schuppner, Rike-Benjamin - System Administration
+[2021-07-06] Borek, Zuzanna - Systems Biology of Inflammation
+[2021-07-13] Romanczuk, Pawel (PI) - Collective Information Processing
+[2021-07-20] Gustav, Geissler - Systems Biology of Inflammation
+[2021-07-27] Upadhyay, Abhishek - Molecular and Cellular Evolution
+[2021-08-03] Astaburuaga, Rosario - Systems Biology of Molecular Networks
+[2021-08-10] Yalcin, Müge - Systems Biology of Cancer
+[2021-08-17] Basti, Alireza - Systems Biology of Cancer
+[2021-08-24] Schreiber, Susanne (PI) - Computational Neurophysiology
+[2021-08-31] Ananthasubramaniam, Bharath - Molecular and Cellular Evolution
+[2021-09-07] Wilkins, Adams - ITB
+[2021-09-14] Brockmann, Dirk (PI) - Research on Complex Systems
+[2021-09-21] Hesse, Janina - Systems Biology of Cancer
+[2021-09-28] Sell, Thomas - Systems Biology of Molecular Networks
+[2021-10-05] Gross, Torsten - Systems Biology of Molecular Networks
+[2021-10-12] Behbood, Mahraz - Computational Neurophysiology
+[2021-10-19] Dorel, Mathurin - Systems Biology of Molecular Networks
+[2021-10-26] Schleimer, Jan-Hendrik - Computational Neurophysiology
+[2021-11-02] Klinger, Bertram - Systems Biology of Molecular Networks
+[2021-11-09] Aboumanify, Ouda - Systems Biology of Cancer
+[2021-11-16] Grzegorzewski, Jan - Systems Biology of Liver
+[2021-11-23] Fischer, Matthias - Systems Biology of Molecular Networks
+[2021-11-30] Del Olmo, Marta - Molecular and Cellular Evolution
+[2021-12-07] Malhan, Deeksha - Systems Biology of Cancer
+[2021-12-14] Kwon, Gino - Systems Biology of Inflammation
+[2021-12-21] Peidli, Stefan - Systems Biology of Molecular Networks
+[2021-12-28] Bluethgen, Nils (PI) - Systems Biology of Molecular Networks
+[2022-01-04] Zhao, Yinong - Collective Information Processing
+[2022-01-11] Brunner, Patrick - Systems Biology of Inflammation
+[2022-01-18] Relógio, Angela (PI) - Systems Biology of Cancer
+[2022-01-25] Winkelhöfer, Karin - ITB
+[2022-02-01] Hammerstein, Peter (PI) - Evolution of Organismic Systems
+[2022-02-08] Schmal, Christoph (PI) - Molecular and Cellular Evolution
+[2022-02-15] Weerdmeester, Liz - Computational Neurophysiology
+[2022-02-22] Gomez, Luis - Collective Information Processing
+[2022-03-01] Steuer, Ralf (PI) - Metabolic Networks
 
 Meeting Alumni:
 

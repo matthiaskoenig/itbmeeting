@@ -2,17 +2,16 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting tomorrow.
 
 ---------------------------------------------------------------------------
-Title: "Eating the Sun: the path from single cell growth to productive ecosystems"
-Speaker: Steuer, Ralf (PI)
-Group: Metabolic Networks
+Title: "A physiologically based model of indocyanine green liver function tests"
+Speaker: König, Matthias (PI)
+Group: Systems Biology of Liver
 Location: Zoom-Online
 Time: 14.00
-
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: Apr 27, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: May 04, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
@@ -43,7 +42,7 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 Upcoming speakers:
 
 {% for speaker in speakers %}
-[{{ speaker.pdate}}] {{ speaker.name }} - {{ speaker.group }} - {{ speaker.location }}
+[{{ speaker.pdate}}] {{ speaker.name }} - {{ speaker.group }}
 {% endfor %}
 
 Meeting Alumni:

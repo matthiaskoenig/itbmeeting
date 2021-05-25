@@ -1,4 +1,8 @@
 talks:
+    - name: Pfeiffer, Paul
+      date: 2021-05-18
+      title: "Capacitance clamp - artificial capacitance in biological neurons"
+      slides:
     - name: König, Matthias (PI)
       date: 2021-05-03
       title: "Physiologically based model of the indocyanine green based liver function tests"

@@ -2,16 +2,16 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting today.
 
 ---------------------------------------------------------------------------
-Title: TBA
-Speaker: Poel, Winnie
-Group: Collective Information Processing
+Title: "Approximating transient dynamics of hippocampal ripple oscillations in an inhibitory network model"
+Speaker: Schieferstein, Natalie
+Group: Theoretical Neuroscience
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: May 25, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: June 01, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09

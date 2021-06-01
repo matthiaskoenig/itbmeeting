@@ -1,4 +1,8 @@
 talks:
+    - name: Poel, Winnie
+      date: 2021-05-25
+      title: TBA
+      slides:
     - name: Pfeiffer, Paul
       date: 2021-05-18
       title: "Capacitance clamp - artificial capacitance in biological neurons"

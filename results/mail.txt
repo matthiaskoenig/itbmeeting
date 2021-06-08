@@ -2,16 +2,16 @@ Dear colleagues,
 Good news, everyone! There will be an online ITB meeting today.
 
 ---------------------------------------------------------------------------
-Title: "Approximating transient dynamics of hippocampal ripple oscillations in an inhibitory network model"
-Speaker: Schieferstein, Natalie
-Group: Theoretical Neuroscience
+Title: "Epigenetic auto-stabilization - evidence for a new network motif in the control of Th cell lineage identity."
+Speaker: Thurley, Kevin (PI)
+Group: Systems Biology of Inflammation
 Location: Zoom-Online
 Time: 14.00
 -----------------------------------------------------------------------
 We are inviting you to a scheduled HU-Zoom ITB meeting.
 
 Topic: ITB meeting (Institute for Theoretical Biology Seminar)
-Time: June 01, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: June 08, 2021 02:00 PM Amsterdam, Berlin, Rome, Stockholm, Vienna
 
 Join Zoom Meeting
 https://hu-berlin.zoom.us/j/65484102556?pwd=d0VkUmNCTm9yZHdPbTkxOHE3UTA1UT09
@@ -41,7 +41,6 @@ Thank you for your effort to keep ITB a vital and exciting meeting point for the
 
 Upcoming speakers:
 
-[2021-06-01] Schieferstein, Natalie - Theoretical Neuroscience
 [2021-06-08] Thurley, Kevin (PI) - Systems Biology of Inflammation
 [2021-06-15] Kuokkanen, Paula - Theoretical Neuroscience
 [2021-06-22] Contreras, Susana - Computational Neurophysiology
@@ -85,6 +84,7 @@ Upcoming speakers:
 [2022-03-15] König, Matthias (PI) - Systems Biology of Liver
 [2022-03-22] Pfeiffer, Paul - Computational Neurophysiology
 [2022-03-29] Poel, Winnie - Collective Information Processing
+[2022-04-05] Schieferstein, Natalie - Theoretical Neuroscience
 
 Meeting Alumni:
 

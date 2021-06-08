@@ -1,4 +1,8 @@
 talks:
+    - name: Schieferstein, Natalie
+      date: 2021-06-01
+      title: "Approximating transient dynamics of hippocampal ripple oscillations in an inhibitory network model"
+      slides:
     - name: Poel, Winnie
       date: 2021-05-25
       title: TBA

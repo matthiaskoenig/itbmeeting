@@ -1,4 +1,8 @@
 talks:
+    - name: Thurley, Kevin (PI)
+      date: 2021-06-08
+      title: "Epigenetic auto-stabilization - evidence for a new network motif in the control of Th cell lineage identity."
+      slides:
     - name: Schieferstein, Natalie
       date: 2021-06-01
       title: "Approximating transient dynamics of hippocampal ripple oscillations in an inhibitory network model"

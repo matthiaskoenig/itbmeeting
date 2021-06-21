@@ -1,8 +1,4 @@
 speakers:
-    - name      : Kuokkanen, Paula
-      group     : Theoretical Neuroscience
-      location  : ITB-House4
-      web       :
     - name      : Contreras, Susana
       group     : Computational Neurophysiology
       location  : ITB-House4
@@ -173,5 +169,9 @@ speakers:
       web       :
     - name      : Thurley, Kevin (PI)
       group     : Systems Biology of Inflammation
+      location  : ITB-House4
+      web       :
+    - name      : Kuokkanen, Paula
+      group     : Theoretical Neuroscience
       location  : ITB-House4
       web       :

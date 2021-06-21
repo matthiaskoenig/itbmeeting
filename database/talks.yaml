@@ -1,4 +1,8 @@
 talks:
+    - name: Kuokkanen, Paula
+      date: 2021-06-15
+      title: "Predicting click-elicited single auditory unit contributions to EEG in the barn owl"
+      slides:
     - name: Thurley, Kevin (PI)
       date: 2021-06-08
       title: "Epigenetic auto-stabilization - evidence for a new network motif in the control of Th cell lineage identity."

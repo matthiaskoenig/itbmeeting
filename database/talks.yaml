@@ -1,4 +1,8 @@
 talks:
+    - name: Contreras, Susana
+      date: 2021-06-22
+      title: "Simplifying complicated neuronal models"
+      slides:
     - name: Kuokkanen, Paula
       date: 2021-06-15
       title: "Predicting click-elicited single auditory unit contributions to EEG in the barn owl"
